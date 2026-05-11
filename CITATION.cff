@@ -4,8 +4,8 @@ title: "Food & Beverage Domains"
 type: dataset
 authors:
   - name: "Unique Domains"
-version: "2026-05-09"
-date-released: "2026-05-09"
+version: "2026-05-11"
+date-released: "2026-05-11"
 url: "https://unique.domains/domains/sector/Food%20and%20Beverage"
 repository-code: "https://github.com/UniqueDomains/food-and-beverage-oneword-domains"
 license: "See LICENSE"
