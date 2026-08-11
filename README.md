@@ -1,29 +1,29 @@
-# Food & Beverage Domains (23,711)
+# One-Word Food & Beverage Domain Names (186,372)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C711%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-186%2C372%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-These domains are food and beverage names tied to terms like food, beverage, dining, grocery, cocktail, bread, and snack. Updated daily. This selection includes 23,656 domains across 505 TLDs, with a median ask of $1,937.
+This selection includes one-word domain names built around food and beverage keywords, spanning 506 TLDs. The median ask across this set is $747. Updated daily, it covers culinary and drink-related terms across mainstream and niche extensions.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,711 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **186,372 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,711 domains · **Median ask:** $1,987.30 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 186,372 domains · **Median ask:** $717.35 · **High-demand under $2,500:** 472
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/sector/Food%20and%20Beverage`  
+**Last updated:** 2026-08-11
+**Canonical page:** `https://unique.domains/domains/sector/food-and-beverage`
 **Best for:** founders, investors, studios
 
 ---
 
 <p align="center">
-  <a href="https://unique.domains/domains/sector/Food%20and%20Beverage?utm_source=github&utm_medium=referral&utm_campaign=repo_food_and_beverage_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
+  <a href="https://unique.domains/domains/sector/food-and-beverage?utm_source=github&utm_medium=referral&utm_campaign=repo_food_and_beverage_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./food-and-beverage.csv">CSV</a> / <a href="./food-and-beverage.json">JSON</a>
   · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_food_and_beverage_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_food_and_beverage_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
@@ -31,25 +31,25 @@ These domains are food and beverage names tied to terms like food, beverage, din
 
 ---
 
-➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/sector/Food%20and%20Beverage?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_food_and_beverage_oneword_domains&utm_content=top_create_radar)  
-➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/sector/Food%20and%20Beverage?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_food_and_beverage_oneword_domains&utm_content=top_start_project)  
+➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/sector/food-and-beverage?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_food_and_beverage_oneword_domains&utm_content=top_create_radar)  
+➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/sector/food-and-beverage?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_food_and_beverage_oneword_domains&utm_content=top_start_project)  
 ➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_food_and_beverage_oneword_domains&utm_content=top_api_docs)
 
 ---
 
 ## 📦 What this repository contains
 
-This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/sector/Food%20and%20Beverage`.
+This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/sector/food-and-beverage`.
 
 ### Files
 
-- `food-and-beverage.csv` — public CSV extract (1,000 rows)
-- `food-and-beverage.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `food-and-beverage.csv`, public CSV extract (1,000 rows)
+- `food-and-beverage.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| restaurant.shop | premium   | $6,250    | —             | 82             | 32     | 10     | name.com                                     |
-| food.bio        | resell    | —         | —             | 94             | 44     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| food.media      | resell    | —         | —             | 94             | 44     | 4      | Porkbun LLC                                  |
-| food.place      | resell    | —         | —             | 94             | 44     | 4      | Porkbun LLC                                  |
-| food.rodeo      | resell    | —         | —             | 94             | 44     | 4      | Porkbun                                      |
-| food.school     | resell    | —         | —             | 94             | 44     | 4      | Porkbun LLC                                  |
-| food.solutions  | resell    | —         | —             | 94             | 44     | 4      | Porkbun LLC                                  |
-| Foods.so        | available | $68.98    | —             | 56             | 92     | 5      | namecheap                                    |
-| beverage.co     | resell    | $86,250   | $48.99        | 60             | 88     | 8      | GoDaddy.com, LLC                             |
-| Foods.tech      | premium   | $812.50   | $3,250        | 56             | 92     | 5      | namecheap                                    |
-| Foods.ninja     | available | $42.98    | —             | 56             | 92     | 5      | namecheap                                    |
-| food.services   | resell    | $260      | $260          | 94             | 44     | 4      | Spaceship, Inc.                              |
-| Foods.store     | premium   | $1,625    | $6,500        | 56             | 92     | 5      | namecheap                                    |
-| beverage.zone   | available | $51.98    | —             | 60             | 88     | 8      | namecheap                                    |
-| food.discount   | resell    | $41.25    | $41.25        | 94             | 44     | 4      | Dynadot Inc                                  |
-| Foods.space     | premium   | $1,625    | $6,500        | 56             | 92     | 5      | namecheap                                    |
-| beverage.so     | available | $68.98    | —             | 60             | 88     | 8      | namecheap                                    |
-| dining.org      | resell    | $51,175   | $21.99        | 81             | 15     | 6      | GoDaddy.com, LLC                             |
-| Foods.site      | premium   | $325      | $1,300        | 56             | 92     | 5      | namecheap                                    |
-| beverage.ninja  | available | $42.98    | —             | 60             | 88     | 8      | namecheap                                    |
+| domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                           |
+| --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| breakfast.cafe  | resell    | —           | —             | high           | low    | 9      | NameSilo, LLC                                       |
+| room.management | resell    | —           | —             | high           | low    | 4      | Porkbun LLC                                         |
+| ale.restaurant  | available | $29.99      | —             | medium         | low    | 3      | name.com                                            |
+| room.co         | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC                                    |
+| ale.bar         | premium   | $1,968.75   | —             | medium         | low    | 3      | name.com                                            |
+| bar.recipes     | available | $11.99      | —             | high           | low    | 3      | name.com                                            |
+| room.me         | resell    | $25,286.20  | $27.99        | high           | low    | 4      | Dynadot Inc                                         |
+| ale.cooking     | premium   | $47.20      | $29.50        | medium         | low    | 3      | namesilo                                            |
+| non.coffee      | available | $23.99      | —             | high           | low    | 3      | name.com                                            |
+| bar.pub         | resell    | —           | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| ale.food        | premium   | $980        | $1,400        | medium         | low    | 3      | namecheap                                           |
+| non.restaurant  | available | $29.99      | —             | high           | low    | 3      | name.com                                            |
+| out.rest        | resell    | —           | —             | high           | low    | 3      | Spaceship, Inc.                                     |
+| ale.rest        | premium   | $787.50     | —             | medium         | low    | 3      | name.com                                            |
+| non.vin         | available | $11.99      | —             | high           | low    | 3      | name.com                                            |
+| tea.vin         | resell    | —           | —             | high           | low    | 3      | Sav.com, LLC - 33                                   |
+| bar.beer        | premium   | $500        | —             | high           | low    | 3      | name.com                                            |
+| out.recipes     | available | $11.99      | —             | high           | low    | 3      | name.com                                            |
+| arts.beer       | resell    | —           | —             | high           | low    | 4      | Spaceship, Inc.                                     |
+| bar.cooking     | premium   | $96         | $29.50        | high           | low    | 3      | namesilo                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,39 +93,39 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,711 live domains                        |
+| 1,000-row public sample | 186,372 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 472 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
-[Create Radar](https://unique.domains/domains/sector/Food%20and%20Beverage?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_food_and_beverage_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/sector/Food%20and%20Beverage?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_food_and_beverage_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_food_and_beverage_oneword_domains&utm_content=related_pricing)
+[Create Radar](https://unique.domains/domains/sector/food-and-beverage?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_food_and_beverage_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/sector/food-and-beverage?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_food_and_beverage_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_food_and_beverage_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection focuses on domains connected to food and beverage terms. The set includes broad category words and commercial terms such as snack, bread, diner, dining, alcohol, grocery, and cocktail. Examples in this list include snack.shop, dining.shop, alcohol.shop, grocery.shop, cocktail.shop, and several .ryukyu names such as snack.ryukyu and bread.ryukyu. When comparing these domains, start with exact term quality, TLD relevance, and total acquisition cost. The median ask is $1,937, which gives a useful pricing reference for this category. For founders, prioritize memorability and category fit. For investors, focus on term clarity, resale comparability, and whether the extension supports buyer demand.
+This list gathers one-word domain names centered on food and beverage terminology — from core culinary words to drink-related terms — spread across 506 different TLD extensions. With a median ask near $747, the set ranges from affordable niche-extension names to premium mainstream picks. Because keyword-based domains can span dozens of unrelated extensions, comparing TLD recognition, renewal cost, and spelling clarity is essential before choosing one for a brand or portfolio.
 
-- Median ask is $1,937 across this selection
-- Covers 23,656 domains in 505 TLDs
-- Includes food, dining, grocery, and cocktail terms
-- Check TLD fit before paying for a broad keyword
+- 184,559 one-word domains tied to food & beverage keywords
+- Spans 506 TLD extensions, from mainstream to niche
+- Median ask across this set: $747
+- Mix of culinary, drink, and food-industry terms
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,14 +142,14 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Food & Beverage Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Food & Beverage Domain Names*. Version 2026-08-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 
 ## 🔗 Related links
 
-- [Live search](https://unique.domains/domains/sector/Food%20and%20Beverage?utm_source=github&utm_medium=referral&utm_campaign=repo_food_and_beverage_oneword_domains&utm_content=top_open_search)
+- [Live search](https://unique.domains/domains/sector/food-and-beverage?utm_source=github&utm_medium=referral&utm_campaign=repo_food_and_beverage_oneword_domains&utm_content=top_open_search)
 - [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_food_and_beverage_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_food_and_beverage_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_food_and_beverage_oneword_domains&utm_content=top_api_docs)
