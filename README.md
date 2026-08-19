@@ -1,10 +1,10 @@
-# One-Word Food & Beverage Domain Names (197,488)
+# One-Word Food & Beverage Domain Names (205,672)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-197%2C488%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-205%2C672%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes one-word domain names built around food and beverage keywords, spanning 506 TLDs. The median ask across this set is $747. Updated daily, it covers culinary and drink-related terms across mainstream and niche extensions.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **197,488 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **205,672 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 197,488 domains · **Median ask:** $681.16 · **High-demand under $2,500:** 457
+**Public extract:** 1,000 rows · **Live catalog:** 205,672 domains · **Median ask:** $657.95 · **High-demand under $2,500:** 491
 
 **Last updated:** 2026-08-18
 **Canonical page:** `https://unique.domains/domains/sector/food-and-beverage`
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                      |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
-| rum.pub         | available | $39.99    | $39.99        | medium         | low    | 3      | namesilo                       |
-| bar.tienda      | resell    | —         | —             | high           | low    | 3      | Soluciones Corporativas IP, SL |
+| non.ryukyu      | available | $22.98    | —             | high           | low    | 3      | namecheap                      |
+| bar.cafe        | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 26              |
 | out.bar         | premium   | $393.75   | —             | high           | low    | 3      | name.com                       |
+| cake.restaurant | available | $29.99    | —             | high           | low    | 4      | name.com                       |
+| bar.tienda      | resell    | —         | —             | high           | low    | 3      | Soluciones Corporativas IP, SL |
+| out.food        | premium   | $980      | $1,400        | high           | low    | 3      | namecheap                      |
 | room.beer       | available | $1.99     | —             | high           | low    | 4      | name.com                       |
 | out.rest        | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                |
-| pub.rest        | premium   | $1,968.75 | —             | high           | low    | 3      | name.com                       |
+| pub.bar         | premium   | $7,875    | —             | high           | low    | 3      | name.com                       |
 | room.cooking    | available | $32.49    | $32.49        | high           | low    | 4      | namesilo                       |
 | pop.shop        | resell    | —         | —             | high           | medium | 3      | GoDaddy.com LLC                |
-| tea.boston      | premium   | $242      | $21.24        | medium         | medium | 3      | namesilo                       |
+| pub.rest        | premium   | $1,968.75 | —             | high           | low    | 3      | name.com                       |
 | room.restaurant | available | $29.99    | —             | high           | low    | 4      | name.com                       |
 | pub.school      | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC               |
-| tea.cooking     | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo                       |
+| tea.boston      | premium   | $242      | $21.24        | medium         | medium | 3      | namesilo                       |
 | room.vin        | available | $11.99    | —             | high           | low    | 4      | name.com                       |
-| tea.ai          | resell    | —         | —             | medium         | medium | 3      | 101domain GRS Limited          |
-| food.pub        | premium   | $1,300    | $1,300        | high           | medium | 4      | namecheap                      |
-| soft.recipes    | available | $11.99    | $103.99       | high           | low    | 4      | name.com                       |
 | food.media      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                    |
-| food.rest       | premium   | $1,462.50 | $2,925        | high           | medium | 4      | namecheap                      |
-| soft.vodka      | available | $32.49    | $32.49        | high           | low    | 4      | namesilo                       |
+| tea.cooking     | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo                       |
+| soft.recipes    | available | $11.99    | $103.99       | high           | low    | 4      | name.com                       |
 | food.place      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 197,488 live domains                       |
+| 1,000-row public sample | 205,672 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 457 high-demand names under $2,500         |
+| Basic exported fields   | 491 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
