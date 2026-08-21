@@ -16,7 +16,7 @@ This selection includes one-word domain names built around food and beverage key
 
 **Public extract:** 1,000 rows · **Live catalog:** 206,130 domains · **Median ask:** $656.55 · **High-demand under $2,500:** 491
 
-**Last updated:** 2026-08-20
+**Last updated:** 2026-08-21
 **Canonical page:** `https://unique.domains/domains/sector/food-and-beverage`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                           |
-| --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| breakfast.cafe  | resell    | —           | —             | high           | low    | 9      | NameSilo, LLC                                       |
-| room.management | resell    | —           | —             | high           | low    | 4      | Porkbun LLC                                         |
-| ale.restaurant  | available | $29.99      | —             | medium         | low    | 3      | name.com                                            |
-| room.co         | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC                                    |
-| ale.bar         | premium   | $1,968.75   | —             | medium         | low    | 3      | name.com                                            |
-| bar.recipes     | available | $11.99      | —             | high           | low    | 3      | name.com                                            |
-| room.me         | resell    | $25,286.20  | $27.99        | high           | low    | 4      | Dynadot Inc                                         |
-| ale.cooking     | premium   | $47.20      | $29.50        | medium         | low    | 3      | namesilo                                            |
-| non.coffee      | available | $23.99      | —             | high           | low    | 3      | name.com                                            |
-| bar.cafe        | resell    | —           | —             | high           | low    | 3      | Sav.com, LLC - 26                                   |
-| ale.food        | premium   | $980        | $1,400        | medium         | low    | 3      | namecheap                                           |
-| non.restaurant  | available | $29.99      | —             | high           | low    | 3      | name.com                                            |
-| bar.pub         | resell    | —           | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| ale.rest        | premium   | $787.50     | —             | medium         | low    | 3      | name.com                                            |
-| non.vin         | available | $11.99      | —             | high           | low    | 3      | name.com                                            |
-| out.rest        | resell    | —           | —             | high           | low    | 3      | Spaceship, Inc.                                     |
-| bar.beer        | premium   | $500        | —             | high           | low    | 3      | name.com                                            |
-| out.recipes     | available | $11.99      | —             | high           | low    | 3      | name.com                                            |
-| tea.vin         | resell    | —           | —             | high           | low    | 3      | Sav.com, LLC - 33                                   |
-| bar.cooking     | premium   | $96         | $29.50        | high           | low    | 3      | namesilo                                            |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| arts.ryukyu       | available | $22.98    | —             | high           | low    | 4      | namecheap                                           |
+| ingredients.fun   | resell    | $4.99     | —             | medium         | low    | 11     | Chengdu West Dimension Digital Technology Co., Ltd. |
+| tea.boston        | premium   | $242      | $21.24        | medium         | medium | 3      | namesilo                                            |
+| grub.pub          | available | $39.99    | $39.99        | medium         | low    | 4      | namesilo                                            |
+| ingredients.homes | resell    | $1.99     | —             | medium         | low    | 11     | Spaceship, Inc.                                     |
+| chefs.bar         | premium   | $1,968.75 | —             | medium         | low    | 5      | name.com                                            |
+| grub.restaurant   | available | $11.98    | $81.98        | medium         | low    | 4      | namecheap                                           |
+| art.works         | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                         |
+| chefs.business    | premium   | $123.75   | —             | medium         | low    | 5      | name.com                                            |
+| pans.restaurant   | available | $29.99    | —             | medium         | low    | 4      | name.com                                            |
+| bar.asia          | resell    | —         | —             | high           | low    | 3      | Realtime Register B.V.                              |
+| chefs.catering    | premium   | $82.50    | —             | medium         | low    | 5      | name.com                                            |
+| room.restaurant   | available | $29.99    | —             | high           | low    | 4      | name.com                                            |
+| cup.network       | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC                                        |
+| chefs.click       | premium   | $437.50   | —             | medium         | low    | 5      | name.com                                            |
+| tart.boston       | available | $30.99    | $30.99        | low            | low    | 4      | name.com                                            |
+| pop.shop          | resell    | —         | —             | high           | medium | 3      | GoDaddy.com LLC                                     |
+| chefs.cv          | premium   | $150.50   | $94.50        | medium         | low    | 5      | namecheap                                           |
+| tart.melbourne    | available | $84.99    | $84.99        | low            | low    | 4      | name.com                                            |
+| pub.school        | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Food & Beverage Domain Names*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Food & Beverage Domain Names*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
