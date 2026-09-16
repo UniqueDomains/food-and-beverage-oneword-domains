@@ -16,7 +16,7 @@ This selection includes one-word domain names built around food and beverage key
 
 **Public extract:** 1,000 rows · **Live catalog:** 226,588 domains · **Median ask:** $608.42 · **High-demand under $2,500:** 473
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/sector/food-and-beverage`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                      |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
-| non.ryukyu      | available | $22.98    | —             | high           | low    | 3      | namecheap                      |
-| bar.tienda      | resell    | —         | —             | high           | low    | 3      | Soluciones Corporativas IP, SL |
-| out.bar         | premium   | $393.75   | —             | high           | low    | 3      | name.com                       |
-| tea.dance       | available | $10.48    | $36.98        | medium         | medium | 3      | namecheap                      |
-| out.rest        | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                |
-| pub.bar         | premium   | $7,875    | —             | high           | low    | 3      | name.com                       |
-| cake.restaurant | available | $29.99    | —             | high           | low    | 4      | name.com                       |
-| pop.shop        | resell    | —         | —             | high           | medium | 3      | GoDaddy.com LLC                |
-| pub.rest        | premium   | $1,968.75 | —             | high           | low    | 3      | name.com                       |
-| dish.auction    | available | $36.99    | $36.99        | medium         | low    | 4      | namesilo                       |
-| pub.school      | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC               |
-| tea.boston      | premium   | $242      | $21.24        | medium         | medium | 3      | namesilo                       |
-| dish.bingo      | available | $51.98    | $68.98        | medium         | low    | 4      | namecheap                      |
-| food.media      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                    |
-| tea.cooking     | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo                       |
-| dish.cat        | available | $26.98    | $38.98        | medium         | low    | 4      | namecheap                      |
-| food.place      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                    |
-| dish.bar        | premium   | $163.80   | $234          | medium         | low    | 4      | namecheap                      |
-| dish.cheap      | available | $5.98     | $49.98        | medium         | low    | 4      | namecheap                      |
-| food.restaurant | resell    | —         | —             | high           | low    | 4      | WEDOS Internet, a.s.           |
+| domain           | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar         |
+| ---------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| pub.wine         | available | $9.99       | —             | high           | low    | 3      | name.com          |
+| food.discount    | resell    | $41.25      | $41.25        | high           | medium | 4      | Dynadot Inc       |
+| bar.cooking      | premium   | $96         | $29.50        | high           | low    | 3      | namesilo          |
+| food.accountants | available | $43.99      | —             | high           | medium | 4      | name.com          |
+| food.la          | resell    | $148,062.50 | —             | high           | medium | 4      | Dynadot LLC       |
+| bar.food         | premium   | $490        | $700          | high           | low    | 3      | namecheap         |
+| food.actor       | available | $19.99      | —             | high           | medium | 4      | name.com          |
+| food.rip         | resell    | $7.99       | —             | high           | medium | 4      | Dynadot Inc       |
+| bar.restaurant   | premium   | $78.54      | $78.54        | high           | low    | 3      | namesilo          |
+| food.airforce    | available | $103.99     | $103.99       | high           | medium | 4      | namesilo          |
+| food.services    | resell    | $260        | $260          | high           | medium | 4      | Spaceship, Inc.   |
+| pub.bar          | premium   | $7,875      | —             | high           | low    | 3      | name.com          |
+| food.apartments  | available | $19.99      | —             | high           | medium | 4      | name.com          |
+| drink.io         | resell    | $29,612.50  | —             | high           | low    | 5      | GoDaddy.com, LLC  |
+| pub.cooking      | premium   | $100        | —             | high           | low    | 3      | name.com          |
+| food.archi       | available | $24.99      | —             | high           | medium | 4      | name.com          |
+| beverage.co      | resell    | $86,250     | $48.99        | medium         | low    | 8      | GoDaddy.com, LLC  |
+| pub.food         | premium   | $980        | $1,400        | high           | low    | 3      | namecheap         |
+| food.auto        | available | $1,999.99   | $2,199        | high           | medium | 4      | namesilo          |
+| bar.cafe         | resell    | —           | —             | high           | low    | 3      | Sav.com, LLC - 26 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Food & Beverage Domain Names*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Food & Beverage Domain Names*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
