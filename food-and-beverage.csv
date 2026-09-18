@@ -1,7 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 d9ec68f5-167a-4b36-a4cc-5aaba94287dc,food.restaurant,resell,,,high,low,4,"WEDOS Internet, a.s.",19/07/2015 16:00,19/07/2029 16:00,
 ff0b7d69-10a7-4ff4-9317-63904fb1a1ee,food.rest,premium,1462.5,2925,high,medium,4,namecheap,,,
-7a46aed2-5657-487f-a669-12fd577382c1,food.menu,available,,,high,low,4,,,,
 acdcfbcc-5bbe-4af6-a0ee-95867ae10749,food.cooking,premium,260,31.2,high,medium,4,namecheap,,,
 d2c88746-d676-400c-bda2-7a1b91212760,food.pub,premium,1300,1300,high,medium,4,namecheap,,,
 5383a53d-cbde-48a9-a2c2-02a334064d0f,food.bar,premium,1462.5,2925,high,medium,4,namecheap,,,
@@ -734,6 +733,7 @@ fe2a2ff1-304c-4479-a189-0f96b931fb25,chefs.cards,available,3.99,,medium,low,5,na
 a3c8b87d-36e5-4efc-9f81-482b3e763b19,refreshment.news,available,17.99,,high,low,11,name.com,,,
 91def722-c56c-4a5d-a3f6-414bf29c466a,refreshment.porn,available,154.98,,high,low,11,namecheap,,,
 f0ec7927-f14f-4da5-a209-8b9bfbff98ba,beverage.direct,available,14.98,53.98,low,low,8,namecheap,,,13/09/2026 03:58
+1321c8b1-4192-4710-80e1-1b0e958e8c4c,nutrition.cooking,premium,242,29.5,medium,low,9,namesilo,,,18/09/2026 07:53
 751845dd-408e-4007-bc41-22aca0b431a6,wines.living,premium,98,140,medium,low,5,namecheap,,,
 3f5836ac-8550-4720-8674-942e3b07a8f1,culinary.christmas,available,1.8,49.98,medium,low,8,namecheap,,,12/09/2026 04:23
 e94850cf-15c8-4d4b-b8b4-49c7c7f53f9e,ingredients.organic,available,19.99,,medium,low,11,name.com,,,
@@ -903,6 +903,7 @@ c7b784a0-81e9-4bef-9740-aef927897d03,foodie.garden,available,1.98,43.98,medium,l
 a31d819b-96f0-4c80-9d9a-c9855aa8b99b,beverage.rocks,available,7.98,29.98,low,low,8,namecheap,,,13/09/2026 03:58
 e3233797-b807-4825-bed2-29537b07bce5,dish.security,available,1999.99,2049.99,medium,low,4,namesilo,,,12/09/2026 04:25
 5fa01e72-c971-4257-9037-ecaae0528d8a,chefs.phd,premium,61.25,,medium,low,5,name.com,,,
+2b2f81cc-cb51-4023-af33-ea658717750c,nutrition.equipment,available,29.98,32.98,low,low,9,namecheap,,,18/09/2026 07:53
 613f3b80-3c42-4f16-975a-251690b4dc71,whitewine.legal,available,9.99,,high,low,10,name.com,,,
 0dfaab90-50e2-4ecb-abdd-32f31ae3abc6,catered.free,available,44.98,,medium,low,7,namecheap,,,
 0091ac37-14e9-4651-8ec0-8573eb27f8b3,wines.institute,available,9.99,,medium,low,5,name.com,,,
@@ -992,10 +993,9 @@ c558a4dc-5fe5-4280-acc4-e29cbafcf0b5,dish.directory,available,4.98,36.98,medium,
 c446e662-6479-4fc4-9cc5-28e5acfe938f,formula.paris,available,66.98,66.98,medium,low,7,namecheap,,,03/09/2026 21:16
 51c7e1ea-8fda-40aa-990f-c9654f186124,catered.futbol,available,19.99,,medium,low,7,name.com,,,
 11123f41-56fe-4b5a-a0ac-70730f4f8cdd,relish.team,available,7.99,,high,low,6,name.com,,,
+a5f79273-e456-4db3-8785-a21623f52629,nutrition.flowers,available,64.99,114.99,low,low,9,namesilo,,,18/09/2026 07:53
 f756017e-da81-4d37-9a3b-04c2be54f674,dish.clothing,available,31.98,35.68,medium,low,4,namecheap,,,12/09/2026 04:25
 bff1eb40-3572-4a9b-b254-76d96556a75d,catered.money,available,19.99,,medium,low,7,name.com,,,
 24ae5631-7bfd-47aa-af06-b600d97912e6,whitewine.technology,available,17.99,,high,low,10,name.com,,,
 39af2906-45ee-43e1-a18e-c74a36298bda,barbecues.tickets,available,359.99,389.99,medium,low,9,namesilo,,,
 efd6cdb2-896b-4505-b912-180291088be5,culinary.prof,available,25.98,29.38,medium,low,8,namecheap,,,12/09/2026 04:23
-e1347cda-2859-455c-8cff-e938665d5d55,meals.lifestyle,premium,98,140,medium,low,5,namecheap,,,
-d9d71b3a-6d06-4e4c-98a0-a77ca94842b6,meals.realty,available,179.99,,medium,low,5,name.com,,,
