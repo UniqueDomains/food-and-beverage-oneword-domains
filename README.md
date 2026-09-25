@@ -1,10 +1,10 @@
-# One-Word Food & Beverage Domain Names (98,678)
+# One-Word Food & Beverage Domain Names (88,241)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-98%2C678%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-88%2C241%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes one-word domain names built around food and beverage keywords, spanning 506 TLDs. The median ask across this set is $747. Updated daily, it covers culinary and drink-related terms across mainstream and niche extensions.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **98,678 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **88,241 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 98,678 domains · **Median ask:** $452.43 · **High-demand under $2,500:** 270
+**Public extract:** 1,000 rows · **Live catalog:** 88,241 domains · **Median ask:** $386.36 · **High-demand under $2,500:** 161
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/food-and-beverage`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                      |
-| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
-| bar.mba           | available | $11.98     | $49.98        | high           | low    | 3      | namecheap                      |
-| drink.io          | resell    | $29,612.50 | —             | high           | low    | 5      | GoDaddy.com, LLC               |
-| wine.mobile       | premium   | $1,250     | —             | high           | low    | 4      | name.com                       |
-| beer.support      | available | $8.99      | $26.99        | high           | low    | 4      | namesilo                       |
-| drink.run         | resell    | $6.99      | —             | high           | low    | 5      | Spaceship, Inc.                |
-| drink.app         | premium   | $1,998.75  | $1,998.75     | high           | low    | 5      | name.com                       |
-| drink.accountant  | available | $23.59     | $23.59        | high           | low    | 5      | namesilo                       |
-| drink.sh          | resell    | $34.98     | $76.98        | high           | low    | 5      | Spaceship, Inc.                |
-| drink.autos       | premium   | $812.50    | $20.99        | high           | low    | 5      | name.com                       |
-| drink.accountants | available | $117.99    | $117.99       | high           | low    | 5      | namesilo                       |
-| drink.technology  | resell    | $17.99     | $41.99        | high           | low    | 5      | Spaceship, Inc.                |
-| drink.bar         | premium   | $2,047.50  | $2,925        | high           | low    | 5      | namecheap                      |
-| drink.actor       | available | $9.48      | $54.98        | high           | low    | 5      | namecheap                      |
-| recipe.gg         | resell    | $82.98     | —             | high           | low    | 6      | namecheap                      |
-| drink.beauty      | premium   | $812.50    | $20.99        | high           | low    | 5      | name.com                       |
-| drink.adult       | available | $69.98     | $166.98       | high           | low    | 5      | namecheap                      |
-| bar.cafe          | resell    | —          | —             | high           | low    | 3      | Sav.com, LLC - 26              |
-| drink.beer        | premium   | $2,600     | $32.50        | high           | low    | 5      | namecheap                      |
-| drink.ag          | available | $89        | $141.99       | high           | low    | 5      | name.com                       |
-| bar.tienda        | resell    | —          | —             | high           | low    | 3      | Soluciones Corporativas IP, SL |
+| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                           |
+| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| bar.mba          | available | $11.98     | $49.98        | high           | low    | 3      | namecheap                                           |
+| drink.io         | resell    | $29,612.50 | —             | high           | low    | 5      | GoDaddy.com, LLC                                    |
+| bar.agency       | premium   | $78.54     | $78.54        | high           | low    | 3      | namesilo                                            |
+| beer.kim         | available | $12.99     | $23.49        | high           | low    | 4      | namesilo                                            |
+| drink.run        | resell    | $6.99      | —             | high           | low    | 5      | Spaceship, Inc.                                     |
+| bar.beer         | premium   | $500       | —             | high           | low    | 3      | name.com                                            |
+| beer.support     | available | $8.99      | $26.99        | high           | low    | 4      | namesilo                                            |
+| drink.sh         | resell    | $34.98     | $76.98        | high           | low    | 5      | Spaceship, Inc.                                     |
+| bar.cooking      | premium   | $96        | $29.50        | high           | low    | 3      | namesilo                                            |
+| bite.boutique    | available | $2.98      | $41.98        | high           | low    | 4      | namecheap                                           |
+| drink.technology | resell    | $17.99     | $41.99        | high           | low    | 5      | Spaceship, Inc.                                     |
+| bar.food         | premium   | $490       | $700          | high           | low    | 3      | namecheap                                           |
+| cook.vin         | available | $11.99     | —             | high           | low    | 4      | name.com                                            |
+| recipe.gg        | resell    | $82.98     | —             | high           | low    | 6      | namecheap                                           |
+| bar.restaurant   | premium   | $78.54     | $78.54        | high           | low    | 3      | namesilo                                            |
+| cook.wine        | available | $9.99      | —             | high           | low    | 4      | name.com                                            |
+| ingredients.fun  | resell    | $4.99      | —             | medium         | low    | 11     | Chengdu West Dimension Digital Technology Co., Ltd. |
+| bar.singles      | premium   | $38.94     | $38.94        | high           | low    | 3      | namesilo                                            |
+| meat.accountants | available | $117.99    | $117.99       | high           | low    | 4      | namesilo                                            |
+| bar.cafe         | resell    | —          | —             | high           | low    | 3      | Sav.com, LLC - 26                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 98,678 live domains                        |
+| 1,000-row public sample | 88,241 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 270 high-demand names under $2,500         |
+| Basic exported fields   | 161 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 

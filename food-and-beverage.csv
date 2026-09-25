@@ -1,4 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+d481059e-038f-41b4-b93c-0ce286f82d82,drink.organic,available,17.99,85.99,high,low,5,namesilo,,,04/09/2026 13:20
 054997d1-3ad1-4a92-88b6-58734df5a7ad,drink.restaurant,available,11.98,81.98,high,low,5,namecheap,,,04/09/2026 13:20
 6cc85674-db9e-4fe9-ad91-2cd846cfaf1a,drink.rest,premium,409.5,585,high,low,5,namecheap,,,04/09/2026 13:20
 4af820a1-c147-4318-9895-65fbc878b704,drink.menu,available,,,high,low,5,,,,
@@ -6,54 +7,41 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 00283a53-f7a0-4148-95c5-3ba3ec03dc93,drink.food,premium,910,1300,high,low,5,namecheap,,,04/09/2026 13:20
 defb06b7-2f0b-497a-a851-0a1d2af50889,drink.cat,available,26.98,38.98,high,low,5,namecheap,,,04/09/2026 13:20
 bf31f95f-7834-49e1-a23e-1df687a4ba85,drink.beer,premium,2600,32.5,high,low,5,namecheap,,,04/09/2026 13:20
-2db6690b-f161-4cb8-b8a0-d8af768c0dea,drink.vin,premium,242,242,high,low,5,namesilo,,,04/09/2026 13:20
 893bda8a-0dac-4573-babe-b2377b4e5a16,drink.cooking,premium,47.2,29.5,high,low,5,namesilo,,,04/09/2026 13:20
-e3ae2c5f-85ad-4737-8516-c5233cc9fcfa,cuisine.restaurant,premium,123.75,,high,low,7,name.com,,,
-433a5ded-7e38-4d57-a21f-32a185240112,drink.vodka,resell,,,high,low,5,"NameCheap, Inc.",06/05/2021 21:11,06/05/2027 21:11,04/09/2026 13:20
-e6398f5b-a20d-4fbc-9d70-5270e6b6d768,cuisine.rest,premium,787.5,,high,low,7,name.com,,,
+2db6690b-f161-4cb8-b8a0-d8af768c0dea,drink.vin,premium,242,242,high,low,5,namesilo,,,04/09/2026 13:20
 dfca44cc-1fd6-4e15-89d5-ac9afffe43ce,beverage.so,available,68.98,,high,high,8,namecheap,,,
+433a5ded-7e38-4d57-a21f-32a185240112,drink.vodka,resell,,,high,low,5,"NameCheap, Inc.",06/05/2021 21:11,06/05/2027 21:11,04/09/2026 13:20
 2b67abe9-4187-4f04-a308-58d84572c3b8,drink.recipes,premium,242,242,high,low,5,namesilo,,,04/09/2026 13:20
-13be5a92-281e-48f7-ae6a-28ea7aee903b,cuisine.menu,available,,,high,low,7,,,,
-7e4bf9a0-e2e1-4fd5-ab96-270fafb251d7,restaurant.rest,available,,,high,low,10,,,,
-a715e008-1c4a-410b-96f0-6350f89ba76b,cuisine.food,premium,490,700,high,low,7,namecheap,,,
-5b56f1cd-ca22-44da-8a80-82dce66674d9,restaurant.menu,available,,,high,low,10,,,,
-3a45855c-7bec-403a-bc2b-3a8f53295a2b,cuisine.cooking,available,43.98,,high,low,7,namecheap,,,
-2525579c-f76a-4f32-84d6-9910df93e56a,restaurant.food,premium,490,700,high,low,10,namecheap,,,
+dfeb8ab8-575f-4c25-8605-712eba5e9eea,dining.ryukyu,available,22.98,,high,low,6,namecheap,,,
+de7efea5-435d-409e-813e-6ce6f9617f91,cooking.eu,premium,20786.79,,high,low,7,Name: Realtime Register B.V. Website: https://www.realtimeregister.com,,,
+05602bd5-8891-4f87-b95c-7ea53ee1ce3c,cook.clinic,resell,,,high,low,4,Dynadot Inc,28/05/2026 19:23,28/05/2027 19:23,24/09/2026 08:03
+2b301ab4-196f-477a-b454-8fbabe0adac8,bar.solutions,premium,242,242,high,low,3,namesilo,,,24/09/2026 07:01
 00fec592-73f8-469d-87a6-8366b7b54d5a,drink.catering,available,38.99,38.99,high,low,5,namesilo,,,04/09/2026 13:20
 1a8e2adb-ff6a-44cb-a418-642df4d014b1,kitchen.ryukyu,available,22.98,,high,low,7,namecheap,,,
-66ca0a9f-b7c2-4697-baa3-7dc399197d4b,cuisine.pub,available,47.99,,high,low,7,name.com,,,
-e828a6a2-aaef-4d99-b2b8-531eeed0e91c,restaurant.cooking,premium,242,29.5,high,low,10,namesilo,,,
 04b25037-a96f-483a-b1fc-1cdd3006a332,cooking.irish,available,5.98,31.98,high,low,7,namecheap,,,08/09/2026 08:19
-9538df56-9d48-4d8b-b8be-6011f6744d8d,restaurant.pub,premium,1875,,high,low,10,name.com,,,
-f1bf18f1-afe7-44ac-9b23-05eb42fa8f92,cuisine.bar,premium,157.5,,high,low,7,name.com,,,
-55f8ce64-669b-4c85-a952-4278566a2bae,drink.us,resell,,,high,low,5,"GoDaddy.com, LLC",24/04/2002 14:05,23/04/2027 23:59,04/09/2026 13:20
-581329a5-a5b5-42a0-bbc6-7d76632f0225,restaurant.bar,available,,,high,low,10,,,,
+ce9790f0-8e05-4d0c-ae4a-89d87247137e,bar.agency,premium,78.54,78.54,high,low,3,namesilo,,,24/09/2026 08:25
 55e62a08-60f5-4583-ab20-5749d21b6a66,drink.store,premium,1625,6500,high,low,5,namecheap,,,04/09/2026 13:20
+55f8ce64-669b-4c85-a952-4278566a2bae,drink.us,resell,,,high,low,5,"GoDaddy.com, LLC",24/04/2002 14:05,23/04/2027 23:59,04/09/2026 13:20
 941f7e20-2072-48ff-b2d3-1f61fc8d00f3,drink.pizza,available,5.98,83.98,high,low,5,namecheap,,,04/09/2026 13:20
-f69fbcce-c836-4460-b753-1b8c5eb724f6,cuisine.shop,resell,,,high,low,7,Dynadot Inc.,26/09/2016 15:03,26/09/2026 23:59,
+e371e26c-7ba1-4888-84e4-7aa0b5212375,cooking.restaurant,premium,118.8,118.8,high,low,7,namesilo,,,08/09/2026 08:19
 9c3bcf54-1afc-4f3e-8c19-854e15536f9c,drink.site,premium,812.5,3250,high,low,5,namecheap,,,04/09/2026 13:20
+a37d07af-aaae-4ca3-b65c-e63cc930e46c,cooking.rest,premium,819,1170,high,low,7,namecheap,,,08/09/2026 08:19
+29d3298a-6651-4240-a66e-63a37fa289ac,drink.space,premium,3250,13000,high,low,5,namecheap,,,04/09/2026 13:20
 3266cf55-9033-46a4-afe3-3521f584fe15,drink.online,premium,1625,6500,high,low,5,namecheap,,,04/09/2026 13:20
 846006c0-da52-44dd-a7a4-835277bf8fde,drink.zone,resell,,,high,low,5,"DNSPod, Inc.",06/02/2018 23:46,06/02/2027 23:46,04/09/2026 13:20
-29d3298a-6651-4240-a66e-63a37fa289ac,drink.space,premium,3250,13000,high,low,5,namecheap,,,04/09/2026 13:20
-20b25e40-0b88-4a0d-9f37-474ed8f6d06a,cuisine.catering,available,46.99,,high,low,7,name.com,,,
 bdfd0323-10bf-4ae6-8325-6d519782f5a0,drink.co,resell,,,high,low,5,"GoDaddy.com, LLC",22/04/2010 17:03,21/04/2027 23:59,04/09/2026 13:20
-e371e26c-7ba1-4888-84e4-7aa0b5212375,cooking.restaurant,premium,118.8,118.8,high,low,7,namesilo,,,08/09/2026 08:19
+9a4d8e03-97f8-4f01-927c-3f28b3176032,cooking.food,premium,910,1300,high,low,7,namecheap,,,08/09/2026 08:19
 c6c3514c-df1a-4c79-8d83-6e414b9eb8d5,drink.paris,premium,365.01,365.01,high,low,5,name.com,,,24/08/2026 06:32
-52a48a76-2537-4ffe-9638-40ac87d11377,cuisine.coffee,available,23.99,,high,low,7,name.com,,,
 d61a7b65-20a0-46e6-b7ea-4e6a83577542,drink.osaka,available,32.98,41.98,high,low,5,namecheap,,,04/09/2026 13:20
-ab7fc7c2-aa24-40fb-b096-4aad12a32ac4,restaurant.coffee,resell,,,high,low,10,Dynadot Inc,08/08/2023 08:18,08/08/2028 08:18,
 d62dd86b-3e7c-4784-8ba5-47db729274ae,drink.dev,premium,421.12,421.12,high,low,5,namesilo,,,04/09/2026 13:20
-a37d07af-aaae-4ca3-b65c-e63cc930e46c,cooking.rest,premium,819,1170,high,low,7,namecheap,,,08/09/2026 08:19
 e1dffbc3-c7b8-4534-8de0-a8bfec33aaac,drink.ninja,premium,118.8,118.8,high,low,5,namesilo,,,04/09/2026 13:20
 7c40e851-2e97-4e5a-9667-201abe86eb91,drink.tech,premium,1625,6500,high,low,5,namecheap,,,04/09/2026 13:20
-b3ce6dbf-3601-447c-a41a-1cf0a6f6633d,cuisine.beer,available,43.98,,high,low,7,namecheap,,,
+e193dfb5-ccf9-4def-98b7-fbdf39143f19,cooking.menu,available,,,high,low,7,,,,
 2321fdba-7887-430d-b6be-ed73af631598,drink.cloud,resell,,,high,low,5,"Dynadot, LLC",16/02/2016 15:00,16/02/2027 15:00,04/09/2026 13:20
 a7602cb7-b71d-40cd-84c3-2edf1da4b7fb,drink.mx,resell,,,high,low,5,"Namecheap, Inc.",17/10/2019 00:00,17/10/2026 00:00,04/09/2026 13:20
+c9b5b38d-ead2-4834-b3a1-139a560131c1,pub.school,resell,,,high,low,3,"GoDaddy.com, LLC",21/11/2024 08:32,21/11/2026 08:32,
 53ebd516-73b5-4e61-aa76-9ba70190fa66,drink.bayern,available,34.99,34.99,high,low,5,namesilo,,,04/09/2026 13:20
-8b4b93b1-191c-4603-9721-bfb78626d035,cuisine.wine,premium,250,,high,low,7,name.com,,,
-36339102-e11d-44db-8202-fe94db9d13ef,cuisine.vin,premium,123.75,,high,low,7,name.com,,,
 3c1f64d7-94de-4c0e-bac0-610a77e6d17a,drink.app,premium,1998.75,1998.75,high,low,5,name.com,,,04/09/2026 13:20
-805cb3e2-1c0b-4462-af09-67d72fad2839,restaurant.catering,premium,118.8,118.8,high,low,10,namesilo,,,
 b1cd490a-6933-4e4f-bf18-6e9ff26d3148,drink.delivery,resell,,,high,low,5,Dynadot Inc,22/01/2026 17:00,22/01/2027 17:00,04/09/2026 13:20
 4e435283-2f71-43c5-8f3a-2547a441f72c,drink.fast,premium,116,118.8,high,low,5,namesilo,,,04/09/2026 13:20
 56a26913-42e6-411c-b216-1344ee788e69,drink.xyz,resell,,,high,low,5,Dynadot Inc,02/06/2014 16:16,02/06/2027 23:59,04/09/2026 13:20
@@ -61,7 +49,6 @@ b1cd490a-6933-4e4f-bf18-6e9ff26d3148,drink.delivery,resell,,,high,low,5,Dynadot 
 ccc94598-3534-4ef1-831b-85acd18b3040,drink.farm,available,4.98,49.98,high,low,5,namecheap,,,04/09/2026 13:20
 dc033813-401c-411b-9fb3-6a4592a31500,drink.miami,premium,5200,23.4,high,low,5,namecheap,,,04/09/2026 13:20
 f9a60267-abab-4b7c-a142-26079c115143,drink.garden,premium,854,29.5,high,low,5,namesilo,,,04/09/2026 13:20
-24a68dc0-1545-4de3-8df1-20254894f21d,cuisine.rsvp,resell,,,high,low,7,"Spaceship, Inc.",07/06/2024 15:57,07/06/2026 15:57,
 58c30917-05c8-4261-ac87-3cf373d2b060,drink.barcelona,available,38.98,38.98,high,low,5,namecheap,,,04/09/2026 13:20
 644cd872-22e7-4a10-a891-36129d84810a,drink.boston,resell,,,high,low,5,"GoDaddy.com, LLC",12/10/2017 21:24,12/10/2026 21:24,04/09/2026 13:20
 629cf479-c796-4f3c-9578-44a0128b474c,drink.melbourne,available,44.98,53.98,high,low,5,namecheap,,,04/09/2026 13:20
@@ -69,7 +56,6 @@ f9a60267-abab-4b7c-a142-26079c115143,drink.garden,premium,854,29.5,high,low,5,na
 5ed18cd7-5a95-475c-bc49-40e741afdf41,drink.berlin,premium,405.6,405.6,high,low,5,namecheap,,,04/09/2026 13:20
 f3e2ff6a-e86c-44f8-b4c9-22e6651de0fc,drink.sydney,available,44.98,54.98,high,low,5,namecheap,,,04/09/2026 13:20
 5da6c356-697a-42e3-80a0-ea91aa74a51c,drink.london,premium,346.33,31.93,high,low,5,namesilo,,,04/09/2026 13:20
-9a4d8e03-97f8-4f01-927c-3f28b3176032,cooking.food,premium,910,1300,high,low,7,namecheap,,,08/09/2026 08:19
 152a5534-5e8d-4ee6-9289-511b254bad4b,drink.lifestyle,premium,910,1300,high,low,5,namecheap,,,04/09/2026 13:20
 ba69e5b0-f761-48c8-af96-8a5160c9915b,drink.living,premium,910,1300,high,low,5,namecheap,,,04/09/2026 13:20
 b10b53df-96d0-452d-9ddc-81bffd95ad54,drink.gg,resell,,,high,low,5,Chang Wen Ling t/a private.tw (http://www.private.tw),,,04/09/2026 13:20
@@ -77,28 +63,28 @@ d4249ffe-ed40-446b-9f02-339202c92375,drink.horse,available,32.49,32.49,high,low,
 29dab033-0d0b-408c-b7ae-25c17a36f025,drink.pet,available,6.98,35.98,high,low,5,namecheap,,,04/09/2026 13:20
 eb5664f8-cdb0-4086-9e13-2cf5eefe7a6e,drink.vet,available,41.99,41.99,high,low,5,namesilo,,,04/09/2026 13:20
 2f7b5e34-8d49-43cd-8d00-f6314ec431e1,drink.dog,available,5.98,86.98,high,low,5,namecheap,,,04/09/2026 13:20
-d49c09c9-332f-4dd3-8ab9-34a15e2d5bad,restaurant.wine,premium,242,242,high,low,10,namesilo,,,
 b72f6db3-43bf-4b7c-8d18-63367b11b527,drink.ag,available,89,141.99,high,low,5,name.com,,,04/09/2026 13:20
 d6f729d2-ab8b-4567-9740-4ec27e3806ab,drink.cv,premium,260.8,80.33,high,low,5,namesilo,,,04/09/2026 13:20
 61c359c9-9bc7-41bb-a70a-fe836b00cb8e,drink.pw,premium,1107,1107,high,low,5,namesilo,,,04/09/2026 13:20
 15bbadab-9fef-424c-ae62-5a9f9b16537b,drink.sh,resell,34.98,76.98,high,low,5,"Spaceship, Inc.",30/08/2026 12:11,30/08/2027 12:11,04/09/2026 13:20
-236e62cf-1744-4ee6-9a2f-e3a108b2fa01,restaurant.at,available,,,high,low,10,,,,
-e193dfb5-ccf9-4def-98b7-fbdf39143f19,cooking.menu,available,,,high,low,7,,,,
 4d362e2d-a979-4ef4-b253-7c9622b99948,drink.io,resell,29612.5,,high,low,5,"GoDaddy.com, LLC",25/02/2011 02:04,25/02/2027 02:04,
+f98fe436-3c17-43c2-9abc-4e4b98093512,foodie.vin,available,6.98,75.98,high,low,6,namecheap,,,17/08/2026 10:47
 1dab7461-e3d3-4a92-b78a-c204fa017bca,drink.glass,available,72.99,72.99,high,low,5,namesilo,,,04/09/2026 13:20
 f55a7d3b-0af6-40c8-bd8a-68c104c0196c,drink.ryukyu,available,22.98,,high,low,5,namecheap,,,
+dc220695-b3cd-445f-96b9-81ad3d1b4e12,meal.at,available,,,high,high,4,,,,
 9ae1e14b-3d6c-4a64-9020-01ac5b9ab15d,drink.tienda,available,59.99,59.99,high,low,5,namesilo,,,04/09/2026 13:20
 517cd346-f09a-4d71-8979-afbf17d03ad4,drink.cc,resell,,,high,low,5,"22net, Inc.",07/04/2006 08:04,07/04/2027 08:04,04/09/2026 13:20
 cf62563f-0062-47d7-92a4-de84c50c9e98,drink.im,available,,,high,low,5,,,,
 8e8fafd7-a6a0-4799-b6dc-e54e0b14122e,drink.foo,premium,1298.7,1298.7,high,low,5,namecheap,,,04/09/2026 13:20
-cf4d05cf-e589-41fc-9dc5-fad554e11ed8,restaurant.beer,available,,,high,low,10,,,,
+94fdd9de-169e-437b-86c0-e41a05700853,kitchen.restaurant,premium,118.8,118.8,high,low,7,namesilo,,,
+2af8a0a8-ca5f-4a1d-8eac-d0fc09731c74,coffee.deals,resell,,,high,medium,6,Dynadot Inc,01/10/2014 05:19,01/10/2026 05:19,
 72c75237-e66a-4db6-bec5-ed29424fc65b,drink.pink,available,,,high,low,5,,,,
 329d97ef-8f59-4083-b03a-87b2823b2ce9,drink.diet,available,104.99,114.99,high,low,5,namesilo,,,04/09/2026 13:20
 7160e53c-6d3f-4ada-b66b-929fbe9a206a,drink.agency,resell,,,high,low,5,"Sav.com, LLC - 37",24/07/2026 15:16,24/07/2027 15:16,04/09/2026 13:20
 512eeb52-d7ce-44be-807b-e4e79aea7cc4,drink.desi,available,19.98,22.98,high,low,5,namecheap,,,04/09/2026 13:20
 204c2f66-68dd-4b47-a83c-97cd40585796,drink.archi,available,14.98,132.98,high,low,5,namecheap,,,04/09/2026 13:20
 a43bc303-476a-4b81-b516-cc19521871a8,drink.market,resell,,,high,low,5,"GoDaddy.com, LLC",13/06/2021 12:45,13/06/2027 12:45,04/09/2026 13:20
-c8606f7f-af73-4c95-91c1-6de553b41fe3,drink.studio,resell,,,high,low,5,Squarespace Domains II LLC,24/04/2023 15:15,24/04/2027 15:15,04/09/2026 13:20
+fa822610-2c13-431c-a47c-578f2efe68b2,kitchen.rest,premium,787.5,,high,low,7,name.com,,,
 a1b8e44e-9656-4d03-9dca-5200324d98a8,drink.soccer,available,25.99,25.99,high,low,5,namesilo,,,04/09/2026 13:20
 6f462f7a-d423-495b-ada5-198dca5aabbb,drink.futbol,available,5.98,21.98,high,low,5,namecheap,,,04/09/2026 13:20
 8e603aa3-90ed-48dc-aa9d-199097a97b3e,drink.boutique,available,2.98,41.98,high,low,5,namecheap,,,04/09/2026 13:20
@@ -107,6 +93,7 @@ fde07b35-02fa-4f30-ba83-ba3f2155206f,drink.giving,available,7.48,35.98,high,low,
 430427ef-308c-40d1-9eaa-f3b7bd032e79,drink.supplies,available,24.99,24.99,high,low,5,namesilo,,,04/09/2026 13:20
 e0613a1d-50f8-4fc5-acef-b2df90b1d3ed,drink.diy,premium,875,1250,high,low,5,name.com,,,04/09/2026 13:20
 4cbe078b-8d55-4427-8fb8-041f8415e793,drink.how,premium,244.4,244.4,high,low,5,namecheap,,,04/09/2026 13:20
+d3eb1a27-17d3-479d-b8d0-a0c97d161d34,kitchen.food,premium,1960,2800,high,low,7,namecheap,,,
 637bc8bd-2e45-4751-874d-877d90f5b8d4,drink.org,resell,,,high,low,5,"Spaceship, Inc.",10/06/1998 04:00,09/06/2030 04:00,
 2c834877-cb55-404a-a3f1-523b24da7759,drink.wedding,premium,96,29.5,high,low,5,namesilo,,,04/09/2026 13:20
 7192c705-bf76-48f3-8247-64ae44e4b935,drink.baby,available,1.8,81.98,high,low,5,namecheap,,,04/09/2026 13:20
@@ -128,6 +115,7 @@ f4add40e-43ca-4326-a1a9-5f29047baf23,drink.equipment,available,28.99,28.99,high,
 da543554-88aa-42f1-8046-3c2d9e9cac06,drink.christmas,available,1.8,49.98,high,low,5,namecheap,,,04/09/2026 13:20
 dc7ac1ae-3725-469f-8a1f-3e4ab0715aed,drink.ooo,premium,9660,119.99,high,low,5,namesilo,,,04/09/2026 13:20
 be7e3c0d-123d-4ca9-aa1d-2bd73a55d8ee,drink.salon,available,55.98,69.98,high,low,5,namecheap,,,04/09/2026 13:20
+c8606f7f-af73-4c95-91c1-6de553b41fe3,drink.studio,resell,,,high,low,5,Squarespace Domains II LLC,24/04/2023 15:15,24/04/2027 15:15,04/09/2026 13:20
 bda1cb08-eeae-420b-bea5-5e35efc88da4,drink.eco,premium,1950,74.75,high,low,5,namecheap,,,04/09/2026 13:20
 eeca1ef5-309d-46e8-b296-8d6f7dcc66b8,drink.green,premium,302.5,302.5,high,low,5,namesilo,,,04/09/2026 13:20
 3a08c2bc-27c4-4342-9215-36ffc32e472c,drink.makeup,premium,812.5,20.99,high,low,5,name.com,,,
@@ -148,8 +136,8 @@ f3f40aaa-5d95-4cd2-a1c4-3e6e2225850f,drink.hair,premium,812.5,20.99,high,low,5,n
 216f07ca-8297-4530-a5ef-ebb782ef5d22,drink.healthcare,available,88.99,88.99,high,low,5,namesilo,,,04/09/2026 13:20
 34bc693d-1b1f-48b1-bf92-8356c0fd916e,drink.health,premium,1107,71.4,high,low,5,namesilo,,,04/09/2026 13:20
 a605b2e4-fbbd-4c61-a4bb-25e3ae301137,drink.dealer,premium,2015,2600,high,low,5,namecheap,,,04/09/2026 13:20
+bb29f2e4-3535-4c3b-a7c6-00d7e47c3130,grocery.eu,resell,,,high,low,7,"Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html",,,08/09/2026 13:48
 488d2754-19b8-489a-bff3-2a601235ea51,drink.blue,premium,1107,1107,high,low,5,namesilo,,,04/09/2026 13:20
-60a6790b-6318-4a73-87b8-f7c609a67299,cuisine.kitchen,available,14.99,,high,low,7,name.com,,,
 3ccd77d0-ee43-4ccf-8ee3-ded992954cc1,drink.show,resell,,,high,low,5,"DNSPod, Inc.",16/04/2024 15:15,16/04/2027 15:15,04/09/2026 13:20
 b75f2737-4f8d-4cd5-acbb-1dc1de09439e,drink.gratis,available,23.99,23.99,high,low,5,namesilo,,,04/09/2026 13:20
 6b1bae05-f47f-4067-9d18-89d896205528,drink.free,premium,640,640,high,low,5,namesilo,,,04/09/2026 13:20
@@ -173,7 +161,6 @@ f843dae8-4718-4ccf-9752-c3a6c8c28644,drink.dentist,available,63.98,81.98,high,lo
 d5bc7017-ac72-445f-bce0-70bb8083b8dc,drink.dental,available,78.99,78.99,high,low,5,namesilo,,,04/09/2026 13:20
 cb7c6983-5a3a-49cf-b5e6-60670637e263,drink.services,resell,,,high,low,5,"GoDaddy.com, LLC",07/07/2026 17:04,07/07/2027 17:04,04/09/2026 13:20
 a521ec87-48bd-4179-9430-021a1892518b,drink.industries,premium,242,242,high,low,5,namesilo,,,04/09/2026 13:20
-d97a3988-7215-48d4-9a5c-d883d9dabc6b,cuisine.vodka,available,43.98,,high,low,7,namecheap,,,
 9ed2adbd-c94d-421e-9c27-5925666111ee,drink.plumbing,available,72.99,72.99,high,low,5,namesilo,,,04/09/2026 13:20
 62585a17-6a5e-47f8-9935-163bfe446780,drink.audio,available,104.99,114.99,high,low,5,namesilo,,,04/09/2026 13:20
 f9b48c3c-5be1-4bc7-b272-aa1d38ca4b30,drink.guitars,available,104.99,114.99,high,low,5,namesilo,,,04/09/2026 13:20
@@ -194,11 +181,13 @@ e73ca366-4880-4c67-88c3-c1823bd4a9d4,drink.auto,available,1999.99,2199,high,low,
 ed85339b-5237-4b99-8777-9c2df8f19faa,drink.attorney,available,62.99,62.99,high,low,5,namesilo,,,04/09/2026 13:20
 57ad57b2-598c-4c4e-be28-35c44b0677b6,drink.legal,available,9.99,92.99,high,low,5,name.com,,,04/09/2026 13:20
 3d7d8320-b54e-441e-8315-de320f578a43,drink.esq,premium,1688.7,1688.7,high,low,5,namecheap,,,04/09/2026 13:20
+901e9c61-d0de-4ed8-a911-04dccc809982,kitchen.menu,available,,,high,low,7,,,,
 d784f631-8709-4375-a08e-02084006521e,drink.navy,available,41.99,41.99,high,low,5,namesilo,,,04/09/2026 13:20
 48af380e-3518-4a47-88d0-f67d42d4e57c,drink.airforce,available,103.99,103.99,high,low,5,namesilo,,,04/09/2026 13:20
 9c9a72b7-56f0-499e-aa84-49d703363fa6,drink.army,available,17.48,48.98,high,low,5,namecheap,,,04/09/2026 13:20
 3c69aaaf-b9c3-4016-bfa7-8eeb9269cf3f,drink.theater,available,65.99,65.99,high,low,5,namesilo,,,04/09/2026 13:20
 8d91b25e-6d7b-4021-a0d2-be30e5c8bfe6,drink.theatre,available,509.99,529.99,high,low,5,namesilo,,,04/09/2026 13:20
+36a379de-4464-4f27-850c-74cb75c614eb,bar.tienda,resell,,,high,low,3,"Soluciones Corporativas IP, SL",20/02/2025 13:42,20/02/2027 13:42,
 9715e449-e5bb-46a3-8e4c-6af33d0f6880,drink.repair,available,5.98,47.48,high,low,5,namecheap,,,04/09/2026 13:20
 696ee4e0-308d-4c35-ab9c-47c846527d72,drink.fashion,premium,47.2,29.5,high,low,5,namesilo,,,04/09/2026 13:20
 91e2a712-3a03-43c6-afe7-8ed1d53e1b73,drink.shoes,available,34.98,81.98,high,low,5,namecheap,,,04/09/2026 13:20
@@ -220,14 +209,13 @@ c0dce7a9-015f-492a-a23d-2fa5d8135e2a,drink.travel,available,39.99,189.99,high,lo
 a3b84288-8a66-40eb-bb81-d39eca1a1a17,drink.help,premium,448,640,high,low,5,namesilo,,,04/09/2026 13:20
 80a23ab2-17c2-4480-892a-799ef3ee9834,drink.hospital,available,55.98,71.98,high,low,5,namecheap,,,04/09/2026 13:20
 d69c401b-0665-444e-a66f-036f1e460524,drink.doctor,available,5.98,154.98,high,low,5,namecheap,,,04/09/2026 13:20
-94fdd9de-169e-437b-86c0-e41a05700853,kitchen.restaurant,premium,118.8,118.8,high,low,7,namesilo,,,
+20031f2d-72db-408f-a7f3-7271d7810bfe,formula.restaurant,available,11.98,81.98,high,low,7,namecheap,,,03/09/2026 21:16
 79089f6d-4d03-445f-825e-0c5cab184073,drink.clothing,available,19.99,46.99,high,low,5,name.com,,,04/09/2026 13:20
 e012cced-3b68-4f70-93c1-b78db1e2a194,drink.men,available,,,high,low,5,,,,
 6832f251-80ce-411e-9ae1-8ff77efd896e,drink.tickets,available,359.99,488.88,high,low,5,namesilo,,,04/09/2026 13:20
 3baade16-ffbc-47c3-a253-49dd5e509a02,drink.rsvp,premium,1298.7,1298.7,high,low,5,namecheap,,,04/09/2026 13:20
 fa4f34bc-c01c-41f2-8f21-ffd3aced4f1d,drink.center,resell,,,high,low,5,"Xiamen ChinaSource Internet Service Co., Ltd",06/06/2021 18:01,06/06/2027 18:01,04/09/2026 13:20
 e90643f3-9ef7-49a3-a749-6d6047b1e111,drink.immobilien,available,37.99,37.99,high,low,5,namesilo,,,04/09/2026 13:20
-dc6809d9-ae98-49da-a8e7-f54a547fb3de,drink.house,available,,,high,low,5,,,,
 938b67cd-0026-4b8c-9beb-920603add76e,drink.estate,available,6.98,52.98,high,low,5,namecheap,,,04/09/2026 13:20
 16da0b7e-1601-4f77-8287-f36cf6f95cc5,drink.apartments,available,19.99,83.99,high,low,5,name.com,,,04/09/2026 13:20
 79cfae08-67fb-49b1-887c-19b519537f06,drink.land,resell,,,high,low,5,"NameCheap, Inc.",29/04/2019 06:07,29/04/2027 06:07,04/09/2026 13:20
@@ -249,7 +237,6 @@ d5a3837c-b66b-4d6e-845a-c72002f5f8db,drink.luxury,premium,2600,2600,high,low,5,n
 d464b06f-dccd-40a1-8916-a68a3e12ede0,drink.company,resell,,,high,low,5,"GoDaddy.com, LLC",30/08/2017 18:12,30/08/2028 18:12,04/09/2026 13:20
 52beff48-712c-48fc-bdc3-d5770f445b61,drink.business,resell,,,high,low,5,"Spaceship, Inc.",07/01/2022 19:02,07/01/2027 19:02,04/09/2026 13:20
 b20460b5-f722-4cbe-9b90-c861d07ec728,drink.vana,available,2298,2498,high,low,5,namecheap,,,04/09/2026 13:20
-dc220695-b3cd-445f-96b9-81ad3d1b4e12,meal.at,available,,,high,high,4,,,,
 9abfecf2-e54c-42d6-bf34-848a25d7ad2a,drink.community,available,45.99,45.99,high,low,5,namesilo,,,04/09/2026 13:20
 86b5664d-fc1f-4286-951d-6d4210d8fc77,drink.furniture,available,23.98,127.98,high,low,5,namecheap,,,04/09/2026 13:20
 0f835de6-eda1-4e93-8e6f-b6b70e495d38,drink.gallery,available,28.99,28.99,high,low,5,namesilo,,,04/09/2026 13:20
@@ -272,6 +259,7 @@ eaec41f9-5b00-4c89-8ed0-8a226a19c190,drink.flowers,available,64.99,114.99,high,l
 06ac698b-1b72-4925-bf93-2424d3403d9b,drink.hiv,available,195.99,195.99,high,low,5,namesilo,,,04/09/2026 13:20
 c5aa8f2f-20f0-45e2-877e-f5a44ac69be1,drink.engineering,available,10.48,85.98,high,low,5,namecheap,,,04/09/2026 13:20
 c0da7af1-a170-44cf-95ca-1d834e28bdfc,drink.engineer,available,38.99,38.99,high,low,5,namesilo,,,04/09/2026 13:20
+8cd7839c-e9d7-499f-bfc5-1bfebcbd0e47,kitchen.cooking,premium,242,29.5,high,low,7,namesilo,,,
 65f03a00-e835-437a-b291-e87d302e7dbd,drink.software,available,11.98,56.98,high,low,5,namecheap,,,04/09/2026 13:20
 ff97d4c8-960f-438c-aa43-fe282bb8f9ab,drink.gmbh,available,45.99,45.99,high,low,5,namesilo,,,04/09/2026 13:20
 7754a791-f10c-4048-b45c-af732ba4b123,drink.srl,premium,54.28,30.68,high,low,5,namesilo,,,04/09/2026 13:20
@@ -288,7 +276,6 @@ ff97d4c8-960f-438c-aa43-fe282bb8f9ab,drink.gmbh,available,45.99,45.99,high,low,5
 8c38d9ae-31b9-4317-898e-683b38ea3443,drink.game,premium,1690,1690,high,low,5,namecheap,,,04/09/2026 13:20
 3b1f0970-f9b6-4d2f-862f-1e60236f530d,drink.management,available,14.99,33.99,high,low,5,name.com,,,04/09/2026 13:20
 a536f871-c66e-4156-b4e0-2a0700fa8ba8,drink.kids,premium,384,21.24,high,low,5,namesilo,,,04/09/2026 13:20
-fa822610-2c13-431c-a47c-578f2efe68b2,kitchen.rest,premium,787.5,,high,low,7,name.com,,,
 74b6cbd3-5150-4912-b7f6-f5fb48dfb802,drink.school,available,36.49,36.49,high,low,5,namesilo,,,04/09/2026 13:20
 2988f455-82d3-4a1b-8507-8611d98a6012,drink.schule,available,28.99,28.99,high,low,5,namesilo,,,04/09/2026 13:20
 5dca6787-07c2-4830-ad0e-77950d369aa9,drink.vc,resell,,,high,low,5,Dynadot Inc,24/07/2020 16:50,24/07/2027 16:50,04/09/2026 13:20
@@ -316,14 +303,12 @@ be8e242a-8e6e-450d-a959-5aa316db388f,drink.soy,premium,217.1,217.1,high,low,5,na
 a2e73e4c-5088-48b6-b979-97dca2a53afa,drink.moi,premium,960,960,high,low,5,namesilo,,,04/09/2026 13:20
 73baee17-d825-43be-9b4d-32818204af93,drink.golf,available,6.98,83.98,high,low,5,namecheap,,,04/09/2026 13:20
 b3642bdc-86c0-4e1e-ab17-ded4f57a0938,drink.faith,premium,640,77.35,high,low,5,namesilo,,,04/09/2026 13:20
-36a379de-4464-4f27-850c-74cb75c614eb,bar.tienda,resell,,,high,low,3,"Soluciones Corporativas IP, SL",20/02/2025 13:42,20/02/2027 13:42,
 e9839e80-fa5f-4f3f-aaa8-b336b34c45bd,drink.security,available,1999.99,2049.99,high,low,5,namesilo,,,04/09/2026 13:20
 7a566ee1-6dc4-4cd4-80b9-4a46daceef99,drink.cleaning,available,75.49,75.49,high,low,5,namesilo,,,04/09/2026 13:20
 38e563c4-07e4-46e9-910f-d1e9ea030dec,drink.boats,premium,812.5,20.99,high,low,5,name.com,,,
 c72fe881-b517-40a9-8c3f-e7ba95e21996,drink.global,premium,5000,62.5,high,low,5,name.com,,,04/09/2026 13:20
 6ca98c33-1b3e-44c2-a373-0ffc2dd1b2de,drink.training,available,8.98,53.98,high,low,5,namecheap,,,04/09/2026 13:20
 9bef5deb-cee5-4a8c-99bb-1366710c61b2,drink.sbs,premium,384,768,high,low,5,namesilo,,,04/09/2026 13:20
-d3eb1a27-17d3-479d-b8d0-a0c97d161d34,kitchen.food,premium,1960,2800,high,low,7,namecheap,,,
 4deea8d2-c698-49df-98dd-5b0c69aaf4b0,drink.juegos,available,368.98,478.98,high,low,5,namecheap,,,04/09/2026 13:20
 9a5731e9-2f38-49a3-b190-717e0b682db4,drink.protection,available,1999.99,2049.99,high,low,5,namesilo,,,04/09/2026 13:20
 90784755-39e3-43fc-a55b-dc3a3b83fd2e,drink.voting,available,1398,1448,high,low,5,namecheap,,,04/09/2026 13:20
@@ -344,6 +329,7 @@ c586fdaf-1d08-43b4-a6a4-5e37d9d32c88,drink.camera,available,58.99,58.99,high,low
 f914cd8e-fed8-411b-87bb-26ff69c5e6ec,drink.kim,available,5.98,32.98,high,low,5,namecheap,,,04/09/2026 13:20
 af7f4ea3-6736-4bd4-9cbb-2f120914a69d,drink.lighting,available,22.98,31.98,high,low,5,namecheap,,,04/09/2026 13:20
 53907bc9-c880-423c-ab32-16f68729c561,drink.spot,premium,640,640,high,low,5,namesilo,,,04/09/2026 13:20
+dc6809d9-ae98-49da-a8e7-f54a547fb3de,drink.house,available,,,high,low,5,,,,
 2d415e49-a81c-457a-bcc0-0c1efcb9dde6,drink.hockey,available,59.99,59.99,high,low,5,namesilo,,,04/09/2026 13:20
 773abeda-1d1d-4f31-8631-0cdb14ccd19d,drink.loan,available,9.98,,high,low,5,namecheap,,,
 9ce43e12-e6f3-47ff-9999-c19023bcf716,drink.finance,available,17.48,82.98,high,low,5,namecheap,,,04/09/2026 13:20
@@ -365,8 +351,6 @@ f2f869f6-075b-4959-a785-06bded78762d,drink.gripe,available,6.98,8.98,high,low,5,
 a3fe37c7-dfae-471b-9ed2-5cf05c7a6201,drink.forex,premium,1300,1300,high,low,5,namecheap,,,04/09/2026 13:20
 fdc6e338-678d-459c-9e4e-14ee8d5de197,drink.cfd,premium,384,768,high,low,5,namesilo,,,04/09/2026 13:20
 3d0ca019-2529-4e64-9ee8-e9bedb5507b7,drink.contact,available,13.98,16.78,high,low,5,namecheap,,,04/09/2026 13:20
-1e0d1b91-f70e-4a3c-91ab-b162c7c61d0e,restaurant.vodka,premium,500,,high,low,10,name.com,,,
-15793d74-10a6-43ca-a62b-2fef75d15f6e,drink.mobi,available,,,high,low,5,,,,
 e685c24f-f3f2-4289-ab90-ae6493e16c48,drink.nexus,premium,1298.7,1298.7,high,low,5,namecheap,,,04/09/2026 13:20
 1761a8af-c590-4011-bc04-5cd505e16807,drink.sexy,premium,13000,13000,high,low,5,namecheap,,,04/09/2026 13:20
 53adc599-8d39-40d7-84b9-ffe483eadbeb,drink.moe,available,13.99,13.99,high,low,5,namesilo,,,04/09/2026 13:20
@@ -423,579 +407,595 @@ d1859fce-38c7-4616-8519-007bf85ed815,drink.accountant,available,23.59,23.59,high
 7284457e-2541-45f3-8f52-5c77f7032500,drink.link,premium,1950,1950,high,low,5,namecheap,,,04/09/2026 13:20
 79177658-6585-4c8f-9b2f-367735c03e33,drink.accountants,available,117.99,117.99,high,low,5,namesilo,,,04/09/2026 13:20
 a500d97c-a7fe-4120-93b0-b58fa0eb4a98,drink.trading,available,21.98,27.98,high,low,5,namecheap,,,04/09/2026 13:20
+7af553e8-e606-475a-8094-85474682b803,meal.store,available,,,high,high,4,,,,
+e3a7949e-5a26-4c91-aca8-e22e228b81c2,cooking.recipes,resell,,,high,low,7,"Sav.com, LLC",19/07/2015 16:00,19/07/2027 16:00,08/09/2026 08:19
+45b20dc4-24ac-4254-b6ba-1e48854153ba,foodie.vodka,available,32.49,32.49,high,low,6,namesilo,,,17/08/2026 10:47
 28ebb1b6-cb19-4013-ae51-f24b1f7dd3fc,drink.solutions,available,5.99,41.99,high,low,5,name.com,,,
 97a26c2b-fece-4583-a2c2-12f040baf8d1,drink.international,available,14.99,,high,low,5,name.com,,,
 c9f557f2-67c2-4bb6-b6de-72f606a61b93,drink.property,available,,,high,low,5,,,,
-9e5c34df-41b4-4fb5-8196-f2bda2b7ad9e,restaurant.pizza,premium,118.8,118.8,high,low,10,namesilo,,,
-901e9c61-d0de-4ed8-a911-04dccc809982,kitchen.menu,available,,,high,low,7,,,,
-8cd7839c-e9d7-499f-bfc5-1bfebcbd0e47,kitchen.cooking,premium,242,29.5,high,low,7,namesilo,,,
-e3a7949e-5a26-4c91-aca8-e22e228b81c2,cooking.recipes,resell,,,high,low,7,"Sav.com, LLC",19/07/2015 16:00,19/07/2027 16:00,08/09/2026 08:19
-a3307f5c-8a72-4c54-83f0-8691964e1199,cuisine.paris,premium,1462.53,,high,low,7,name.com,,,
-7af553e8-e606-475a-8094-85474682b803,meal.store,available,,,high,high,4,,,,
-1af6c5e1-3b92-451c-bb73-c700a18db953,restaurant.osaka,available,,,high,low,10,,,,
-542b0485-80cc-4bc6-926a-bcf132bf0193,cuisine.osaka,available,,,high,low,7,,,,
-e6e4fe90-17dc-4806-9f4d-227fb81cb849,cuisine.us,resell,,,high,low,7,"GoDaddy.com, LLC",15/07/2013 18:01,14/07/2027 23:59,19/09/2026 06:06
-68ffe35d-fd1e-4233-81f9-2a99ea5ce851,restaurant.hamburg,resell,,,high,low,10,,20/04/2016 14:44,20/04/2027 14:44,
-1ece3d52-3233-4ab7-aa88-3723482a30d7,restaurant.melbourne,premium,9053.09,,high,low,10,name.com,,,
-6c2e51dc-af27-4059-8cda-71948c55e82c,restaurant.berlin,resell,,,high,low,10,,27/11/2015 16:02,27/11/2027 16:02,
-c2eb2de3-c110-4659-9d2c-d1035c941644,restaurant.london,premium,6784.14,,high,low,10,name.com,,,
-cae76df1-e901-413d-a417-ea8bd29f3900,restaurant.vegas,resell,,,high,low,10,Dynadot Inc,16/06/2025 13:10,16/06/2026 13:10,
+15793d74-10a6-43ca-a62b-2fef75d15f6e,drink.mobi,available,,,high,low,5,,,,
 f78b4ef9-7c61-4d85-9bb9-4d8b00acc0c5,meal.space,available,,,high,high,4,,,,
-a5f12b1c-eb93-42b5-9ef4-9459077d2453,cuisine.pizza,premium,82.5,,high,low,7,name.com,,,
 f21c9b81-1b2c-43a9-be92-d3c5493750cc,meal.site,available,,,high,high,4,,,,
+49fe2d6b-1adc-4092-bc48-16fd4ea872c4,grocery.tienda,available,59.99,59.99,high,low,7,namesilo,,,08/09/2026 13:48
 66114de9-2dfe-4abb-9c72-c71e97ab8475,meal.online,available,,,high,high,4,,,,
-4d6876b7-f740-4906-b3e4-108816a60a14,restaurant.sydney,available,,,high,low,10,,,,
-439b48b6-c67f-4e6a-8547-dbc03da41100,wine.mobile,premium,1250,,high,low,4,name.com,,,
-271c1546-0b48-40ca-81e7-f2ce0aafafbb,restaurant.fast,premium,116,118.8,high,low,10,namesilo,,,
-f1fb37ff-79c6-4f5a-b7bb-3cae83b3be0f,restaurant.living,premium,490,700,high,low,10,namecheap,,,
-d292c7e5-1577-4bb9-a4db-d6136e28d103,restaurant.lifestyle,premium,490,700,high,low,10,namecheap,,,
-95329bf1-5e0c-43df-af39-e7c6ef9ccac3,restaurant.bz,resell,,,high,low,10,"GoDaddy.com, LLC",30/08/2015 22:57,30/08/2027 22:57,22/09/2026 23:06
-092c7c39-e9e8-4af5-a5c3-4051d50aac8d,restaurant.site,premium,1562.5,6250,high,low,10,name.com,,,
-0933e20e-05d5-4edc-8302-233979599fc5,restaurant.ryukyu,available,22.98,,high,low,10,namecheap,,,
-42d72a24-b2b9-4dfb-9e35-8545c44e5488,cuisine.store,premium,781.25,,high,low,7,name.com,,,
-9cb3e859-d40d-4af0-a44e-6fd86f74c5af,restaurant.pw,premium,1872.92,,high,low,10,name.com,,,
-e2b83c4c-bb78-4d4c-a5b8-f2ba523f7065,restaurant.space,premium,812.5,3250,high,low,10,namecheap,,,
-0c3f61e2-d893-4f0a-9c7c-dad2b9915db4,cuisine.desi,available,22.98,,high,low,7,namecheap,,,
-63669f33-41e9-4396-b6d5-f67dc5dd4770,cuisine.site,premium,312.5,,high,low,7,name.com,,,
-eb3a4243-2c6d-4ab1-a9d3-c478f84514ef,restaurant.im,available,,,high,low,10,,,,
 b94e8519-46b2-4382-bb18-a7ff4aae7c68,meal.tech,available,,,high,high,4,,,,
-9d4b8cf1-65aa-4018-8a0e-23fd154ecf38,restaurant.zone,resell,,,high,low,10,"DNSPod, Inc.",17/07/2020 22:50,17/07/2027 22:50,19/09/2026 10:54
-278ae754-6a3a-4fa9-b3ec-97b1193bce17,restaurant.online,premium,3125,12500,high,low,10,name.com,,,
-4609e4ce-b756-445e-ab3a-866ea7fa760e,restaurant.delivery,available,,,high,low,10,,,,
-c590e804-cb39-48b0-a5c3-1a13eb6b21ef,restaurant.horse,available,32.49,32.49,high,low,10,namesilo,,,
-34559515-113d-480c-83b3-16b5a9753ba1,restaurant.vet,available,41.99,41.99,high,low,10,namesilo,,,
-a58da770-c6cc-4e9f-8df8-678cd0290381,cuisine.zone,available,14.99,,high,low,7,name.com,,,
-d89ef94c-9349-4052-9047-72ab216de594,cuisine.irish,available,9.99,,high,low,7,name.com,,,
-9a50f97f-3139-4a90-89a8-0ae3fae36248,kitchen.recipes,premium,78.54,78.54,high,low,7,namesilo,,,
+6681b75b-c799-4045-9e9c-197a81344b2e,foodie.vet,available,41.99,41.99,high,low,6,namesilo,,,17/08/2026 10:47
+2cef6333-4ebe-4e6e-a7a2-f1e009e44c59,coffee.place,resell,,,high,medium,6,Porkbun LLC,24/09/2016 12:36,24/09/2026 12:36,
 03786c3f-3620-4254-a4b7-ce7fa0cdf57f,meal.xyz,resell,,,high,high,4,"Go Daddy, LLC",02/06/2014 17:29,02/06/2026 23:59,
-07110bc2-db76-435f-b868-f1c1a072c04f,cuisine.space,premium,175,700,high,low,7,namecheap,,,
-be83f7a8-aa0d-44f9-9e4f-293930d7f35a,cook.rest,available,,,high,low,4,,,,
-03faf20b-56d7-469f-998f-ab4a3316e990,cooking.bar,premium,819,1170,high,low,7,namecheap,,,08/09/2026 08:19
-ff9ee32c-f66c-43ff-8874-f161f6c0b383,cuisine.kiwi,available,35.68,,high,low,7,namecheap,,,
-a527e56f-0878-4d05-9691-c56a13b09021,cooking.pub,available,39.99,39.99,high,low,7,namesilo,,,
-aef1e7b2-a3c3-4508-a826-894fa290e5cc,cuisine.expert,available,11.99,,high,low,7,name.com,,,
-1875eed5-063c-48f2-974a-6294636e286f,restaurant.expert,premium,1040,1040,high,low,10,namecheap,,,
+439b48b6-c67f-4e6a-8547-dbc03da41100,wine.mobile,premium,1250,,high,low,4,name.com,,,
+9a50f97f-3139-4a90-89a8-0ae3fae36248,kitchen.recipes,premium,78.54,78.54,high,low,7,namesilo,,,
 36e94206-4c87-4d0f-bf93-1edfdf4f4884,meal.io,resell,,,high,high,4,"GoDaddy.com, LLC",26/08/2017 00:12,26/08/2025 00:12,
-46b8d171-fe95-47f6-9705-6916fcf220f0,cuisine.living,premium,490,700,high,low,7,namecheap,,,
-c3e12b50-c7e5-493f-9e54-3b900fd1471e,cuisine.lifestyle,premium,490,700,high,low,7,namecheap,,,
-671e75f6-e05d-4153-b762-094df9fa30b3,restaurant.town,premium,118.8,118.8,high,low,10,namesilo,,,
-3955171d-3b86-47dd-a523-fdf1b16c2961,restaurant.country,available,2450,,high,low,10,namecheap,,,
-c18b2f0d-7637-458d-b28f-9d58d15b852f,restaurant.dev,premium,411.25,411.25,high,low,10,name.com,,,
-cb1679a2-a908-4574-a245-69a593c82e75,restaurant.tech,premium,781.25,3125,high,low,10,name.com,,,
+97cbacb4-0594-42e1-bdb9-1f40e5188cb2,alcohol.shop,premium,6250,,high,low,7,name.com,,,
+03faf20b-56d7-469f-998f-ab4a3316e990,cooking.bar,premium,819,1170,high,low,7,namecheap,,,08/09/2026 08:19
+a527e56f-0878-4d05-9691-c56a13b09021,cooking.pub,available,39.99,39.99,high,low,7,namesilo,,,
+be83f7a8-aa0d-44f9-9e4f-293930d7f35a,cook.rest,available,,,high,low,4,,,,
+46109ca2-aaac-4c2f-b532-d94b12390fbc,foodie.srl,available,31.99,31.99,high,low,6,namesilo,,,17/08/2026 10:47
+e76949e8-9256-4cca-8260-1bde3be536c4,ingredients.rest,premium,393.75,,high,low,11,name.com,,,
+9dbb2376-2167-4a4c-a371-10aa575319b8,formula.store,premium,162.5,650,high,low,7,namecheap,,,03/09/2026 21:16
+25e234a0-ea9f-4f30-a025-c56fa84b4630,foodie.meme,premium,112.5,112.5,high,low,6,name.com,,,17/08/2026 10:47
+7b33ba9e-df2a-43b4-8eeb-93e9a25d55e6,foodie.courses,available,1.98,50.98,high,low,6,namecheap,,,17/08/2026 10:47
+ea0b0c84-5b25-43e9-9bf7-879fbc6ea7d7,foodie.energy,available,5.98,155.98,high,low,6,namecheap,,,17/08/2026 10:47
+ce298028-b09a-4a57-bb21-839023cf209b,foodie.discount,available,7.99,43.99,high,low,6,name.com,,,17/08/2026 10:47
 2569d5b3-9cce-4d37-ac09-d25fbf13a5aa,cook.menu,available,,,high,low,4,,,,
-a56d03f3-7999-47e4-8768-b1feb547e1ec,cuisine.life,resell,,,high,low,7,Dynadot Inc,15/05/2018 06:47,15/05/2027 06:47,
-dfaabc02-e563-4664-b6f8-0e588daefdbf,cuisine.ninja,available,9.99,,high,low,7,name.com,,,
-5cbb5ffb-0ecb-446c-844b-551f03e83b5e,cuisine.dev,premium,198.75,,high,low,7,name.com,,,
-f7307954-0f8e-400f-9126-fc0288532984,cuisine.fish,available,19.99,,high,low,7,name.com,,,
-16c9fab8-4218-4e3d-9800-b5aff6ff42bc,cuisine.miami,available,,,high,low,7,,,,
-f28e270f-4e0f-43b7-9a8e-92f5bd4d1b98,cuisine.bayern,available,47.99,,high,low,7,name.com,,,
-fe6238ca-9a2a-4f09-ad9d-e0d3e6dbd0b0,cuisine.vet,available,50.99,,high,low,7,name.com,,,
-e6591455-342b-438c-9984-4ae0a2c1ca2d,cuisine.horse,available,43.98,,high,low,7,namecheap,,,
-95bceee7-d8a0-4ec2-8033-8a8e7e91c7e9,cuisine.tech,premium,312.5,,high,low,7,name.com,,,
-c06928b8-212a-4efe-bbcc-423e94df184d,cuisine.co,resell,,,high,low,7,"Spaceship, Inc.",23/09/2011 17:50,22/09/2026 23:59,
-99ece45d-af63-4676-b280-d5c44b95c671,restaurant.co,resell,,,high,low,10,Dynadot Inc,25/02/2010 00:47,24/02/2027 23:59,
-466d4057-63ab-47b7-a7de-9906d67a6f4e,restaurant.fish,available,19.99,,high,low,10,name.com,,,
-f90b6403-8075-41f8-866c-9f223471fe4e,cuisine.xyz,resell,,,high,low,7,Dynadot LLC,07/09/2020 13:34,07/09/2030 23:59,
-81ac5f0d-bfc9-4b7f-8a08-12088da5aee7,cuisine.cloud,resell,,,high,low,7,"Spaceship, Inc.",11/08/2022 00:00,11/08/2027 00:00,20/09/2026 17:41
-7086a32d-a82f-40a3-9eaf-11f1dac77d52,restaurant.cloud,resell,,,high,low,10,"Dynadot, LLC",24/02/2016 03:37,24/02/2027 03:37,
+c31902d4-cb69-4ae4-8612-f8b56a854815,formula.reise,available,102.98,127.98,high,low,7,namecheap,,,03/09/2026 21:16
+cdf74732-f9cd-4777-89dc-00a6d661bd54,foodie.florist,available,14.99,46.99,high,low,6,name.com,,,17/08/2026 10:47
 0d05a633-4021-4eef-9077-7921fff2f6db,recipe.gg,resell,82.98,,high,low,6,namecheap,,,18/09/2026 00:14
-99605b21-1f74-4985-8d25-fe11c75a11ac,cuisine.app,resell,,,high,low,7,Porkbun LLC,05/05/2018 22:36,05/05/2027 22:36,
-8e96276f-2db0-424e-9d2b-3787d9b63927,cuisine.pink,available,14.99,,high,low,7,name.com,,,
-df28c787-81fd-40f3-9351-883cb14bd08a,restaurant.services,premium,560,1120,high,low,10,namecheap,,,
-39e7282e-279b-46a5-916a-308f0ea39811,restaurant.supply,resell,,,high,low,10,"GoDaddy.com, LLC",26/10/2020 18:57,26/10/2026 18:57,
-8dba2928-8a8d-45fa-9d57-52a4cf7eb015,cuisine.dog,available,5.99,,high,low,7,name.com,,,
-d7f7dba7-f912-4f72-b7d3-48927276a4c1,cuisine.nyc,premium,3125,,high,low,7,name.com,,,
-afd372e5-c109-49a9-8b47-13cd538cb42f,cuisine.hamburg,available,59.99,,high,low,7,name.com,,,
-0d3c0831-6377-4e2f-883d-ad58d9e102cd,cuisine.melbourne,available,53.98,,high,low,7,namecheap,,,
-a551c687-1f80-45dc-b780-756f48bed548,cuisine.sydney,available,54.98,,high,low,7,namecheap,,,
-9f91d3e8-22a7-4aa7-883e-7d844f1d11b6,cuisine.berlin,available,89.98,,high,low,7,namecheap,,,
-717a1138-3498-4fd4-92b8-3c261f31a300,cuisine.vegas,available,29.99,,high,low,7,name.com,,,
-037c7f04-6149-46a9-ba70-b26076394bfe,cuisine.boston,available,30.98,,high,low,7,namecheap,,,
-77ce131a-5490-4945-aecd-a77009d60c5e,cuisine.barcelona,available,38.98,,high,low,7,namecheap,,,
-1c0e07aa-0b9b-4bca-8a8d-e84f5d5d66e4,restaurant.dealer,premium,2170,2800,high,low,10,namecheap,,,
-b92a2cca-ee39-4e72-a06d-9f608dd94858,cuisine.delivery,available,8.99,,high,low,7,name.com,,,
-12cf9805-f96f-4548-ac84-702b3d7ac3ab,cuisine.fast,premium,62.5,,high,low,7,name.com,,,
-c42b198f-20e6-4c2b-aa81-c0bf15880883,cuisine.express,available,16.99,,high,low,7,name.com,,,
 c8167e53-07ba-4510-98bd-58128ed80c49,kitchen.pub,available,39.99,39.99,high,low,7,namesilo,,,
-2f0b9d9d-cad0-4e4e-9178-e203600d6d74,restaurant.plumbing,available,14.99,,high,low,10,name.com,,,
-166fde7d-8c22-48ac-8a95-c12ad936c5d6,cuisine.farm,available,13.99,,high,low,7,name.com,,,
-c98eb066-2643-4b38-885a-3d8ca53e1964,cuisine.salon,available,14.99,,high,low,7,name.com,,,
-dc833dad-6eb9-4266-8e3a-546a1fdbed02,restaurant.motorcycles,premium,812.5,,high,low,10,name.com,,,
-9815acd4-2848-4154-83b5-9e08c39a17cd,restaurant.auto,available,1999.99,2199,high,low,10,namesilo,,,
-611b7798-4a19-418d-9e6d-0426e37534c3,restaurant.car,available,1999.99,2199,high,low,10,namesilo,,,
-99a88a99-0263-4d7b-8bc5-51c2957a2b6c,restaurant.cars,available,1999.99,2199,high,low,10,namesilo,,,
-98f7f101-406d-46b4-9bf7-ef5c13a26d90,restaurant.autos,premium,812.5,,high,low,10,name.com,,,
-cc7f3c24-115a-4d98-be69-4a18ba3074b5,restaurant.gg,resell,,,high,low,10,"Spaceship, Inc (https://www.spaceship.com)",,,
-a55df72f-c470-4aa6-83a2-c23770f0175d,cuisine.makeup,available,1.99,,high,low,7,name.com,,,
-22303679-a76a-4566-90c4-63a3d0c4216c,restaurant.xyz,resell,,,high,low,10,"Spaceship, Inc.",28/02/2023 03:32,28/02/2027 23:59,
-19a8d154-e75e-4b33-81ef-da99a6f96b09,restaurant.army,available,19.99,,high,low,10,name.com,,,
-6250fcca-345a-4d0b-9411-d3d1c5f04abc,restaurant.airforce,available,103.99,103.99,high,low,10,namesilo,,,
-0ddff45d-6286-460a-a449-c35c08df2abf,restaurant.navy,available,41.99,41.99,high,low,10,namesilo,,,
-fd0f8b4e-a5f6-4b5d-814b-b53f44ffc288,cuisine.black,available,29.99,,high,low,7,name.com,,,
+33b025b8-fede-49f4-b0d8-b4349c0f0dc4,foodie.fishing,available,32.49,32.49,high,low,6,namesilo,,,17/08/2026 10:47
+11f90e78-ab81-4b4c-bcb4-79be166f5255,formula.horse,available,33.98,43.98,high,low,7,namecheap,,,03/09/2026 21:16
+f71a9422-b2e3-4cc2-896e-5ec0b666a228,foodie.schule,available,19.99,41.99,high,low,6,name.com,,,17/08/2026 10:47
+f710f7d5-2c08-4ae3-8a88-3c4f6da2fa6b,foodie.adult,available,69.98,166.98,high,low,6,namecheap,,,17/08/2026 10:47
 0f1ab55d-3560-4fa6-b4b2-3ea32108beb8,cooking.catering,premium,242,242,high,low,7,namesilo,,,08/09/2026 08:19
-71ae5de1-094f-4039-ba8a-219ad7dda122,cuisine.skin,available,1.99,,high,low,7,name.com,,,
-9aa5838d-de3b-484d-b22b-2fa99442b877,cuisine.hair,available,1.99,,high,low,7,name.com,,,
-9ddf570b-59a7-44a3-a5af-ffc61ef362e4,cuisine.red,available,14.99,,high,low,7,name.com,,,
-fc2538a6-d815-4bd3-b038-a56775c83ff0,cuisine.blue,available,23.99,,high,low,7,name.com,,,
-846f7051-68d6-4fd3-a2cb-0685e3dc8e29,cuisine.pro,resell,,,high,low,7,Dynadot Inc,01/02/2018 10:09,01/02/2027 10:09,
-58d1e32c-09fe-4038-b057-a4bf31d1b17b,cuisine.beauty,available,1.99,,high,low,7,name.com,,,
-39247124-543f-4ccd-9477-12028b1f9f7a,cuisine.bz,available,25,,high,low,7,name.com,,,
-ae7c48f4-b2ff-4514-bb0a-2f0e3bb2e68d,restaurant.desi,available,22.98,,high,low,10,namecheap,,,
-ea4af769-a5e0-4b01-a157-df53c9d5e0f4,cuisine.studio,available,,,high,low,7,,,,
-84a4c8dd-2682-4483-88f8-da1711d0a887,cuisine.style,premium,123.75,,high,low,7,name.com,,,
-4661b155-2dbe-4dd0-bbd7-d9418a94f066,cuisine.fashion,available,45.98,,high,low,7,namecheap,,,
-7c1b8007-980d-40c8-a6bf-8eb1f9d32e54,cuisine.moda,available,19.99,,high,low,7,name.com,,,
-8ea29684-f9c6-4c6f-b5c3-cd7e960efdde,cuisine.shoes,available,39.99,,high,low,7,name.com,,,
-13b005f8-9128-4eab-b850-ad9e5fe14e56,cuisine.sh,available,59.99,,high,low,7,name.com,,,
-6fc57cc8-6cb8-4ef9-95c4-63466ac71264,cuisine.cx,available,26.98,,high,low,7,namecheap,,,
-4a23e154-6d2f-454f-ba8e-ed63b399cfea,cuisine.pw,premium,187.29,,high,low,7,name.com,,,
-ba0834a9-69de-4627-ba52-2e03e9642f41,cuisine.cv,resell,,,high,low,7,Dynadot,12/11/2024 17:24,12/11/2026 17:24,
-03a80f25-7f2c-4b8c-86c2-5f49e2c47e6f,cuisine.my,premium,485.8,,high,low,7,name.com,,,
-1a8e8475-cc91-4e17-b7c5-5f01a1acc8eb,cuisine.ag,available,89,,high,low,7,name.com,,,
-b7bdf44a-6ee8-483c-95c6-1002d350d9d8,cuisine.clothing,available,19.99,,high,low,7,name.com,,,
-03778a41-6ca3-40f6-b50e-e80e5d1289fe,cuisine.men,premium,437.5,,high,low,7,name.com,,,
-d2cc49f9-498b-4451-ae8c-1e3cbf664061,restaurant.limo,available,19.99,,high,low,10,name.com,,,
-aebbcfaf-bf59-4bfb-820b-bb3d0d2e1d1c,cuisine.furniture,available,39.99,,high,low,7,name.com,,,
+cfe68658-637b-4fd2-9427-08cfc519a640,foodie.events,resell,,,high,low,6,Dynadot Inc,03/04/2025 15:15,03/04/2027 15:15,17/08/2026 10:47
+4850de66-d402-4134-ada2-d57310e125f2,foodie.webcam,available,11.99,11.99,high,low,6,namesilo,,,17/08/2026 10:47
+e3793600-f5e7-49c3-a526-84fcc51aa202,foodie.taxi,available,8.98,69.98,high,low,6,namecheap,,,17/08/2026 10:47
+43603599-c09e-4c74-a2b4-b2f0910ec6ce,foodie.vana,available,2298,2498,high,low,6,namecheap,,,17/08/2026 10:47
+b4a60231-3354-477b-8f59-205886d23618,foodie.army,available,17.48,48.98,high,low,6,namecheap,,,17/08/2026 10:47
+e21deeee-c7bc-47d6-9aec-e0d011c390be,formula.rodeo,available,13.98,17.98,high,low,7,namecheap,,,03/09/2026 21:16
 935bd69d-4f68-4688-9fb5-3dfa792fc85a,cooking.kitchen,resell,,,high,low,7,"Global Domains International, Inc. DBA DomainCostClub.com",07/01/2016 07:50,07/01/2027 07:50,08/09/2026 08:19
-ce6b822f-0275-46ee-a6ed-6f59ddc5e2da,restaurant.industries,premium,500,,high,low,10,name.com,,,
-8418e115-05a1-41a5-8846-cf0eabe83f68,restaurant.so,resell,,,high,low,10,SOSTEC TECHNOLOGIES_LR,20/06/2024 04:48,20/06/2026 04:48,
-7bbc2344-362f-44ff-b90c-f0a2348acb59,restaurant.equipment,available,,,high,low,10,,,,
-19bf5bb7-adc6-43cf-9bb9-93a113ecb2ba,restaurant.tires,available,5.99,78.99,high,low,10,namesilo,,,
-410bb577-4e78-40a9-bffc-ba9088fc25a6,cuisine.tienda,available,9.99,,high,low,7,name.com,,,
+b153a27e-e8cc-4c74-abf9-988f303460bb,alcohol.broker,available,11.98,47.98,high,low,7,namecheap,,,24/09/2026 08:18
+afe2480f-7bb2-4532-83e0-a4bb59ecc328,formula.esq,premium,427.7,427.7,high,low,7,namecheap,,,03/09/2026 21:16
+9f0bb7eb-7742-442a-a705-13cf758d84f0,foodie.lighting,available,14.99,33.99,high,low,6,name.com,,,17/08/2026 10:47
+ae3ba6b1-6d56-4d15-bd5a-3d42b1df8783,foodie.yachts,available,1.8,19.98,high,low,6,namecheap,,,17/08/2026 10:47
 46964829-6102-4e6f-8be2-da8c30af50b9,cooking.beer,available,1.98,43.98,high,low,7,namecheap,,,08/09/2026 08:19
-659f27c0-52f5-41eb-a83e-a506384f1bab,cuisine.com,premium,2842800,,high,low,7,"GoDaddy.com, LLC",18/05/2000 10:31,18/05/2027 10:31,
-689f7b73-25bb-4554-8a67-07cdaa16f326,restaurant.tienda,available,9.99,,high,low,10,name.com,,,
-28c96bb3-7aff-4fb0-823f-965a0701e953,cuisine.ca,resell,,,high,low,7,"Go Daddy Domains Canada, Inc",01/02/2001 17:19,01/02/2027 05:00,
-c1f7629b-0bd8-4fc5-8ca7-be16b4767913,cuisine.im,available,,,high,low,7,,,,
+d3257920-611f-42e5-93c0-a0286e77aaf5,foodie.esq,premium,111.25,111.25,high,low,6,name.com,,,17/08/2026 10:47
+47f30891-7445-44b1-a466-13e214fe4e2b,formula.earth,available,19.98,27.98,high,low,7,namecheap,,,03/09/2026 21:16
+62d4d71f-3e1f-4179-9cc1-3836a3a673d0,foodie.christmas,available,1.8,49.98,high,low,6,namecheap,,,17/08/2026 10:47
 fb846152-503f-448d-b0df-525e13f401a7,kitchen.catering,premium,242,242,high,low,7,namesilo,,,
-b9c53014-151d-497f-8363-070d330d2e8c,cuisine.vacations,premium,123.75,,high,low,7,name.com,,,
-9842249b-8a76-4fb8-9e91-f7ebc85caf99,cuisine.tours,available,9.99,,high,low,7,name.com,,,
-549cec54-a750-48d0-be12-a96ff064787e,cuisine.reise,available,99.99,,high,low,7,name.com,,,
-7af84353-1a99-424f-a215-a045311f1a01,cuisine.flights,available,59.99,,high,low,7,name.com,,,
-1877360a-dbf5-4fa2-8ee9-3f10f5c5943f,cuisine.reisen,available,24.99,,high,low,7,name.com,,,
-9232f60d-b4f8-463d-a796-feab66bca38b,cuisine.voyage,available,9.99,,high,low,7,name.com,,,
-3583a129-f30f-4dfd-9a01-2d58bf507658,cuisine.holiday,available,9.99,,high,low,7,name.com,,,
-4932af46-4fbf-4c4b-bd84-443e7a750392,cuisine.travel,available,39.99,,high,low,7,name.com,,,
-03c31e3b-7a24-400a-a8a7-cddb8ea2ed4c,cuisine.viajes,available,57.98,,high,low,7,namecheap,,,
-03393053-68bd-4851-a58c-6c2689e06c04,restaurant.tours,resell,,,high,low,10,"Sav.com, LLC - 26",04/03/2026 15:15,04/03/2027 15:15,
-31a0b703-86cb-463e-9d02-f602738cd5fd,cuisine.how,available,34.99,,high,low,7,name.com,,,
+87ab8bdc-90f6-4520-a02a-f58d35c4443e,formula.house,available,12.98,55.98,high,low,7,namecheap,,,03/09/2026 21:16
+421c12d9-ebb1-40f9-b550-3b06d840e65a,foodie.hospital,available,55.98,71.98,high,low,6,namecheap,,,17/08/2026 10:47
 e360d1dd-8879-4fdd-a6a8-1bec1a7d8522,cooking.wine,resell,,,high,low,7,"GoDaddy.com, LLC",23/01/2016 16:00,23/01/2027 16:00,08/09/2026 08:19
 3eb04c32-1cbb-484f-86e9-b3702244b9f4,cooking.vin,available,6.98,75.98,high,low,7,namecheap,,,08/09/2026 08:19
-9379ed53-8b01-4797-85d2-c01d91e12b3f,restaurant.wedding,premium,96,29.5,high,low,10,namesilo,,,
-e4a3f21f-9ec1-48e4-b475-f47eaba04bd9,cuisine.ink,available,2.99,,high,low,7,name.com,,,
-efa52197-66d1-4300-94b8-ef8d56cdfd1c,cuisine.town,available,9.99,,high,low,7,name.com,,,
-9705cacc-49cb-47b7-bf19-6e17d92e060e,cuisine.country,available,2450,,high,low,7,namecheap,,,
-1918c680-e7be-4098-8747-2204051cbd5c,restaurant.diet,available,104.99,114.99,high,low,10,namesilo,,,
-ca1476d6-6c37-43bb-a2cc-75fdb2249b4e,restaurant.pink,available,14.99,,high,low,10,name.com,,,
-1abb2044-dbfe-4b1a-9b41-712897354dfb,cuisine.agency,resell,,,high,low,7,Netregistry Wholesale Pty Ltd,12/06/2025 23:02,12/06/2027 23:02,
-91343f04-4d37-4f1b-bf31-933cd4618d5c,cuisine.supply,available,30.99,,high,low,7,name.com,,,
-7ec3e95e-3d12-4e1b-a17a-76feb2b26df9,restaurant.party,premium,3125,,high,low,10,name.com,,,
-d5b7c4dc-cffd-473f-8d6c-178c2854ad7a,restaurant.kaufen,premium,500,,high,low,10,name.com,,,
-fa3c652f-2ee7-4b53-8a96-3855b8e37e2b,cuisine.market,available,55.98,,high,low,7,namecheap,,,
-effbfbd7-63d3-48c2-984b-9dd683efc0b7,restaurant.market,premium,500,,high,low,10,name.com,,,
-cd5f5624-d16c-446f-906e-a637894b62fd,restaurant.kiwi,premium,74.43,,high,low,10,name.com,,,
-64048afa-4769-4047-b15d-62d03bc0ed9a,cuisine.shopping,available,14.99,,high,low,7,name.com,,,
-59334016-6ecd-40f7-9813-c5080afbf04a,cuisine.boutique,premium,250,,high,low,7,name.com,,,
-eefadcb7-5b09-449b-b50b-693e8b149ff2,cuisine.boo,premium,73.75,,high,low,7,name.com,,,
-89c41efc-08eb-4624-970b-7edbd18a033b,cuisine.monster,available,1.99,,high,low,7,name.com,,,
-abbf51ae-0c3d-460a-b4d2-730983c19eed,restaurant.events,premium,500,,high,low,10,name.com,,,
-963fde71-e10c-478f-84b0-c91b9b858b07,restaurant.shopping,premium,500,,high,low,10,name.com,,,
-82ba583e-edba-4ab0-85a9-cee1cf2da00f,restaurant.boutique,resell,,,high,low,10,"GoDaddy.com, LLC",22/01/2026 17:08,22/01/2027 17:08,
-b3961ded-9e6b-4263-b11e-7f03f14212a9,cuisine.org,resell,,,high,low,7,"GoDaddy.com, LLC",19/05/2004 19:06,19/05/2033 19:06,
-e36feb1f-981d-4ca7-aab8-2ce824ecbd19,cuisine.giving,available,5.99,,high,low,7,name.com,,,
-ebf8f504-2234-49ba-b12f-4ce81bcfaf50,cuisine.supplies,available,32.48,,high,low,7,namecheap,,,
-83316bc7-324c-475e-818f-83b574ea2507,restaurant.rsvp,premium,623.75,,high,low,10,name.com,,,
-4fdf9448-1654-4b38-9a84-410c667b8c97,restaurant.vacations,premium,242,242,high,low,10,namesilo,,,
-ad1f8334-6e3c-4bb5-8b30-65e78dca84c5,restaurant.viajes,available,37.99,37.99,high,low,10,namesilo,,,
-d55a4f24-0c6e-4962-92d5-e39fb1a69fc2,restaurant.flights,premium,242,242,high,low,10,namesilo,,,
-5eee9bd1-3f55-403a-86a4-e91806793148,restaurant.holiday,premium,242,242,high,low,10,namesilo,,,
-8636c20d-e55b-4cac-980c-fe9d915cfd57,restaurant.reise,available,27.89,97.99,high,low,10,namesilo,,,
-913b41a5-50c2-432b-88e8-5060e901503e,restaurant.reisen,available,3.99,20.99,high,low,10,namesilo,,,
-19dd399e-a3f5-432d-8da0-5359d8cd80d2,restaurant.giving,available,5.99,,high,low,10,name.com,,,
-2a9a3ab5-92bd-4fcd-8ff3-a7ea6e9cd963,cuisine.diy,premium,437.5,,high,low,7,name.com,,,
-bf258cde-764e-4c5c-a305-61344f94ae6a,restaurant.diy,premium,437.5,,high,low,10,name.com,,,
+aab28737-0c0a-45ee-a4d0-0cc0a8be7d32,liquid.qpon,available,1.99,27.99,high,high,6,name.com,,,18/08/2026 09:15
+7c0937de-96ae-47b8-9d2a-d0aa1c776a90,foodie.giving,available,5.99,40.99,high,low,6,name.com,,,17/08/2026 10:47
+084c5897-0487-4040-9d41-3ae0dc2aa5e9,foodie.clothing,available,19.99,46.99,high,low,6,name.com,,,17/08/2026 10:47
+7478c3ca-ce9c-4190-8142-4ce00652496e,formula.navy,available,43.98,45.98,high,low,7,namecheap,,,03/09/2026 21:16
+296cd117-831f-4be9-983b-c562cad12937,formula.skin,resell,,,high,low,7,Porkbun LLC,07/06/2022 10:24,07/06/2027 23:59,03/09/2026 21:16
+47018cfc-af42-45fe-aa0a-bfa56552bcf0,formula.sbs,premium,74.75,149.5,high,low,7,namecheap,,,03/09/2026 21:16
+f11003e5-011b-493e-8b0f-bbaf862eb233,formula.events,available,10.48,57.98,high,low,7,namecheap,,,03/09/2026 21:16
+75aaaabe-908f-4562-a601-33e94c0f97e8,foodie.live,premium,1625,3250,high,low,6,namecheap,,,17/08/2026 10:47
+d76076ad-6066-4d27-afd3-3799d2f68117,foodie.cheap,available,5.98,49.98,high,low,6,namecheap,,,17/08/2026 10:47
+e165e6d7-f6c7-43a1-ad55-deda0abdce8d,formula.kaufen,available,29.98,33.58,high,low,7,namecheap,,,03/09/2026 21:16
+e9396b00-d780-4ed6-9dcd-1ab936d030c5,foodie.lgbt,available,11.98,93.98,high,low,6,namecheap,,,17/08/2026 10:47
+8418e115-05a1-41a5-8846-cf0eabe83f68,restaurant.so,resell,,,high,low,10,SOSTEC TECHNOLOGIES_LR,20/06/2024 04:48,20/06/2026 04:48,
+44cb43df-0de2-493e-9fe5-a1ec892d12b9,formula.properties,available,15.98,43.98,high,low,7,namecheap,,,03/09/2026 21:16
+db31c2e7-b715-485c-b538-78f67b30276c,foodie.estate,available,6.98,52.98,high,low,6,namecheap,,,17/08/2026 10:47
+66c1930d-1661-4cc1-95b0-a8e517506746,foodie.motorcycles,available,1.8,19.98,high,low,6,namecheap,,,17/08/2026 10:47
+dc8d959c-94ab-45e7-8168-c179c3ddf82c,foodie.furniture,available,23.98,127.98,high,low,6,namecheap,,,17/08/2026 10:47
 05ce9c8c-6914-443c-8c6f-4ff1709d4298,dining.restaurant,premium,118.8,118.8,high,low,6,namesilo,,,
-deb2bba1-868e-4dfa-9f02-42461190f59c,cuisine.wedding,available,43.98,,high,low,7,namecheap,,,
-eb48032f-da12-49fe-94b8-d5d242eadf67,cuisine.baby,available,29.99,,high,low,7,name.com,,,
-d280ec08-23c4-41de-af98-d7041d9d8e76,cuisine.parts,available,15.99,,high,low,7,name.com,,,
-ffccc1f3-e2d5-4c37-95b3-f04278ee18d0,cuisine.garden,available,1.99,,high,low,7,name.com,,,
-a9eb6e21-f453-4935-81d4-5e7b2459d735,cuisine.tax,available,14.99,,high,low,7,name.com,,,
-4ae8dfc6-f058-4932-9fd9-101a36f4ae3c,cuisine.diet,available,159.98,,high,low,7,namecheap,,,
-0449a175-daa4-44b5-bee9-eabf96ac954a,restaurant.surgery,premium,242,242,high,low,10,namesilo,,,
-7113acc6-485c-4d34-b4dd-479d581a3dd8,cuisine.dad,premium,73.75,,high,low,7,name.com,,,
-9dbeddb2-88af-41d0-86cb-1e09445eef92,cuisine.mom,available,1.99,,high,low,7,name.com,,,
-9330c1ad-81ab-422e-b06d-e9c312eca726,cuisine.family,available,9.99,,high,low,7,name.com,,,
-01cc29f4-47dd-4c27-a1ba-6b8237334332,restaurant.ltda,premium,56.64,33.04,high,low,10,namesilo,,,
-3295f827-42a4-4a54-a51b-738219c6cc1c,bar.mba,available,11.98,49.98,high,low,3,namecheap,,,24/09/2026 08:25
-9efe30fc-95f4-499d-b548-4059cfd6295a,cuisine.page,premium,73.75,,high,low,7,name.com,,,
-eb59df47-bf50-48b5-905d-366729d036c5,cuisine.onl,premium,62.5,,high,low,7,name.com,,,
-46a008db-da93-499d-afa5-d558ade30406,cuisine.website,premium,62.5,,high,low,7,name.com,,,
-656504ae-cfd1-4854-960d-3ad618699b56,cuisine.productions,available,14.99,,high,low,7,name.com,,,
-1e5ca62e-72f7-45c7-b5a7-934db09882c8,cuisine.organic,available,19.99,,high,low,7,name.com,,,
-45c51c41-3fbc-4312-9cef-ae4e3fb3dba7,restaurant.onl,premium,53.92,116,high,low,10,namesilo,,,
-e0588b97-aae4-4977-b994-b32922f4b6b6,restaurant.page,premium,623.75,,high,low,10,name.com,,,
-009f7bfd-1a42-48e1-a86e-161f0ff834ff,restaurant.website,premium,1562.5,,high,low,10,name.com,,,
-e196bf85-e524-4b3e-8e36-0e96f02e064d,restaurant.fitness,premium,118.8,118.8,high,low,10,namesilo,,,
-75507b49-4a7c-4677-813b-fb365ba7eb50,restaurant.productions,premium,118.8,118.8,high,low,10,namesilo,,,
-eeb55e2d-ef84-4feb-bef8-0279ea418c3e,cuisine.works,available,7.99,,high,low,7,name.com,,,
-ad5c2007-269b-4672-83de-eb5eb6b81d98,cuisine.gives,available,5.99,,high,low,7,name.com,,,
-c5ff3d15-f02c-48d1-9d76-434ea8c6e385,cuisine.gifts,available,9.99,,high,low,7,name.com,,,
-da346ab9-9b8a-4f58-ab22-cbb30f10fa17,cuisine.gift,available,23.98,,high,low,7,namecheap,,,
-8168c403-fbb4-4331-9d8e-4986681dd5b0,restaurant.hosting,available,309.99,329.99,high,low,10,namesilo,,,
-bd7f7348-f1a6-47ba-b001-e1bb8e8b0574,restaurant.gives,available,5.99,,high,low,10,name.com,,,
+e6fba847-a27a-49a1-a7a1-93b83eea5c67,beer.exchange,premium,38.94,38.94,high,low,4,namesilo,,,24/09/2026 08:26
+50c0b289-b241-4c1c-af28-e76df03f2532,formula.gmbh,available,47.98,56.98,high,low,7,namecheap,,,03/09/2026 21:16
 e92ce1e6-8e0a-4c7f-972d-bbac236e3c3c,dining.rest,premium,585,1170,high,low,6,namecheap,,,
-19758b96-c8b2-4719-9dca-8339eceb64b1,cuisine.kaufen,available,9.99,,high,low,7,name.com,,,
-05222b39-24fc-4675-8af8-ac60c9c9ffe5,cuisine.christmas,available,49.98,,high,low,7,namecheap,,,
-d948601e-8041-433f-83de-76e129793fe2,cuisine.ooo,resell,,,high,low,7,"Name.com, Inc",20/10/2025 17:21,20/10/2026 23:59,
-99f381bc-8c8c-41a5-9022-0d06b3555688,restaurant.christmas,available,34.99,34.99,high,low,10,namesilo,,,
-0094295f-87e0-4209-b9ff-e7489fa2a5c3,restaurant.salon,available,14.99,,high,low,10,name.com,,,
-d856228e-35e0-4682-aa0e-b472bb7cdf83,cuisine.green,available,11.99,,high,low,7,name.com,,,
-5823466b-e6db-4fd7-a7d1-6ae333ce2908,restaurant.eco,premium,9375,,high,low,10,name.com,,,
-68fec608-b429-4c7a-a83d-8a9a4e6d13d9,restaurant.green,premium,1875,,high,low,10,name.com,,,
-30cc0d3a-b057-4f93-8613-b17064474ddb,restaurant.makeup,available,1.65,15.75,high,low,10,namesilo,,,
-f4383806-2ad3-4797-8251-dd4a40a6e484,cuisine.build,premium,625,,high,low,7,name.com,,,
-94378999-bf76-4775-93d6-660dfa56e050,restaurant.lat,resell,,,high,low,10,Dynadot LLC,09/11/2025 09:28,09/11/2026 23:59,
-72ca3bc8-29ed-42be-9254-71072a5c05c5,restaurant.build,premium,625,,high,low,10,name.com,,,
-d49b63da-9367-4a0a-90f6-e09be0afb9f5,restaurant.studio,premium,700,1400,high,low,10,namecheap,,,
-fe6e7efd-541a-460f-b399-ff4da30e1af3,restaurant.fun,premium,781.25,,high,low,10,name.com,,,
-f0add99a-08c7-45b7-a790-0de495dd32e7,restaurant.monster,premium,625,,high,low,10,name.com,,,
-31c601c1-ba16-431d-a596-1031d3376bba,restaurant.boo,premium,623.75,,high,low,10,name.com,,,
-386516ca-c4e2-47a1-9d13-22b28ca5ea03,restaurant.cool,premium,500,,high,low,10,name.com,,,
-bc4f32e4-e545-49f7-8766-a143a754d42d,cuisine.ing,premium,437.5,,high,low,7,name.com,,,
-fb591e62-ea4f-4a1c-bbc7-c81a5ac5993d,restaurant.ing,premium,812.5,,high,low,10,name.com,,,
-1d7788aa-d8a5-437e-bf9a-f2a94d0a0add,cuisine.fun,premium,156.25,,high,low,7,name.com,,,
-fa331865-c5c0-4f90-ba2c-71ec5a383dcf,cuisine.events,available,21.99,,high,low,7,name.com,,,
-2cdd42d9-2808-40cd-b643-a31cdb2510f0,cuisine.cn,resell,,,high,low,7,Dynadot Inc,,,
-60168a78-2e20-45df-a5c5-a2f547818b07,cuisine.energy,available,21.99,,high,low,7,name.com,,,
-618e7422-cf35-4ac0-9817-2a8d41777a76,restaurant.meme,premium,112.5,,high,low,10,name.com,,,
-7f513b13-b58f-4181-97e4-d3da855b1c73,restaurant.hospital,available,57.99,57.99,high,low,10,namesilo,,,
-a508ab71-7af1-4c26-bf3a-9440d5f0ca73,cuisine.meme,premium,187.5,,high,low,7,name.com,,,
-6b42219e-389d-45c1-ba45-7c1a38a9d81e,cuisine.zip,premium,161.25,,high,low,7,name.com,,,
-adf6f880-7cc5-472e-9d2a-1a5bc38c7739,restaurant.zip,premium,73.75,,high,low,10,name.com,,,
-782b08c9-ee5f-41e8-a31f-0f0bfcf87325,restaurant.travel,available,,,high,low,10,,,,
-6ef07774-b267-4f88-ace4-a588db87b0ba,restaurant.skin,available,1.65,15.75,high,low,10,namesilo,,,
-bdd3b1ac-7d82-4f63-a78b-014d772ce58f,restaurant.hair,available,1.65,15.75,high,low,10,namesilo,,,
-6c75286c-de61-4874-9c38-61b449b67776,cuisine.villas,available,19.99,,high,low,7,name.com,,,
-10d5ce7d-fb0f-4e9e-b55f-5f75862ab98a,cuisine.apartments,available,19.99,,high,low,7,name.com,,,
-0b9cc09e-a505-444b-864c-37ca8e0d8c7c,cuisine.immobilien,available,14.99,,high,low,7,name.com,,,
-d0206790-8643-4dea-b913-ebb2d4f6dd2a,cuisine.realty,available,179.99,,high,low,7,name.com,,,
-ad64a9bd-7bd8-4c26-8d32-59c94b829a59,cuisine.rent,available,29.99,,high,low,7,name.com,,,
-61e24339-e173-4708-926e-761a7fd41bea,cuisine.immo,available,14.99,,high,low,7,name.com,,,
-5a7c31ba-c812-4e3d-ba7b-ed7c0062b77c,cuisine.rentals,available,14.99,,high,low,7,name.com,,,
-e630607e-b2a9-4258-a9d9-239e5395c24a,cuisine.condos,available,71.99,,high,low,7,name.com,,,
-b031d11c-5e2e-4dff-a4a6-bbfc4f438838,restaurant.health,premium,1107,71.4,high,low,10,namesilo,,,
-6911beb1-13d1-46d2-8898-ddf7c07f6426,restaurant.healthcare,available,88.99,88.99,high,low,10,namesilo,,,
-7ee29244-720e-4a0a-8e15-c4509a8539c9,cuisine.healthcare,available,91.99,,high,low,7,name.com,,,
-35b03f71-fed2-4df1-91a7-8c36e8733782,cuisine.health,available,19.99,,high,low,7,name.com,,,
-999b3631-131e-490b-be28-61cfb9dbec7c,cuisine.dealer,premium,2170,2800,high,low,7,namecheap,,,
-c8bf553b-1db9-4636-bedc-fc45cbfb002a,restaurant.blue,resell,,,high,low,10,"Spaceship, Inc.",18/12/2018 03:14,18/12/2026 03:14,
-70862e03-be71-47eb-aead-8a59eb65d7ac,restaurant.red,resell,,,high,low,10,"Spaceship, Inc.",02/11/2020 14:31,02/11/2026 14:31,
-5d63ec94-47c3-4909-9189-86a9276492c6,restaurant.florist,available,14.99,,high,low,10,name.com,,,
-84a91bc0-ac12-471c-aec5-4eec564dcbf3,restaurant.flowers,available,64.99,114.99,high,low,10,namesilo,,,
-8bc0bb79-67af-4cf6-9eab-44e90053a0c7,restaurant.gratis,available,23.99,23.99,high,low,10,namesilo,,,
-57ccc3f5-de90-4079-82ea-c6296b277f68,restaurant.free,premium,625,,high,low,10,name.com,,,
-4fde1478-599e-4c54-91d5-87b788cafd6d,cuisine.free,premium,125,,high,low,7,name.com,,,
-e91e632f-c89a-419d-86a9-e2a0bfa97517,cuisine.gratis,available,26.99,,high,low,7,name.com,,,
-fc2af4da-54ba-4076-9413-77b256e727e0,cuisine.surgery,available,67.49,,high,low,7,name.com,,,
-f76c8f08-6c6d-4039-a84a-74da2bbf51f4,restaurant.film,premium,116,116,high,low,10,namesilo,,,
-4f798326-339c-4b24-8da2-15f33d814fec,restaurant.movie,available,69.99,,high,low,10,name.com,,,
-b62eec96-6e71-4a8c-9f34-437237fe5134,restaurant.mov,premium,73.75,,high,low,10,name.com,,,
-618ed830-405f-48ce-bc29-0e226617c0d1,cuisine.movie,available,69.99,,high,low,7,name.com,,,
-0d1dd036-0034-4f23-a8a6-e9fd36bd7c8e,cuisine.mov,premium,161.25,,high,low,7,name.com,,,
-59a73f31-c904-4ed5-8b63-0ccb11b57d3b,cuisine.film,available,89.99,,high,low,7,name.com,,,
-5728de60-fa15-4208-9ccc-5dc1fb5e3fdc,restaurant.holdings,available,64.99,64.99,high,low,10,namesilo,,,
-3a329140-c7f8-48a0-942b-0b37b3c2eed2,restaurant.enterprises,premium,242,242,high,low,10,namesilo,,,
-399f3955-b862-4080-bde0-c488489dbc7c,restaurant.limited,available,14.99,,high,low,10,name.com,,,
-6bce2826-abe1-4c62-b76a-639b8c9e9435,restaurant.inc,premium,2061.5,2660,high,low,10,namesilo,,,
-6a72beca-c007-4e0a-a78a-2208b0ccaca7,restaurant.llc,premium,1875,,high,low,10,name.com,,,
-b46f452c-8bd3-4e35-8750-bd266b20386b,restaurant.srl,premium,54.28,30.68,high,low,10,namesilo,,,
-c5b2eee6-b264-4e27-8115-f6f589e18402,restaurant.cheap,premium,500,,high,low,10,name.com,,,
-55aa4115-3ac4-42e1-b3c9-b06d5c8e862d,restaurant.discount,premium,854,854,high,low,10,namesilo,,,
-18f54273-32c1-4826-a789-b90e8eb20d45,restaurant.promo,premium,3125,,high,low,10,name.com,,,
-6e3d6e81-5c82-4eaa-af03-448147dcbaf4,restaurant.bargains,premium,118.8,118.8,high,low,10,namesilo,,,
-cd696e05-c6cf-4da8-94b8-3c4209a0b3d8,restaurant.blackfriday,available,114.99,114.99,high,low,10,namesilo,,,
-189f354d-8f7b-4c90-9462-adb6fafdae97,restaurant.sale,premium,500,,high,low,10,name.com,,,
-16a75538-c0b8-44fb-bef4-a487a3d0466e,restaurant.deal,premium,12500,,high,low,10,name.com,,,
-d5a41ed7-d9e9-4889-8a00-d06c32f74225,restaurant.cyou,premium,282.88,565.76,high,low,10,namesilo,,,
-bb028446-545b-4958-b874-cb7faea33de9,restaurant.icu,premium,106.8,227.84,high,low,10,namesilo,,,
-e13f1203-147e-42d3-a2a2-9677eabb2b59,cuisine.bargains,available,21.99,,high,low,7,name.com,,,
-2eecf6fd-1bd7-44ec-933b-24fa339fae62,cuisine.blackfriday,available,134.98,,high,low,7,namecheap,,,
-7d690d94-56b9-468f-983a-9141007fe4b8,cuisine.coupons,available,3.99,,high,low,7,name.com,,,
-88b98f98-1d58-444b-90c0-0dacbf38c2e0,cuisine.forsale,premium,123.75,,high,low,7,name.com,,,
-eaff40e3-ef62-42b0-8dd2-bc059c90dea4,cuisine.promo,premium,1250,,high,low,7,name.com,,,
-97c61cbb-1f94-435d-a503-0f31cdf11841,cuisine.discount,available,7.99,,high,low,7,name.com,,,
-5e71e129-ac01-4b06-a3c9-2675233e440b,cuisine.cheap,available,9.99,,high,low,7,name.com,,,
-4c215e93-4492-44e5-9ba1-509fbeac122b,cuisine.qpon,available,1.99,,high,low,7,name.com,,,
-1b8c57b9-de13-4572-a370-a641a25906bf,cuisine.sale,premium,123.75,,high,low,7,name.com,,,
-5068607d-2bf7-4a33-bf80-c0a9f8d4c7b4,cuisine.deal,premium,125,,high,low,7,name.com,,,
-e1109b2a-f760-4bd2-9f10-2564809bbfd1,cuisine.deals,available,5.99,,high,low,7,name.com,,,
-a0023516-e32c-4e70-8d49-80555842f7ba,restaurant.dental,available,59.98,,high,low,10,namecheap,,,
-b26271b3-0551-4ee3-815d-123a430becca,restaurant.dentist,available,65.99,65.99,high,low,10,namesilo,,,
-5927fcb1-8714-47f0-b7ac-7a1a2bdf164f,cuisine.icu,available,1.99,,high,low,7,name.com,,,
-91a0c869-c825-4a27-827f-a4476e4b1f4f,cuisine.cyou,premium,154.7,309.4,high,low,7,namecheap,,,
-ff807b8c-84f2-4420-bc59-1694c7454509,cuisine.dental,available,59.98,,high,low,7,namecheap,,,
-9bab3565-65b4-4dc6-b5ba-2c28b1c28e36,cuisine.dentist,available,76.99,,high,low,7,name.com,,,
-8044f0d2-98ea-4014-9cb6-754e7734e2cd,restaurant.fit,resell,,,high,low,10,"Spaceship, Inc.",27/06/2025 15:47,27/06/2026 15:47,
-c809ba10-686a-4e7e-b162-dfb39aeb2dac,restaurant.archi,available,24.99,,high,low,10,name.com,,,
-a0ac3ec1-87b5-4530-9b82-41b1b3ba2280,cuisine.fitness,available,9.99,,high,low,7,name.com,,,
-5c582e3a-2888-4a3d-afb9-9c75650f1f7c,cuisine.fit,available,2.99,,high,low,7,name.com,,,
-1165ddd8-850d-4f1c-9482-8694141ca2da,cuisine.archi,premium,123.75,,high,low,7,name.com,,,
-e472b753-21e8-4432-b9ef-7262fd0ff8c0,cuisine.industries,available,17.49,,high,low,7,name.com,,,
-9e79762e-3a91-44a5-b951-cfd0076cbefb,cuisine.plumbing,available,14.99,,high,low,7,name.com,,,
-d51e0352-eb03-4afe-a1db-925b4c5c7154,restaurant.work,premium,3125,,high,low,10,name.com,,,
-d635ac32-b1ba-469e-9984-fea3e5626c68,restaurant.works,premium,500,,high,low,10,name.com,,,
-c16a5bd2-19b2-439d-bb5f-03fcf4ee89bd,restaurant.team,premium,140,280,high,low,10,namecheap,,,
-bce7f86e-916b-4827-a9c0-f6effd1ed39f,restaurant.host,premium,3125,,high,low,10,name.com,,,
-0b0dfb44-df65-445f-aaf0-7d362a7c67b2,cuisine.party,available,,,high,low,7,,,,
-0191e7bf-0bce-435f-a2f7-5461d8ccdfe1,restaurant.band,available,29.99,,high,low,10,name.com,,,
-6a32b196-3646-4242-81de-5019332fb095,restaurant.audio,available,104.99,114.99,high,low,10,namesilo,,,
-3a24e07c-832b-4fe0-9811-60b52f3fd78a,restaurant.guitars,available,104.99,114.99,high,low,10,namesilo,,,
-f6ff1bc0-4583-412e-977e-8876fb16f2e9,restaurant.uno,premium,3125,,high,low,10,name.com,,,
-e2151f61-86d8-4f4d-ac12-200265bba74a,cuisine.hiphop,available,33.98,,high,low,7,namecheap,,,
-f95ec5ce-49db-471f-acdc-30e72e3d78db,cuisine.band,available,29.99,,high,low,7,name.com,,,
-8d28315f-8464-4580-8e3e-228198bb8ea4,cuisine.audio,available,159.98,,high,low,7,namecheap,,,
-05da3842-50df-43dd-9c07-ea822c0a1825,cuisine.guitars,available,159.98,,high,low,7,namecheap,,,
-efb4a25f-6f50-4988-acdc-7e083efcf543,restaurant.construction,premium,78.54,78.54,high,low,10,namesilo,,,
-20cb63c8-0ba3-4332-bfdd-4013f924e923,restaurant.contractors,premium,118.8,118.8,high,low,10,namesilo,,,
-f12c8303-f26d-4c8e-b162-be69abd0e3f1,cuisine.uno,premium,312.5,,high,low,7,name.com,,,
-a49070fd-ed0a-47f5-ab54-16ce73121dee,cuisine.contractors,available,9.99,,high,low,7,name.com,,,
-3ce7eaa7-f439-44d8-a783-b857c44e26ae,cuisine.construction,available,15.99,,high,low,7,name.com,,,
-313b1ba1-62a4-47e5-bdc8-e204112a4406,cuisine.builders,available,7.99,,high,low,7,name.com,,,
-e2bde2a5-4563-49ec-b50c-c60564d25cd3,cuisine.auto,available,2950,,high,low,7,namecheap,,,
-10a529c1-ea4b-4c08-980a-fac0e15d1f60,cuisine.autos,available,1.99,,high,low,7,name.com,,,
-0a120096-0821-4915-a3fb-3b265c27cd9d,cuisine.cars,available,2950,,high,low,7,namecheap,,,
-01690b3f-6b47-4b14-8e87-ef40f9aa33e2,cuisine.car,available,2400,,high,low,7,namecheap,,,
-c0886946-928f-4da3-9741-f42fbc402607,cuisine.motorcycles,available,1.99,,high,low,7,name.com,,,
-f7d2830f-f852-4645-a420-e7e4b62da3be,restaurant.solar,available,9.99,,high,low,10,name.com,,,
-fda4dfda-6b37-449c-a12d-c68acb167ca1,restaurant.place,premium,69.3,138.6,high,low,10,namecheap,,,
-d7df7445-d055-44ca-8c79-6f742f005e1a,cuisine.solar,available,9.99,,high,low,7,name.com,,,
-a0b1aea8-2d06-44bc-ab9d-af4c01cde619,cuisine.place,available,25.99,,high,low,7,name.com,,,
-45611ef8-9ff7-452f-9900-45bc9beec069,restaurant.foo,premium,73.75,,high,low,10,name.com,,,
-12bfba37-cb3f-45de-8034-8b1e1f31e4ff,cuisine.marketing,available,9.99,,high,low,7,name.com,,,
-ba24e816-9e8a-4c2f-a37a-18e185c651de,cuisine.foo,premium,161.25,,high,low,7,name.com,,,
-c1a19129-0587-4b48-bd7c-136aa18c26b8,restaurant.theatre,available,509.99,529.99,high,low,10,namesilo,,,
-6254b7b4-797d-4740-8ed7-507f33301cbd,cuisine.airforce,available,134.98,,high,low,7,namecheap,,,
-6a6f0cc8-0ab7-4abf-b005-ce8474d2d2ce,cuisine.army,available,19.99,,high,low,7,name.com,,,
-d834f8d7-d3f9-484c-93b0-50e05e7763a8,cuisine.navy,available,42.99,,high,low,7,name.com,,,
-28b717e5-18d2-486e-bb5b-c9c40f770da2,restaurant.style,premium,78.54,78.54,high,low,10,namesilo,,,
-36d2b050-2526-480f-9aa2-1955d8aad783,restaurant.camp,premium,500,,high,low,10,name.com,,,
-fa3b78f5-2273-4f78-b480-f86e8bf92176,restaurant.fashion,available,32.49,32.49,high,low,10,namesilo,,,
-4354309d-1614-49b3-b301-4f6bb0309701,restaurant.moda,available,19.99,,high,low,10,name.com,,,
-eaef59e2-b1f7-46be-b451-70079859fedd,cuisine.theatre,available,620,,high,low,7,namecheap,,,
-a7578e45-71a6-4bba-9c73-676acfbea358,cuisine.theater,available,19.99,,high,low,7,name.com,,,
-d676b8fd-410d-4c6a-aadb-4d987656aa11,restaurant.shoes,premium,500,,high,low,10,name.com,,,
-003dc5c4-eb81-4d43-bfa6-ab5a6e6f674f,restaurant.lol,premium,778.7,,high,low,10,name.com,,,
-b4c8a6bf-8df6-44a4-99b0-1e6583159fc2,cuisine.repair,available,9.99,,high,low,7,name.com,,,
-bb52f36b-e14e-4f84-bebd-11d882bb097c,cuisine.camp,available,11.99,,high,low,7,name.com,,,
-a48d7d69-bebb-4a30-849a-cf8a4b9a75f7,restaurant.video,premium,420,840,high,low,10,namecheap,,,
-518a6adb-412d-43c1-8a34-6afcbde3eab4,restaurant.tube,available,23.99,23.99,high,low,10,namesilo,,,
-8309700c-fce8-438b-882b-3fe18fe36ac3,restaurant.fishing,premium,96,29.5,high,low,10,namesilo,,,
-d749a146-348b-4c80-9020-0f69584fcaea,restaurant.live,resell,,,high,low,10,"Spaceship, Inc.",03/02/2024 15:15,03/02/2027 15:15,
-7304f9db-5187-4878-93e4-4b634dc39a80,restaurant.courses,premium,116,116,high,low,10,namesilo,,,
-09858b68-1529-4516-a592-e07766ddfd42,cuisine.video,premium,69.3,138.6,high,low,7,namecheap,,,
-8e116a93-c0bb-4567-83aa-ce8e3afc871c,cuisine.stream,premium,437.5,,high,low,7,name.com,,,
-ecd8a515-5d6b-459c-a6f6-70435353d4a0,restaurant.tips,premium,500,,high,low,10,name.com,,,
-9255b6ae-db91-46a9-abc2-02a845646579,cuisine.technology,available,17.99,,high,low,7,name.com,,,
-40f83284-4450-4748-bcc5-d6503309eab8,restaurant.racing,available,11.99,11.99,high,low,10,namesilo,,,
-91946b50-cf08-4fe5-b274-e51e55698c05,cuisine.fishing,available,45.98,,high,low,7,namecheap,,,
-11ab1ca3-f82f-4393-8172-b2c36921e694,cuisine.courses,available,49.99,,high,low,7,name.com,,,
-28aa4a90-2602-4534-8112-b9a7b946025e,cuisine.tips,resell,,,high,low,7,"GoDaddy.com, LLC",23/08/2016 18:24,23/08/2027 18:24,22/09/2026 09:32
-8f5c22ce-d2c0-4179-9b71-7a7206dc36c9,cuisine.racing,premium,125,,high,low,7,name.com,,,
-525d9afe-781b-4d37-b477-328e30c507f4,restaurant.vision,premium,242,242,high,low,10,namesilo,,,
-48057d00-686c-4571-8bcd-4d7ba50ccae5,restaurant.clothing,available,19.99,,high,low,10,name.com,,,
-da8a1c1a-89d2-4fba-bd71-ea7805d6d71a,restaurant.men,resell,,,high,low,10,Dynadot Inc,04/08/2024 19:00,04/08/2027 19:00,
-11f95d66-1b18-43cc-9cdb-e5fabe69ebd2,cuisine.support,available,11.99,,high,low,7,name.com,,,
-270b5563-0de2-4b69-8c70-73d459df5974,cuisine.help,premium,87.5,,high,low,7,name.com,,,
-fbe40f8e-c821-4303-8960-5a4f187279dc,restaurant.club,resell,,,high,low,10,"GoDaddy.com, LLC",19/07/2019 21:38,19/07/2027 21:38,19/09/2026 13:05
-5a2a143b-4144-4e68-83ca-d9ddcc34cbc4,cuisine.hospital,available,71.98,,high,low,7,namecheap,,,
-a008b7a3-ef39-494c-9e5b-ee275ab9b7ae,cuisine.doctor,available,14.99,,high,low,7,name.com,,,
-87c3649e-8107-4eb1-895b-d017a4b6d2b6,restaurant.wtf,premium,78.54,78.54,high,low,10,namesilo,,,
-56130936-3b06-44f8-bd07-b7a044da4c74,restaurant.fail,premium,242,242,high,low,10,namesilo,,,
-4f4ea97d-4275-40ca-9e54-1d44470f6e12,restaurant.exposed,premium,242,242,high,low,10,namesilo,,,
-fb492e39-96de-4a53-abe6-363e83867085,restaurant.sucks,premium,2658.67,2658.67,high,low,10,namesilo,,,
-cfbcaf30-e5fd-4a57-9815-308cb162592d,restaurant.gripe,available,6.99,6.99,high,low,10,namesilo,,,
-84b9b7e7-2c4d-4576-b162-aa2e5b6cc81c,beer.support,available,8.99,26.99,high,low,4,namesilo,,,24/09/2026 08:26
-cd4e741b-33a1-4692-af8b-46960e6793c9,cuisine.club,premium,1004.7,,high,low,7,name.com,,,
-5937ebec-98de-4a2f-835a-cc534d9d8410,cuisine.tickets,available,399.99,,high,low,7,name.com,,,
-b25a4b47-3611-4677-823c-181b70cb11c2,restaurant.rent,resell,,,high,low,10,"GoDaddy.com, LLC",22/08/2020 14:06,22/08/2027 23:59,22/09/2026 08:46
-943b6126-f754-463b-95d4-2af9b1ac292e,restaurant.homes,premium,812.5,,high,low,10,name.com,,,
-0f920c64-be0e-4aa6-97a1-915b51b94c70,restaurant.condos,premium,242,242,high,low,10,namesilo,,,
-43e8c0eb-7cc0-488f-a4f0-4e9240ffc40f,restaurant.immo,premium,118.8,118.8,high,low,10,namesilo,,,
-283705fc-18da-464b-9ee0-bc68999aee89,restaurant.estate,premium,118.8,118.8,high,low,10,namesilo,,,
-86eca12e-69f1-4e9d-a2aa-2a7da05e2f1d,restaurant.maison,premium,118.8,118.8,high,low,10,namesilo,,,
-0f14ff9f-35c8-4b82-a514-72a5ebe6aa94,restaurant.immobilien,premium,242,242,high,low,10,namesilo,,,
-9f28920f-5b6a-4c25-8918-0c99a3e0ce9a,restaurant.rentals,premium,854,854,high,low,10,namesilo,,,
-e1522e07-f4d6-4c16-adae-10aab2e91b2b,restaurant.land,premium,242,242,high,low,10,namesilo,,,
-2f0d96a0-e44d-4009-8f13-ceb24454b9b2,restaurant.realty,premium,4375,,high,low,10,name.com,,,
-6a042ee4-f653-4e31-b18c-f0ada6663bf8,restaurant.villas,premium,500,,high,low,10,name.com,,,
-51906b2f-9f62-4d61-a496-3ada38203d47,restaurant.apartments,available,19.99,,high,low,10,name.com,,,
-7e19602e-99ca-44a7-a955-5991c8e1fcb4,restaurant.jewelry,available,19.99,,high,low,10,name.com,,,
-20fb1df2-da31-416b-a5c5-c9707a0bd3a0,restaurant.luxury,premium,560,560,high,low,10,namecheap,,,
-2414ae3f-0d1f-4b28-adcf-69b84b590cc4,restaurant.diamonds,available,54.99,54.99,high,low,10,namesilo,,,
-ee03d935-548a-4679-91a2-8eb8e8e17955,restaurant.luxe,resell,,,high,low,10,"GoDaddy.com, LLC",04/05/2021 21:31,04/05/2027 21:31,
-7ff378ce-daeb-4098-bfb2-e6680e060fa3,cuisine.center,available,7.99,,high,low,7,name.com,,,
-429715bf-7910-47d6-a500-65a8623476ad,restaurant.clinic,premium,242,242,high,low,10,namesilo,,,
-83a29456-6ef2-4639-90e2-347dc9c92fd2,cuisine.house,available,27.99,,high,low,7,name.com,,,
-e1f68bba-c105-4b3f-b05b-631923752a7d,cuisine.homes,available,1.99,,high,low,7,name.com,,,
-f1e38de4-ea9a-4bf9-bb1e-0f94c00418bf,cuisine.estate,available,14.99,,high,low,7,name.com,,,
-5a2d75f7-e707-4bda-a315-74664dcacad5,cuisine.properties,available,10.99,,high,low,7,name.com,,,
-dc7d5dfa-2bd7-4dfb-b37d-878bcbeb4bc3,cuisine.direct,available,19.99,,high,low,7,name.com,,,
-a9f0ed7a-ecd3-4a64-8b5c-2666bde75599,cuisine.gold,available,9.99,,high,low,7,name.com,,,
-0ee824f5-422c-459a-81e8-5135cb6a27ff,cuisine.diamonds,available,72.98,,high,low,7,namecheap,,,
-5c6de651-b632-4377-bd34-367a5d5e84d2,cuisine.jewelry,available,19.99,,high,low,7,name.com,,,
-b0c591b2-302f-4b5e-ac6d-fffe241f0801,cuisine.luxury,available,49.99,,high,low,7,name.com,,,
-51b41e0b-eb14-450d-b10a-872fd26771a1,cuisine.luxe,resell,,,high,low,7,"GoDaddy.com, LLC",05/05/2021 13:31,05/05/2027 13:31,
-42ac8794-28de-411e-922a-850e77d54b19,restaurant.football,available,19.99,,high,low,10,name.com,,,
-3ba65f40-a618-4430-9e4a-1d6188ae1a2e,restaurant.tattoo,available,34.99,34.99,high,low,10,namesilo,,,
-9af383be-745e-4d00-8335-ddb0e07e7235,restaurant.toys,available,19.99,,high,low,10,name.com,,,
-89b3c46a-8d51-439b-a727-6fe0f466664f,cuisine.limo,available,19.99,,high,low,7,name.com,,,
-6fe5626d-e0ae-4786-a4b3-19774de9a7e3,cuisine.markets,available,9.99,,high,low,7,name.com,,,
-0a47382b-6614-431e-a856-f3c75898360f,restaurant.glass,premium,500,,high,low,10,name.com,,,
-03ca3cf3-4bcc-406b-a551-2ce04242295d,cuisine.coach,available,19.99,,high,low,7,name.com,,,
-8a93b60a-6b28-4cc0-82b1-8ae54db02675,cuisine.clinic,available,19.99,,high,low,7,name.com,,,
-0f3bcd6c-0629-43f9-878d-36a837dd09e6,restaurant.vana,available,2498,,high,low,10,namecheap,,,
-8b4f0f2e-9869-4c8f-b762-6d7e5a2289a9,cuisine.football,available,19.99,,high,low,7,name.com,,,
-14ed8d81-1042-4e5c-abcc-8095cc5e4c20,cuisine.tattoo,available,48.98,,high,low,7,namecheap,,,
-e9f180dd-db2c-4ab2-b86c-ffde4eeb2aee,cuisine.toys,available,19.99,,high,low,7,name.com,,,
-78a5b833-05a2-4409-84a3-d49547616c46,cuisine.business,available,3.99,,high,low,7,name.com,,,
-89b5f3ae-300d-4819-9e53-280fc83d8572,cuisine.company,premium,18.2,18.2,high,low,7,namecheap,,,
-c109ad94-2ce5-4959-9245-b69cbde1a501,cuisine.glass,available,77.99,,high,low,7,name.com,,,
-2b800a27-aded-406f-b4f3-b8dde2237834,cuisine.vana,available,2498,,high,low,7,namecheap,,,
-683803a2-00f2-4512-a2d5-8bf5a47a3490,restaurant.graphics,available,23.99,23.99,high,low,10,namesilo,,,
-845f690b-ac71-4e81-9683-b67ced356efa,restaurant.pictures,resell,,,high,low,10,"GoDaddy.com, LLC",16/06/2022 01:56,16/06/2026 01:56,
-61e4b17e-6290-49aa-aa0e-b5772c2586ba,restaurant.pics,resell,,,high,low,10,"Spaceship, Inc.",26/10/2024 10:26,26/10/2027 23:59,
-e4cd9db5-61d3-47aa-a3ce-8e4de51f76f6,restaurant.photo,premium,116,116,high,low,10,namesilo,,,
-f3dc2572-c5ba-4c86-9e8e-3b0d3798c59d,restaurant.gallery,premium,118.8,118.8,high,low,10,namesilo,,,
-83d2507f-d82c-449a-848f-1d995a075aa0,restaurant.computer,available,29.99,,high,low,10,name.com,,,
+70ea37cb-fcb7-4144-8865-f9dfd731e347,ingredients.paris,premium,363.34,,high,low,11,name.com,,,
+30a43058-be15-4dc0-8761-c5f1c43eb698,formula.discount,premium,85.8,85.8,high,low,7,namecheap,,,03/09/2026 21:16
+dfcce7bb-14d1-42af-93d5-8f941faf0ae2,formula.diet,available,108.98,159.98,high,low,7,namecheap,,,03/09/2026 21:16
+86ab1333-974b-470f-aa59-ff070afcee09,formula.holdings,available,67.98,81.98,high,low,7,namecheap,,,03/09/2026 21:16
 9882619a-7158-49c1-adcc-c8d819823fa2,kitchen.vin,premium,118.8,118.8,high,low,7,namesilo,,,
-ef756844-19ae-4a20-9309-2b6280236838,cuisine.community,available,14.99,,high,low,7,name.com,,,
-9b42dddc-c53b-4d4c-8df8-6be791fbe05a,restaurant.love,premium,3500,,high,low,10,name.com,,,
-db4d53f8-be64-4b72-881b-923e0e9dd927,restaurant.family,premium,500,,high,low,10,name.com,,,
-dbdd25ed-ee2b-406d-bb7a-63f24b9207b2,restaurant.mom,premium,812.5,,high,low,10,name.com,,,
-8b211e57-d694-4f15-95aa-b776b41b73ec,restaurant.dad,premium,623.75,,high,low,10,name.com,,,
-85a381e8-f7cc-495c-8a78-e6ceab266de8,restaurant.republican,available,5.99,,high,low,10,name.com,,,
-8ef46bd8-a2eb-44a0-a4df-9c1a4b17e55b,restaurant.democrat,available,9.99,,high,low,10,name.com,,,
-3585b83e-c5a2-4a01-bbbb-08adf97f568f,restaurant.mba,available,19.99,,high,low,10,name.com,,,
-880725b7-0d3d-4d89-a896-f68ff0cf8406,restaurant.xxx,available,154.98,,high,low,10,namecheap,,,
-51515a64-5be3-4dca-9ede-ff4f6fb3a271,restaurant.hot,premium,116,116,high,low,10,namesilo,,,
-79e6b94b-eca3-4174-9b7a-8cb3f18bf27b,restaurant.bingo,available,14.99,,high,low,10,name.com,,,
-94530daa-7b84-455c-b974-44de1e545ecc,restaurant.adult,available,166.98,,high,low,10,namecheap,,,
-2814bbc7-03a8-4707-a7f3-ecb27f25c58f,restaurant.porn,available,154.98,,high,low,10,namecheap,,,
-f02a578f-84c3-45cd-8d1f-c8cf239ff1cb,restaurant.sexy,available,2749.99,2749.99,high,low,10,namesilo,,,
-f6146ee9-ec47-4830-b365-c982b9f97d77,restaurant.sex,available,154.98,,high,low,10,namecheap,,,
-e9ebb4d0-c39c-4e7a-b7eb-40448865d97e,restaurant.press,premium,937.5,,high,low,10,name.com,,,
-a9a60cc5-b233-42dc-9762-243568eef990,cuisine.photo,premium,125,,high,low,7,name.com,,,
-153256bb-7e51-4428-83c7-0db65bcfbf50,cuisine.photos,available,14.99,,high,low,7,name.com,,,
-d78049cc-dd2c-49f1-b10e-39e9963b3a21,cuisine.graphics,available,31.98,,high,low,7,namecheap,,,
-2724c47f-be0f-4cdb-adb2-9a6ef1ac473e,cuisine.pictures,available,9.99,,high,low,7,name.com,,,
-d74fcfd1-1ae8-45c3-a34d-1ccab492ed31,cuisine.pics,available,1.99,,high,low,7,name.com,,,
-a0370110-8a58-4cb0-90b2-4d20cd75ee69,cuisine.gallery,available,36.98,,high,low,7,namecheap,,,
+3295f827-42a4-4a54-a51b-738219c6cc1c,bar.mba,available,11.98,49.98,high,low,3,namecheap,,,24/09/2026 08:25
+e79c15a6-af35-4a5f-abe2-4bb21c265ebe,foodie.website,premium,625,1250,high,low,6,name.com,,,17/08/2026 10:47
+7f14ef13-b2cf-4937-8a85-3208ac8e9d92,foodie.dance,available,10.48,36.98,high,low,6,namecheap,,,17/08/2026 10:47
+97dfdb17-21bc-45d0-9b73-a125bfa2a652,formula.university,available,65.98,77.98,high,low,7,namecheap,,,03/09/2026 21:16
+5c326986-d445-4a18-9378-f9b24df42805,foodie.juegos,available,368.98,478.98,high,low,6,namecheap,,,17/08/2026 10:47
+60cf90f2-a27d-4e03-acc5-1b7b01799ba9,foodie.golf,available,6.98,83.98,high,low,6,namecheap,,,17/08/2026 10:47
+b6e84e13-22a3-49ce-af6a-352448e7b06e,meat.berlin,available,79.98,89.98,high,low,4,namecheap,,,14/09/2026 23:51
+1bcc5c13-2ee9-4d20-87a0-e99b0a3538b7,table.art,premium,1950,91,high,low,5,namecheap,,,23/09/2026 03:04
+aa507041-128b-41f5-833f-a93ea4a9e9a4,formula.casino,resell,,,high,low,7,Dynadot Inc,08/02/2026 17:00,08/02/2027 17:00,03/09/2026 21:16
+04361416-44dd-4979-838f-337e6e51d0e5,formula.dad,premium,323.7,323.7,high,low,7,namecheap,,,03/09/2026 21:16
+84b9b7e7-2c4d-4576-b162-aa2e5b6cc81c,beer.support,available,8.99,26.99,high,low,4,namesilo,,,24/09/2026 08:26
+37a061fc-3527-4a06-8ce5-1cd48f4476c3,formula.apartments,available,60.98,72.98,high,low,7,namecheap,,,03/09/2026 21:16
+105f50c4-c485-41c8-aae5-b9a5065ef25d,meat.rest,premium,2047.5,2925,high,low,4,namecheap,,,14/09/2026 23:51
+78f4a587-d6ca-4843-a046-7d4f225cfac6,foodie.partners,available,10.48,88.98,high,low,6,namecheap,,,17/08/2026 10:47
 caabb502-cfc3-4811-b6b8-7c4ed35a603f,bar.cafe,resell,,,high,low,3,"Sav.com, LLC - 26",15/10/2025 15:15,15/10/2026 15:15,
-a63ce69d-267b-4a87-a096-b873a711aa4a,cuisine.computer,available,29.99,,high,low,7,name.com,,,
-f5d7b277-f4d6-44f7-8b08-b646b472cff8,restaurant.engineer,available,13.99,,high,low,10,name.com,,,
-3ef32ce5-3657-44e9-81ae-f4a64b48b052,restaurant.engineering,premium,242,242,high,low,10,namesilo,,,
-77f9c92f-f0be-4aff-9647-a5176bfa417e,cuisine.love,premium,86.62,,high,low,7,name.com,,,
-7e165567-aa2e-41a0-82ae-625670bc8ac5,cuisine.democrat,available,9.99,,high,low,7,name.com,,,
-d6ad21ae-7e47-4502-85b8-4bc672a29ccb,cuisine.republican,available,5.99,,high,low,7,name.com,,,
-7555fb5a-1d41-462b-8d14-e9d2b330e374,cuisine.mba,available,19.99,,high,low,7,name.com,,,
-0e460cc4-cfd3-49e7-9f42-d3155350b283,cuisine.press,premium,312.5,,high,low,7,name.com,,,
-e0d0cf50-e87d-4576-8ab5-c73634127565,cuisine.florist,available,14.99,,high,low,7,name.com,,,
-9ab37f4c-d442-424d-b0df-e890914cf8e6,cuisine.flowers,available,159.98,,high,low,7,namecheap,,,
-203d6870-de1c-465c-8270-9bcea97c2c4a,cuisine.hiv,available,184.99,,high,low,7,name.com,,,
-ab184767-7afd-47bd-ad35-c0ad8c8b058c,restaurant.software,premium,3125,,high,low,10,name.com,,,
-d5a28d08-850e-41b9-b7cc-13e5d280dd2c,restaurant.gmbh,available,,,high,low,10,,,,
-21b30c70-641d-4029-9e1b-3414652a412e,restaurant.locker,premium,145.46,8.05,high,low,10,namesilo,,,
-479f4db7-0919-4f49-ad0f-6b64576502a9,restaurant.exchange,premium,78.54,78.54,high,low,10,namesilo,,,
-aa118998-2815-4822-aaf5-730119bdba48,cuisine.engineering,available,11.99,,high,low,7,name.com,,,
-8590794d-b62e-4740-b243-07bc1d10e79b,cuisine.engineer,available,13.99,,high,low,7,name.com,,,
-c3e63af0-4543-4f25-adb8-483313234564,cuisine.moe,premium,312.5,,high,low,7,name.com,,,
-2afd08e1-50a0-4fc6-8008-026810858a7d,restaurant.game,available,309.99,329.99,high,low,10,namesilo,,,
-8bb21aba-1fe7-4460-b32e-d306811edfc4,restaurant.codes,available,11.99,,high,low,10,name.com,,,
-215ae442-922d-47cc-bfae-9e85b9b72233,restaurant.kids,premium,375,,high,low,10,name.com,,,
-131daf6d-cc93-45f9-bda2-8c30f40f95fa,cuisine.software,available,19.99,,high,low,7,name.com,,,
-c84160bd-bd37-4fe1-af1b-9a383ca3ab44,restaurant.schule,available,19.99,,high,low,10,name.com,,,
-54007bdf-cea0-4f41-997f-09fb3addd0d5,restaurant.school,resell,,,high,low,10,"Xiamen ChinaSource Internet Service Co., Ltd",03/12/2022 03:54,03/12/2026 03:54,
-d284b350-7780-46e3-92a1-4fae5dfce488,cuisine.sarl,available,8.98,,high,low,7,namecheap,,,
-ebceb721-2cb5-446f-8856-93a28705fa31,cuisine.ltd,available,9.99,,high,low,7,name.com,,,
-e6481438-4bad-4cb6-92f4-6aab27f0f974,cuisine.inc,premium,2170,2800,high,low,7,namecheap,,,
-a65cffa8-71f5-41b1-87d8-36bd9108bfa7,cuisine.srl,available,49.99,,high,low,7,name.com,,,
-7251a28f-2968-4e06-b8bc-09e495bc6c34,cuisine.ltda,available,46.98,,high,low,7,namecheap,,,
-b1592d0b-5a82-45b0-a28c-3ef9a764d7ce,cuisine.limited,available,14.99,,high,low,7,name.com,,,
-9ce405a0-96ef-475a-b6ee-c7e26090cd60,cuisine.gmbh,available,47.99,,high,low,7,name.com,,,
-fd216a4c-f95a-4c54-88d0-c08645b5fa48,cuisine.enterprises,available,5.99,,high,low,7,name.com,,,
-3a077d10-dbb0-47f8-af5c-54745a753eb9,cuisine.holdings,available,80.99,,high,low,7,name.com,,,
-5a351dec-154f-4fdb-858a-cd5b034dbdfd,cuisine.locker,available,19.99,,high,low,7,name.com,,,
-7a993a24-441e-491b-9759-b477152f344b,cuisine.storage,available,799,,high,low,7,name.com,,,
-615f450e-d20f-4006-8ab9-3bc885999ffe,cuisine.new,available,549.99,,high,low,7,name.com,,,
-08814d15-0cd9-44b9-8069-c827136dc271,restaurant.soccer,available,19.99,,high,low,10,name.com,,,
-3770b3b1-5b0d-4ca5-ba27-981b2d370c2b,restaurant.futbol,available,17.99,17.99,high,low,10,namesilo,,,
-1873fd33-c3d8-4997-847b-ea63e3e6e15d,cuisine.exchange,available,10.99,,high,low,7,name.com,,,
-c3904841-8fbd-413c-8df3-0d3924c0a110,restaurant.date,premium,1107,576,high,low,10,namesilo,,,
-1151bb24-4913-4ea5-88c9-4376689745bf,restaurant.dating,available,23.99,,high,low,10,name.com,,,
-77a6075f-8df2-451c-b487-b8442ff409a0,restaurant.singles,available,12.99,,high,low,10,name.com,,,
-64eba72d-4c40-4863-b5b2-5ed034056c19,restaurant.cruises,available,14.99,,high,low,10,name.com,,,
-50294a7d-838f-4548-9c66-30f25901f1f0,cuisine.design,premium,312.5,,high,low,7,name.com,,,
-d35aef0c-6a69-496b-9a57-a8836edd9aef,cuisine.game,available,349.99,,high,low,7,name.com,,,
-c44fbe07-65ba-4b84-8334-a06db87cbe48,cuisine.codes,available,11.99,,high,low,7,name.com,,,
-4ae57cb4-a4c7-467a-a846-4a5c49e92f96,restaurant.channel,premium,623.75,,high,low,10,name.com,,,
-3d04266d-1fec-477b-a5a1-d18e7135fd15,restaurant.institute,available,9.99,,high,low,10,name.com,,,
-6bed8976-9a90-4ce8-996f-2d00ae59db27,cuisine.management,available,14.99,,high,low,7,name.com,,,
-5eda3ec8-caaa-4085-9c7d-a28be2dd7a3e,cuisine.kids,available,,,high,low,7,,,,
-fb0ffd0f-abe9-4168-9bce-11f868af9563,cuisine.school,available,9.99,,high,low,7,name.com,,,
-5305cf52-31bf-47ca-bbc2-86b2a0745600,cuisine.schule,available,19.99,,high,low,7,name.com,,,
-80d526a8-81e5-421d-b96b-eba17bed8b80,cuisine.directory,available,7.99,,high,low,7,name.com,,,
-d102059b-bec1-46f2-aa62-e6f0a174cba0,cuisine.futbol,available,19.99,,high,low,7,name.com,,,
-5f1694aa-0743-4a32-bba4-ba05c3f37897,cuisine.soccer,available,19.99,,high,low,7,name.com,,,
-8e5c427e-9a00-4698-b92c-26ab467ac3e6,restaurant.lgbt,premium,625,,high,low,10,name.com,,,
-b2b7b6d0-9057-4698-a587-3a2dfab51e8c,restaurant.gay,premium,116,116,high,low,10,namesilo,,,
-1a566d1b-f1cf-4225-ad11-64829fa87499,cuisine.dating,available,23.99,,high,low,7,name.com,,,
-11d03934-9852-4713-8645-993a0b67f0ae,cuisine.singles,available,12.99,,high,low,7,name.com,,,
-53ba1191-f044-4e06-999b-2e59ea7302e9,cuisine.date,premium,375,,high,low,7,name.com,,,
-6e0d666e-41f3-4151-9db8-9628f2c0109e,cuisine.cruises,available,14.99,,high,low,7,name.com,,,
-14ba3b7d-aea8-4a58-9101-9836c23d5a63,cuisine.channel,premium,73.75,,high,low,7,name.com,,,
-25fd9a2d-5dbb-4695-a15f-7b01149765ac,restaurant.observer,premium,854,854,high,low,10,namesilo,,,
-a48e5921-0c04-46bd-a5e8-41d3223ff333,restaurant.rehab,premium,242,242,high,low,10,namesilo,,,
-33cab26a-9e6b-4248-98fa-1f0c8bff5ed1,cuisine.download,premium,437.5,,high,low,7,name.com,,,
-938d35f6-fac0-43b8-9349-211e61290664,restaurant.actor,available,19.99,,high,low,10,name.com,,,
-eab30aa0-0353-43e7-9564-61a621a423dc,restaurant.legal,available,9.99,,high,low,10,name.com,,,
-2e0f7a2e-458f-4b45-b125-741e5a7ffd71,restaurant.esq,premium,811.25,,high,low,10,name.com,,,
-e384b6d8-d39a-40e8-b67e-e9b6072d8ed6,restaurant.attorney,premium,854,854,high,low,10,namesilo,,,
-9f791b15-5584-4925-93dc-2129c0fff693,restaurant.lawyer,premium,854,854,high,low,10,namesilo,,,
-f139f128-c485-47ca-81e0-918d8795f5e8,restaurant.soy,premium,373.75,,high,low,10,name.com,,,
-e59e8c88-cd72-4011-bdcf-9be5c8940ba6,restaurant.you,premium,116,116,high,low,10,namesilo,,,
-3e2da72d-3b99-4ad6-84cb-d14b6bab7f8e,restaurant.moi,available,25.99,25.99,high,low,10,namesilo,,,
-b688a5cf-9326-4fa5-89d0-d234f6bbe7c5,cuisine.team,resell,,,high,low,7,"DNSPod, Inc.",27/11/2019 08:19,27/11/2026 08:19,
-e8866242-dea5-4fd3-a33e-83a120506d72,cuisine.tires,available,14.99,,high,low,7,name.com,,,
-31181b0d-afe4-427d-a55f-1ddb482f649e,cuisine.hosting,available,398,,high,low,7,namecheap,,,
-c08c6fbc-0bdb-42d4-97c5-03ca1f8f4e1e,cuisine.lgbt,available,19.99,,high,low,7,name.com,,,
-8b1c2e17-db92-4f2f-8dc4-71ff49913470,cuisine.gay,available,50.98,,high,low,7,namecheap,,,
-a1e0fb40-3b12-4cb2-9bad-c27af4beddb3,cuisine.host,premium,312.5,,high,low,7,name.com,,,
-a7a15253-359a-4d4c-a200-ececde0985ce,cuisine.music,available,,,high,low,7,,,,
-5a754fe4-148c-4586-8c72-3cb39196aacd,restaurant.golf,premium,854,854,high,low,10,namesilo,,,
-478e80fc-38b1-451f-a7aa-638b3aa2a540,restaurant.church,available,11.99,,high,low,10,name.com,,,
-f610cb18-aeab-4ad3-b294-67be4d3653d9,restaurant.faith,available,11.99,11.99,high,low,10,namesilo,,,
-7105878c-1fb8-4a79-a7d7-22acbcd42a3f,cuisine.news,premium,280,560,high,low,7,namecheap,,,
-ccf46763-4ccc-4790-aeb1-c392eeb84989,cuisine.blog,premium,646.25,,high,low,7,name.com,,,
-1e957760-daa2-4e00-8444-aded1a58afc9,cuisine.observer,premium,14,14,high,low,7,namecheap,,,
-cf4561dd-d236-4c2e-8118-2ee2c940528d,cuisine.trade,premium,437.5,,high,low,7,name.com,,,
-a25824bf-99eb-4305-85eb-7169cbbdfa3f,cuisine.rehab,available,14.99,,high,low,7,name.com,,,
-5c40ac26-674f-45ff-bd0a-e4d6ae06633d,restaurant.security,available,1999.99,2049.99,high,low,10,namesilo,,,
-c8370720-2ab8-4e0a-a81f-a8c4f6e75429,cuisine.actor,available,19.99,,high,low,7,name.com,,,
-6693e08e-d1ec-41eb-94cc-88f9f7b0c8b0,cuisine.attorney,available,69.99,,high,low,7,name.com,,,
-107c93e6-9c8a-4056-b6ad-d7bd9a935b70,cuisine.esq,premium,111.25,,high,low,7,name.com,,,
-c9b5e5c5-a14a-4c1f-b573-b569764fd365,cuisine.lawyer,available,66.98,,high,low,7,namecheap,,,
-b45320b3-b4de-4641-ae91-7091f2b5af00,cuisine.law,available,119.99,,high,low,7,name.com,,,
-9f98fe1f-b1ed-42fe-bcbd-9b1d9a1ae44c,cuisine.legal,available,9.99,,high,low,7,name.com,,,
-1a72472e-4e45-47ad-8705-fd85b87a1bd5,cuisine.name,available,9.98,,high,low,7,namecheap,,,
-2eb2f78a-d98c-49ba-89e9-47437646074d,cuisine.soy,available,24.99,,high,low,7,name.com,,,
-b40dd8f9-5349-4c1f-88e5-27882349047b,cuisine.you,premium,62.5,,high,low,7,name.com,,,
-695b293e-3fe4-4291-aa55-02152f64eff8,cuisine.one,premium,625,,high,low,7,name.com,,,
-226e1fc4-4765-462b-beb9-5c24168f578b,restaurant.cleaning,premium,78.54,78.54,high,low,10,namesilo,,,
-b5b80085-0e70-4cd2-b054-29551ef8c67f,restaurant.boats,premium,812.5,,high,low,10,name.com,,,
-c0dfee86-91f1-4521-ad6d-0eb595bd06db,restaurant.international,premium,78.54,78.54,high,low,10,namesilo,,,
-6dfb1e9b-46fd-4da1-8201-8dfea88fdb5f,cuisine.golf,available,7.99,,high,low,7,name.com,,,
-8c7d55e2-372f-484e-a334-98e398bf42fc,cuisine.faith,premium,125,,high,low,7,name.com,,,
-2e62de5c-b15f-43e3-8f1e-996741d00c7f,cuisine.church,available,11.99,,high,low,7,name.com,,,
-c7532996-1aa3-49f9-accc-c6726512fb5b,cuisine.systems,available,21.99,,high,low,7,name.com,,,
-dded5e3a-6a36-4f4b-ba79-92a21eea7ed9,cuisine.security,available,2950,,high,low,7,namecheap,,,
-3405e349-378c-4b2a-932f-e050cdc495d7,cuisine.care,available,29.99,,high,low,7,name.com,,,
+0a5bff9c-3f39-4daf-bac1-49d8ee637372,formula.camera,available,61.98,72.98,high,low,7,namecheap,,,03/09/2026 21:16
+f022d600-1091-4c7b-b263-ac01212d4407,dining.menu,available,,,high,low,6,,,,
+cceac255-7247-46e6-80e8-f69870782ba7,cooking.vodka,available,32.49,32.49,high,low,7,namesilo,,,08/09/2026 08:19
+4d86b99c-e002-4a0e-9a86-10f08ec218c5,liquid.build,available,32.98,39.98,high,high,6,namecheap,,,18/08/2026 09:15
+70ae5c2d-7992-442d-a28b-b988f05d3af2,foodie.engineer,available,17.99,56.99,high,low,6,name.com,,,17/08/2026 10:47
+3d1c4289-3b39-404e-a437-6559afd4969c,formula.buzz,premium,130,65,high,low,7,namecheap,,,03/09/2026 21:16
+0334b3fb-dbd2-4282-a2fc-4e85e52f083a,formula.love,premium,455,650,high,low,7,namecheap,,,03/09/2026 21:16
+5c50e374-6294-4440-85e8-31655a93d416,formula.science,premium,13000,130,high,low,7,namecheap,,,03/09/2026 21:16
+e1b7fbf2-1687-4813-9633-a3036b13f62a,bar.pub,resell,,,high,low,3,"Chengdu West Dimension Digital Technology Co., Ltd.",26/03/2018 05:03,26/03/2030 05:03,
+79256113-b1b2-4559-a482-19ec013a9935,formula.villas,available,62.98,74.98,high,low,7,namecheap,,,03/09/2026 21:16
+9f0b4488-7665-43d9-bc5b-ce9e66b1a4e3,formula.jewelry,available,67.98,69.98,high,low,7,namecheap,,,03/09/2026 21:16
+d740c003-22c1-41b1-ad40-6b080ab9aca3,foodie.rehab,available,14.99,52.99,high,low,6,name.com,,,17/08/2026 10:47
+7816431c-d600-455d-9b1b-94199e72c8e0,formula.schule,available,29.98,32.98,high,low,7,namecheap,,,03/09/2026 21:16
+5544a08e-b610-4432-b650-0cefeaa2aa40,meat.baby,available,1.8,81.98,high,low,4,namecheap,,,14/09/2026 23:51
+15c65bdb-99cd-40a6-83cf-0e4393527a8c,cooking.fish,premium,242,242,high,low,7,namesilo,,,08/09/2026 08:19
+6df0b6a8-c729-4f68-a5ee-cea7cd034673,meat.law,available,95.99,95.99,high,low,4,namesilo,,,14/09/2026 23:51
+d34946d4-9a4e-4702-8815-ef242ce121a1,epicure.catering,premium,38.94,38.94,high,low,7,namesilo,,,17/08/2026 10:42
+236751cd-4335-48c4-bbc5-741630589957,formula.marketing,resell,,,high,low,7,"Global Domains International, Inc. DBA DomainCostClub.com",26/01/2026 15:15,26/01/2027 15:15,03/09/2026 21:16
+8f51c538-db41-4787-8838-55edd468f8d0,liquid.solutions,resell,,,high,high,6,Dynadot Inc,03/03/2022 19:57,03/03/2027 19:57,18/08/2026 09:15
+7813def1-4a4d-4c5e-8f5a-073ac2924a52,ingredients.pet,available,19.99,,medium,low,11,name.com,,,
+38d728c6-aace-4513-852a-fa9a8a9761cf,foodie.tienda,available,9.99,77.99,high,low,6,name.com,,,17/08/2026 10:47
+a0f08b0d-4545-45d2-952c-3fe385b815ca,foodie.theatre,available,509.99,529.99,high,low,6,namesilo,,,17/08/2026 10:47
+a5a4708f-abe7-4fae-a1a2-4f38a1b1c9de,foodie.credit,available,9.48,131.98,high,low,6,namecheap,,,17/08/2026 10:47
+fba5508b-3e84-4a5e-ab37-a967d71e91a3,foodie.tattoo,available,2.98,48.98,high,low,6,namecheap,,,17/08/2026 10:47
+34a1336c-7743-4c11-957f-4601f110e2f6,meat.catering,available,38.99,38.99,high,low,4,namesilo,,,14/09/2026 23:51
+7fc4d9ef-3b4a-4adb-9e3c-f66689cb02e0,meat.cat,available,26.98,38.98,high,low,4,namecheap,,,14/09/2026 23:51
+7b5b8382-a932-441d-b023-e8ca21327a25,ingredients.cheap,available,9.99,,medium,low,11,name.com,,,
+24737e52-7962-4723-a993-fcb2d03cfaf0,meat.ngo,available,18.98,24.98,high,low,4,namecheap,,,14/09/2026 23:51
+dfe1e69c-d539-439d-b2b7-a09be4b4bfff,foodie.fast,premium,116,118.8,high,low,6,namesilo,,,17/08/2026 10:47
+d58806ad-a3be-4a7e-843f-e581ad62cc5c,meat.storage,available,509.99,529.99,high,low,4,namesilo,,,14/09/2026 23:51
+854afe17-5104-4c6f-888a-e12c6e985db9,juice.shop,premium,3125,,high,low,5,name.com,,,
+6898c36c-85aa-40df-b30f-b8f91c8554dd,foodie.review,premium,6250,125,high,low,6,name.com,,,17/08/2026 10:47
+fe54b332-d481-4020-9279-eea30623625f,meat.repair,available,5.98,47.48,high,low,4,namecheap,,,14/09/2026 23:51
+88ae0718-9309-4449-80e8-d15f26c3cf38,ingredients.solar,available,9.99,,medium,low,11,name.com,,,
+3e71a21d-9940-42f3-89e5-b1d9fec2b5fb,ingredients.golf,available,7.99,,medium,low,11,name.com,,,
+2d17569b-8521-4d75-9d32-1bedfbf16e24,meat.zone,resell,,,high,low,4,"DNSPod, Inc.",30/10/2021 13:15,30/10/2027 13:15,14/09/2026 23:51
+2122ed45-3655-448d-b2d2-712936a14e09,meat.careers,available,28.98,89.98,high,low,4,namecheap,,,14/09/2026 23:51
+1725ad75-e857-4720-b8c4-9f4aa9c137a8,diner.shop,premium,1107,1107,high,low,5,namesilo,,,
+70367678-7426-4909-a53e-1f3e67902085,foodie.zone,available,8.98,51.98,high,low,6,namecheap,,,17/08/2026 10:47
+1c755351-20dc-4e08-a3aa-a2dee06749c3,recipe.restaurant,premium,118.8,118.8,high,low,6,namesilo,,,
+843fd527-8122-4408-a0de-6172c3a9eb0d,ingredients.day,premium,36.25,,medium,low,11,name.com,,,
+c0e14cec-dedf-409a-b556-aad351b111f5,ingredients.irish,available,9.99,,high,low,11,name.com,,,
+22d32c7a-61b3-4866-8c8c-cc2bff57a13d,meat.marketing,available,6.98,53.98,high,low,4,namecheap,,,14/09/2026 23:51
+4bd288a1-dbcb-4e3b-923d-08247ed5d5a4,formula.actor,available,9.48,54.98,high,low,7,namecheap,,,03/09/2026 21:16
+a452cdac-9124-4f74-a575-3eb564c01ccb,meat.miami,premium,47.2,21.24,high,low,4,namesilo,,,14/09/2026 23:51
+f680d8e3-4e7c-4531-bf40-2ab8097d1cd6,meat.win,premium,116,29.5,high,low,4,namesilo,,,14/09/2026 23:51
+423e3ecb-010d-4059-8323-c761832d8c9f,formula.voting,available,1398,1448,high,low,7,namecheap,,,03/09/2026 21:16
+4449773f-e709-453d-876a-c2cc6decff10,liquid.ceo,available,9.99,124.98,high,high,6,namecheap,,,18/08/2026 09:15
+48e39ff1-3add-4744-9ab2-2ebdeec3f5fa,foodie.gmbh,available,45.99,45.99,high,low,6,namesilo,,,17/08/2026 10:47
+19811342-f882-411b-a740-3863438fed7b,recipe.rest,available,,,high,low,6,,,,
+21b32994-5ebc-43e7-83f5-86bfc52ea40f,bar.restaurant,premium,78.54,78.54,high,low,3,namesilo,,,
+e76cf01f-4ced-4408-8c9b-5aa3c9467cfb,meat.flights,available,23.98,75.98,high,low,4,namecheap,,,14/09/2026 23:51
+918e13f7-60cb-4ae1-ae80-661195d4e2bd,meat.condos,available,58.99,58.99,high,low,4,namesilo,,,14/09/2026 23:51
+dedbcf03-b9fe-4968-b509-5f3ee90e0099,meat.forsale,premium,512,512,high,low,4,namesilo,,,14/09/2026 23:51
+25b9c369-179d-48ac-bba1-43133e1049ee,recipe.food,premium,490,700,high,low,6,namecheap,,,
+8b0765f0-e3ce-48cf-af43-870155d2f9e1,kitchen.vodka,premium,47.2,29.5,high,low,7,namesilo,,,
+a0024013-92fb-4f8f-a457-be4e9bb583df,formula.tires,available,87.98,110.98,high,low,7,namecheap,,,03/09/2026 21:16
+596dc5f7-356d-43f5-9592-cd5ca41d13c2,formula.menu,available,34.98,38.98,high,low,7,namecheap,,,03/09/2026 21:16
+3611f251-a37a-4445-8044-112d59ae2ccd,foodie.productions,available,6.48,50.98,high,low,6,namecheap,,,17/08/2026 10:47
+5a99a412-5ea9-4b05-b475-aaca46795134,formula.computer,available,22.48,48.98,high,low,7,namecheap,,,03/09/2026 21:16
+065b6f3c-d9b2-4325-a328-6101f3b55bc6,formula.bot,resell,,,high,low,7,"Dynadot, LLC",04/01/2026 06:33,04/01/2027 06:33,03/09/2026 21:16
+d0274005-d00e-4b22-9951-dd29fc4585a3,cooking.at,available,,,high,low,7,,,,
+02ccd5c2-62cc-4cea-a734-ba6acb43629b,ingredients.ac,available,34.99,47.99,medium,low,11,namesilo,,,
+d2de2443-866c-4b7a-99e2-ea4b418f0ee0,foodie.contractors,available,9.99,45.99,high,low,6,name.com,,,17/08/2026 10:47
+e9162332-bf7f-4e97-bde7-49c242572a7a,foodie.game,available,309.99,329.99,high,low,6,namesilo,,,17/08/2026 10:47
+034d814f-9e2a-4dfb-a3a3-b5ba98a69fe3,recipe.menu,available,,,high,low,6,,,,
+1bb95221-2b5f-4170-b233-e9d8a8bf6159,ingredients.lighting,available,14.99,,medium,low,11,name.com,,,
+94472a33-a187-4529-8659-93fbdf0bc764,formula.website,premium,650,1300,high,low,7,namecheap,,,03/09/2026 21:16
+1964663a-3e70-48dd-814a-140415de5258,ingredients.yachts,available,1.99,,medium,low,11,name.com,,,
+4f197393-2024-4a03-a9d6-fd4369fb3cf7,formula.autos,resell,,,high,low,7,Porkbun LLC,25/06/2026 01:27,25/06/2027 23:59,03/09/2026 21:16
+4e4d4eab-58cf-4f62-9648-45cbf2847069,formula.haus,available,11.98,37.98,high,low,7,namecheap,,,03/09/2026 21:16
+c5f0671a-2bf3-450f-ba1a-46981c102077,bar.singles,premium,38.94,38.94,high,low,3,namesilo,,,24/09/2026 08:25
+93a57656-37c4-424a-bb52-730ce6e8f9e2,formula.juegos,available,368.98,478.98,high,low,7,namecheap,,,03/09/2026 21:16
+28cba7f9-1582-49e4-bbb5-373c87c74667,ingredients.luxury,available,49.99,,medium,low,11,name.com,,,
+2bf5e1f8-2a41-401b-ab8b-bb4f11071ff9,ingredients.love,available,9.99,28.99,medium,low,11,namesilo,,,
+2279c8f9-65ff-4723-86d3-130b1730d4aa,foodie.kaufen,available,5.99,26.99,high,low,6,namesilo,,,17/08/2026 10:47
+887bfd3c-f748-4a83-9554-a128798689ff,meat.jetzt,available,23.99,23.99,high,low,4,namesilo,,,14/09/2026 23:51
+fb2958f3-9fc6-474e-a803-48fae2808b7b,cook.bar,premium,393.75,,high,low,4,name.com,,,
+cf84a7da-32e5-48c1-b523-2913bb086236,ingredients.racing,premium,116,116,medium,low,11,namesilo,,,
+e9ec963a-e7e5-4ed6-b5a3-a21032b53ae3,formula.city,available,5.98,37.98,high,low,7,namecheap,,,03/09/2026 21:16
+94521263-b5ba-4c56-9536-d3f339e5b516,ingredients.photography,available,9.99,,medium,low,11,name.com,,,
+ca702e6a-4593-4b95-9c77-7f5dd2c068de,cooking.pizza,premium,242,242,high,low,7,namesilo,,,08/09/2026 08:19
+c2152f09-1795-44e9-817e-2824597d72a3,meat.engineer,available,38.99,38.99,high,low,4,namesilo,,,14/09/2026 23:51
+46224b26-d320-40a8-9381-1a6b4795c294,dining.food,available,5.49,39.99,high,low,6,namesilo,,,
+cd11ef98-012c-4215-8f02-84d1bda20608,ingredients.link,premium,246.75,329,medium,low,11,namecheap,,,
+767b99f8-10bb-4a38-b10c-28a9c93f0a43,meat.cab,available,32.99,32.99,high,low,4,namesilo,,,14/09/2026 23:51
+28b9c1e7-2d37-4a3d-86b2-f32d52290373,formula.graphics,premium,128.7,128.7,high,low,7,namecheap,,,03/09/2026 21:16
+a0050142-f9cb-48f3-8d7a-fd4d66111804,meat.press,premium,650,1300,high,low,4,namecheap,,,14/09/2026 23:51
+44a9ef75-c2dd-4dd8-b131-628fc12a10e3,meat.limo,available,54.99,54.99,high,low,4,namesilo,,,14/09/2026 23:51
+978fba39-583b-4a05-9a23-0012679785d7,meat.boo,premium,323.7,323.7,high,low,4,namecheap,,,14/09/2026 23:51
+82c73f96-1052-4a8b-a699-4e384377b2c1,ingredients.adult,available,166.98,,medium,low,11,namecheap,,,
+612d983d-2db5-4532-9e0c-58b7f0fd6ca1,ingredients.qpon,available,1.99,,medium,low,11,name.com,,,
+1ad4b966-c202-40a2-97fe-f166de6d9d86,meat.realty,available,99.8,456.98,high,low,4,namecheap,,,14/09/2026 23:51
+baa4cf31-9649-499e-91f1-101c4e4110e9,water.dance,resell,,,high,medium,5,Dynadot Inc,28/01/2019 13:31,28/01/2027 13:31,08/09/2026 13:05
+7100b892-af45-45a3-baa8-5a839af8257e,ingredients.loans,available,19.99,,medium,low,11,name.com,,,
+ba16a1b5-36a3-4e3e-83e8-639bb2630116,formula.shoes,available,34.98,81.98,high,low,7,namecheap,,,03/09/2026 21:16
+9fea401a-59b4-41b7-9728-ef39ddde8994,foodie.wine,available,8.48,75.98,high,low,6,namecheap,,,17/08/2026 10:47
+0d8e61c3-9fed-4f42-8492-e34d64637f51,ingredients.casa,available,2.19,12.99,medium,low,11,namesilo,,,
+45273ad3-51ea-4758-867f-c1d3f35f0c4f,pub.bar,premium,7875,,high,low,3,name.com,,,
+e80dbf48-2e3f-4580-b48d-8ae8699f3658,meat.day,premium,323.7,323.7,high,low,4,namecheap,,,14/09/2026 23:51
+d8d00651-e9c1-4534-bd3e-2732dc231911,drunk.pub,premium,1250,1250,high,low,5,name.com,,,14/08/2026 20:17
+c2883980-138e-4256-8be3-6f632e0924e4,formula.tax,resell,,,high,low,7,"DNSPod, Inc.",06/07/2024 17:00,06/07/2027 17:00,03/09/2026 21:16
+a4ceb89e-abfe-4dbe-951d-887714ce2d0e,ingredients.lawyer,available,62.99,62.99,medium,low,11,namesilo,,,
+3b6b6ff1-35b8-4498-8e07-d009dd12f521,foodie.tax,available,8.98,85.98,high,low,6,namecheap,,,17/08/2026 10:47
+15db9d83-f85e-402c-a9ea-eb475f08034c,kitchen.at,resell,,,high,low,7,registrant:     <data not disclosed>,,,
+cb5fd423-4f1d-4623-b401-1ccdd2f96e2f,foodie.mov,premium,73.75,73.75,high,low,6,name.com,,,17/08/2026 10:47
+0bda462e-b259-423a-b9e5-ccfe65b1c9dc,ingredients.fun,resell,4.99,,medium,low,11,"Chengdu West Dimension Digital Technology Co., Ltd.",13/05/2026 07:02,13/05/2027 07:02,
+5fc6e4c8-e570-4325-aec2-90930aad2e1c,foodie.xxx,available,69.98,154.98,high,low,6,namecheap,,,17/08/2026 10:47
+75eb1355-ce4d-4aa2-b683-a80737cfe87d,foodie.film,available,65.99,65.99,high,low,6,namesilo,,,17/08/2026 10:47
+6a361ea3-f924-48d7-af93-84061a679c19,bite.boutique,available,2.98,41.98,high,low,4,namecheap,,,08/09/2026 13:01
+35863b16-27af-4562-ab39-4faa26e71183,foodie.clinic,available,11.98,82.98,high,low,6,namecheap,,,17/08/2026 10:47
+7e938ed4-e2e3-4513-b1f4-4a7c69aad71f,formula.immobilien,available,39.98,43.98,high,low,7,namecheap,,,03/09/2026 21:16
+4333535e-8bb2-4ad9-ac1b-4c88dcd9d282,formula.bio,resell,,,high,low,7,"Sav.com, LLC - 44",07/05/2026 15:16,07/05/2027 15:16,03/09/2026 21:16
+1304702c-05aa-4552-96b4-aaf73f624e3a,ingredients.xyz,resell,,,high,low,11,Dynadot LLC,28/06/2019 19:32,28/06/2027 23:59,
+2108a028-feb7-4399-bae7-300453ae14a1,meat.irish,available,5.98,31.98,high,low,4,namecheap,,,14/09/2026 23:51
+da4361ae-29bb-4090-aa3c-4f0447303367,ingredients.coupons,available,3.99,,medium,low,11,name.com,,,
+38af9a2e-96cc-4f6d-8f40-917b5fb4b889,foodie.diamonds,available,54.99,54.99,high,low,6,namesilo,,,17/08/2026 10:47
+7e0728c6-9e7c-4961-af14-9ec796f4b5e4,meat.hospital,available,55.98,71.98,high,low,4,namecheap,,,14/09/2026 23:51
+6e4352db-afac-4150-b997-2b53a385927b,wine.earth,premium,1183.32,,high,low,4,1API GmbH,05/12/2020 08:38,05/12/2026 08:38,
+62b6a25d-4d67-4866-bf74-3a874f912592,recipe.cooking,resell,,,high,low,6,Porkbun,05/03/2020 07:05,05/03/2027 07:05,
+1d92aacc-0849-4b8e-85e9-2524a5a8f10f,liquid.cyou,premium,384,768,high,high,6,namesilo,,,18/08/2026 09:15
+5f8af884-2786-49a3-b726-5b7e7a385374,meat.reisen,available,3.99,20.99,high,low,4,namesilo,,,14/09/2026 23:51
+45c9678e-3dfa-4c0d-a393-f0744b93bded,epicure.restaurant,available,11.98,81.98,high,low,7,namecheap,,,17/08/2026 10:42
+3c5b152e-fc19-4db4-9494-a850a76ea36d,foodie.lawyer,available,62.99,62.99,high,low,6,namesilo,,,17/08/2026 10:47
+bb88a9df-212c-4a34-86c3-0ce79326dd8c,meat.direct,resell,,,high,low,4,"Spaceship, Inc.",12/12/2016 18:13,12/12/2026 18:13,14/09/2026 23:51
+f1254a00-5646-4b45-b1ba-5bfb34bc35b1,formula.associates,available,12.98,49.98,high,low,7,namecheap,,,03/09/2026 21:16
+92de3606-1350-4562-93f5-3adf8e292c90,formula.prof,premium,427.7,427.7,high,low,7,namecheap,,,03/09/2026 21:16
+c97e574c-a010-4330-80e6-7b7cad71cd90,ingredients.moe,available,13.99,13.99,medium,low,11,namesilo,,,
+658cee44-6d4a-4cd8-9f3d-e1b79de2c2dc,formula.reisen,available,21.98,28.98,high,low,7,namecheap,,,03/09/2026 21:16
+9caad32f-96f1-4bec-b536-68075037cff5,meat.accountants,available,117.99,117.99,high,low,4,namesilo,,,14/09/2026 23:51
+c0764180-fc66-4acd-8ad1-9f9aa5d9b194,ingredients.hair,premium,2500,,medium,low,11,name.com,,,
+30aab2bc-c605-45df-8631-d6741a74217c,cooking.paris,premium,365.83,,high,low,7,name.com,,,
+78f62b37-cf2d-41d8-abbc-f0d79e0c5773,ingredients.mba,available,19.99,,medium,low,11,name.com,,,
+f492eb5b-3664-40ac-a124-113e645b6484,bar.menu,available,,,high,low,3,,,,
+fed09848-3c99-44cf-9817-741a61553d60,chefs.shop,resell,,,high,low,5,"XIAMEN CHINASOURCE INTERNET SERVICE CO., LTD.",12/12/2025 02:27,12/12/2026 23:59,
+c6855920-0692-470d-93e6-cb0d981903f7,meat.creditcard,available,144.99,144.99,high,low,4,namesilo,,,14/09/2026 23:51
+174626b0-966f-4960-a91f-f15992f65537,meat.construction,available,38.99,38.99,high,low,4,namesilo,,,14/09/2026 23:51
+6bd43eb6-bb4c-49cb-859d-41bd4a0520a6,eatery.at,available,,,high,high,6,,,,
+44b3d4c6-d7f6-4991-a7d9-8205e2312bb2,epicure.living,available,1.8,48.98,high,low,7,namecheap,,,17/08/2026 10:42
+c680263f-2727-4c15-9306-41db37dd4230,formula.deal,premium,130,130,high,low,7,namecheap,,,03/09/2026 21:16
+7e13ada6-327b-4dd3-9012-abf3634244d3,cooking.store,premium,812.5,3250,high,low,7,namecheap,,,08/09/2026 08:19
+3b2eba11-a293-4dc2-997b-7312b6e7cdb4,foodie.desi,available,19.98,22.98,high,low,6,namecheap,,,17/08/2026 10:47
+bd78d740-8d5e-47a4-96ef-110690c04375,meat.properties,available,15.98,43.98,high,low,4,namecheap,,,14/09/2026 23:51
+12f7ac38-8d94-473d-997d-f87ad80605a5,kitchen.space,premium,3500,14000,high,low,7,namecheap,,,
+9473348a-d5bb-4c0c-8902-02abb6dcf376,foodie.toys,available,14.98,82.48,high,low,6,namecheap,,,17/08/2026 10:47
+db08ab81-8859-496c-98f2-37c57330b418,ingredients.hot,premium,125,,medium,low,11,name.com,,,
+e38e3b13-fef0-449b-9d7a-19d1d4d69c28,ingredients.party,premium,437.5,,medium,low,11,name.com,,,
+e667b8a6-2df0-40fb-8899-1e019da8fa13,formula.cool,resell,,,high,low,7,"Spaceship, Inc.",23/05/2026 16:32,23/05/2027 16:32,03/09/2026 21:16
+65431c86-9804-44df-a71b-8e9433713b15,foodie.mom,available,1.8,45.98,high,low,6,namecheap,,,17/08/2026 10:47
+3f97f4ce-52d8-4eb7-bb9a-b34644402b9a,foodie.gift,available,14.99,14.99,high,low,6,namesilo,,,17/08/2026 10:47
+f7db0659-d097-44a8-b72b-e93cac6a404b,liquid.fans,premium,32.5,65,high,high,6,namecheap,,,18/08/2026 09:15
+d0d807cb-217f-4a3d-8252-a58ef24170b0,ingredients.dance,available,17.99,,medium,low,11,name.com,,,
+efcf8ab7-3207-4a45-8ee5-74c66b730d18,ingredients.cfd,available,1.49,,medium,low,11,name.com,,,
+d0fac401-689b-4ff3-b222-8e067bb00f1e,meat.rent,available,1.5,81.98,high,low,4,namecheap,,,14/09/2026 23:51
+6a8d4d54-af2a-46b7-9b2c-802ee6e8e706,formula.nexus,premium,323.7,323.7,high,low,7,namecheap,,,03/09/2026 21:16
+23549791-371a-40cf-a866-9321b4e81915,meat.rich,available,94.99,1999,high,low,4,namesilo,,,14/09/2026 23:51
+78f8785a-87e1-4dce-bc7c-5af5dab496e3,ingredients.free,premium,125,,medium,low,11,name.com,,,
+54c4567d-a51b-4bc5-b854-4c4cd217cfd5,ingredients.sale,available,5.99,,medium,low,11,name.com,,,
+66fb05e3-0f8a-48fc-84b9-75924a32045c,meat.hamburg,available,69.98,73.98,high,low,4,namecheap,,,14/09/2026 23:51
+b2aa43b2-9867-47f4-95ee-6ee3efc2bd63,ingredients.support,available,11.99,,medium,low,11,name.com,,,
+a8f6ea9a-caf8-44de-8c94-9dd1ac38a105,ingredients.audio,available,104.99,114.99,medium,low,11,namesilo,,,
+1b465ef8-e7f8-4a76-95e7-fa863d97d036,ingredients.press,available,4.99,86.99,medium,low,11,namesilo,,,
+9a3bd440-3854-4042-81ed-79db961d8f78,welcoming.town,available,6.98,47.48,high,low,9,namecheap,,,13/09/2026 10:14
+1c4da0fe-deec-403a-b089-5b092c831908,ingredients.blackfriday,available,114.99,114.99,medium,low,11,namesilo,,,
+a1b8569c-76ac-418e-be24-0c4761afe87c,cooking.osaka,available,,,high,low,7,,,,
+43552ab7-13b4-4e2d-8383-36c4d4443cf7,formula.singles,available,3.98,36.98,high,low,7,namecheap,,,03/09/2026 21:16
+bdfa7ae9-53eb-40cd-a50e-c10eae1932fc,hospitable.coffee,available,6.98,47.98,high,low,10,namecheap,,,21/08/2026 14:16
+864d350d-654f-4524-8271-224101e9cb7a,cooking.space,premium,1625,6500,high,low,7,namecheap,,,08/09/2026 08:19
+56661f06-5935-4fba-8a52-8f9f0d125cd5,hospitable.mx,available,26.98,58.98,high,low,10,namecheap,,,21/08/2026 14:16
+02c96ce1-4adb-4a0b-831d-93b4936335e7,hospitable.bayern,available,34.99,34.99,high,low,10,namesilo,,,21/08/2026 14:16
+5ebd2058-cfb7-4430-a516-fada32e1ea2d,gastronome.menu,available,27.99,27.99,high,low,10,namesilo,,,17/08/2026 10:44
+6dd98548-8ff0-4494-8a40-726064c3c436,ingredients.luxe,available,19.49,19.49,medium,low,11,namesilo,,,
+61a93e9b-8e54-4a21-b196-89f47302b64a,foodie.download,available,5.25,6.25,high,low,6,namesilo,,,17/08/2026 10:47
+36d2bab8-53ab-445f-b41c-0f9d1167d27c,formula.supply,available,27.48,33.48,high,low,7,namecheap,,,03/09/2026 21:16
+0555b84d-6a57-464a-a536-9f1f07ab37fd,cooking.site,premium,781.25,,high,low,7,name.com,,,
+328106ff-227c-455e-8c9b-9136687215e5,formula.maison,available,60.98,69.98,high,low,7,namecheap,,,03/09/2026 21:16
+27ff57e5-d498-4971-befa-ec7193e40403,meat.lease,available,56.99,56.99,high,low,4,namesilo,,,14/09/2026 23:51
+d9a3f341-8cb9-460c-9217-cab6215da8b4,welcoming.cv,available,9.99,9.99,high,low,9,namesilo,,,13/09/2026 10:14
+be37c3ba-d2e2-4985-bbe7-be143e179b8d,welcoming.bar,available,2.8,81.98,high,low,9,namecheap,,,13/09/2026 10:14
+2b2ce7cc-d39a-4c83-a8df-024b9266ca81,eatery.it,resell,,,high,high,6,,10/11/2018 16:00,10/12/2025 00:00,
+72e2a889-1e6a-44d3-91f8-f3a51a00c733,cooking.zone,premium,118.8,118.8,high,low,7,namesilo,,,08/09/2026 08:19
+0422f519-81ce-46d6-ad72-b78a0c9c1433,formula.audio,available,108.98,159.98,high,low,7,namecheap,,,03/09/2026 21:16
+f7bdfd02-8d0e-444d-bfb2-d6828849c5f8,epicure.builders,available,7.99,50.99,high,low,7,name.com,,,17/08/2026 10:42
+0fec05dd-8be5-4779-9fe3-925b348786d7,meat.partners,available,10.48,88.98,high,low,4,namecheap,,,14/09/2026 23:51
+d6414c22-ab7d-470e-8757-d2df2a71c888,cooking.online,premium,3250,13000,high,low,7,namecheap,,,08/09/2026 08:19
+19d7e013-9fa1-47b9-8d93-0496e481599b,formula.best,premium,105.7,105.7,high,low,7,namecheap,,,03/09/2026 21:16
+e1d3c412-bc03-4742-a376-a0e5df956a5f,ingredients.florist,available,14.99,,medium,low,11,name.com,,,
+9df6cad2-7e82-462d-b89b-88da43c8aab0,kitchen.group,resell,,,high,low,7,Dynadot Inc,08/06/2016 16:00,08/06/2027 16:00,
+37cfb688-3625-4c1e-b609-7a9a0129373c,ingredients.fishing,available,32.49,32.49,medium,low,11,namesilo,,,
+5a78dedb-6f2a-4d8e-a424-7868574d250b,foodie.boats,available,1.8,19.98,high,low,6,namecheap,,,17/08/2026 10:47
+98cbeb0a-7243-46c1-89f9-06c9e09813d3,epicure.tools,available,8.48,47.48,high,low,7,namecheap,,,17/08/2026 10:42
+bcdcee9c-742a-4619-95d7-075483161f6b,epicure.rich,available,94.99,1999,high,low,7,namesilo,,,17/08/2026 10:42
+14288f0e-8fce-4e3e-9c8c-94aad08d012d,cook.catering,premium,118.8,118.8,high,low,4,namesilo,,,
+0b74a4e7-73fb-4649-ad06-eda433ebc60f,meat.glass,available,72.99,72.99,high,low,4,namesilo,,,14/09/2026 23:51
+9cb756a0-6389-438c-9746-d5d796cf1dcd,meat.watch,available,3.48,56.98,high,low,4,namecheap,,,14/09/2026 23:51
+e9c9c1e2-5158-45af-a399-5e6c672b6e2e,organic.engineering,premium,78.54,78.54,high,low,7,namesilo,,,08/09/2026 11:55
+405f042d-aeaa-489e-8300-c5f0c43c3377,meat.desi,available,19.98,22.98,high,low,4,namecheap,,,14/09/2026 23:51
+6a5465a9-6f04-441f-926f-d4c4004e97ff,kitchen.store,premium,1562.5,,high,low,7,name.com,,,
+60c96dfa-e6d1-4c7b-bf82-7963bc3f69bd,ingredients.schule,available,19.99,,medium,low,11,name.com,,,
+9d01e3e0-5c53-4df4-a638-005fa753bd31,cooking.desi,available,19.98,22.98,high,low,7,namecheap,,,08/09/2026 08:19
+d984b3c1-6e65-4d42-8d91-6ffc68e0223a,foodie.wiki,premium,65,130,high,low,6,namecheap,,,17/08/2026 10:47
+163d36ce-ef8c-418d-b7ee-63736b75b663,formula.nyc,available,32.98,43.98,high,low,7,namecheap,,,03/09/2026 21:16
+cbab482d-76bb-458b-9063-47ec74c56a0e,welcoming.vegas,available,12.99,43.99,high,low,9,namesilo,,,13/09/2026 10:14
+c9fc0335-2f4a-4b4c-95e8-f3a8689f149c,formula.uno,premium,3250,3250,high,low,7,namecheap,,,03/09/2026 21:16
+f6c0cbeb-550a-4758-b9bc-fa1bee999965,foodie.cricket,available,23.59,23.59,high,low,6,namesilo,,,17/08/2026 10:47
+15590cc1-6c7c-4204-b922-9f1c6dffd9df,formula.insure,available,76.98,91.98,high,low,7,namecheap,,,03/09/2026 21:16
+ee5c97ff-ba83-4915-9ec3-97263d19ad61,epicure.chat,available,5.98,58.98,high,low,7,namecheap,,,17/08/2026 10:42
+8d94edc3-6ed0-44ca-8dbd-24430dc99e13,formula.cat,available,26.98,38.98,high,low,7,namecheap,,,03/09/2026 21:16
+52198964-59dd-4045-8fea-6e124c422a06,meat.sale,premium,242,242,high,low,4,namesilo,,,14/09/2026 23:51
+b3e8cfef-65a4-4e9a-b62c-4569e91fa1c8,meat.music,premium,908.7,48.1,high,low,4,namecheap,,,14/09/2026 23:51
+b2a80d89-353c-4b0a-8c0f-b8046ec457cc,kitchen.fish,premium,118.8,118.8,high,low,7,namesilo,,,
+9ee6a6b6-1315-45ab-bb5e-ba2085553936,meat.training,available,8.98,53.98,high,low,4,namecheap,,,14/09/2026 23:51
+0f0af6e5-832f-41f9-88ab-7ff394afb892,epicure.sexy,available,2749.99,2749.99,high,low,7,namesilo,,,17/08/2026 10:42
+9bf002f8-8071-4f4e-90ce-9328c0b6c5f1,liquid.lifestyle,premium,910,1300,high,high,6,namecheap,,,18/08/2026 09:15
+43c4cd74-a1db-4897-8bee-b832b812df0b,meat.plus,resell,,,high,low,4,"Chengdu West Dimension Digital Technology Co., Ltd.",06/11/2020 08:10,06/11/2026 08:10,14/09/2026 23:51
+8889594c-b071-4d90-9a73-7b6f9b27c122,cooking.expert,premium,854,854,high,low,7,namesilo,,,08/09/2026 08:19
+1283e8a3-039c-42ea-ad44-69990ac7433e,ingredients.kitchen,available,14.99,,high,low,11,name.com,,,
+7c65d9c2-9449-47e7-af3c-a1dff9aa9cb1,epicure.tips,available,12.98,42.48,high,low,7,namecheap,,,17/08/2026 10:42
+c02d5b54-d601-490d-bb28-99fd406de86c,foodie.love,premium,5250,7500,high,low,6,name.com,,,17/08/2026 10:47
+0f6cc006-3832-406f-b4e8-e7948e63ad8c,formula.protection,available,2070,2950,high,low,7,namecheap,,,03/09/2026 21:16
+c8e57ce1-986a-43b2-aa35-8b488644ebe1,foodie.sucks,available,218.99,218.99,high,low,6,namesilo,,,17/08/2026 10:47
+5fa694ae-8687-4cae-82d1-61254cbebb5a,ingredients.contact,available,14.99,14.99,medium,low,11,namesilo,,,
+ac621010-832f-43b9-960e-4c5af41486cc,ingredients.boats,available,1.99,,medium,low,11,name.com,,,
+adcddb50-5325-406c-986a-3bdb19aeb0d0,liquid.dealer,premium,2015,2600,high,high,6,namecheap,,,18/08/2026 09:15
+4e5ec333-482e-4781-aef8-e466b72f526b,bars.live,premium,118.8,118.8,high,low,4,namesilo,,,24/09/2026 08:25
+e1a52584-ec67-4ff7-9839-10f7be0a7e42,foodie.locker,premium,58.72,8.8,high,low,6,namesilo,,,17/08/2026 10:47
+3f74f883-2eb9-49aa-b7ba-bf189c51ab9b,formula.sydney,available,44.98,54.98,high,low,7,namecheap,,,03/09/2026 21:16
+9b3a3561-0f29-47ea-894b-c857ebeff485,cooking.tech,premium,1625,6500,high,low,7,namecheap,,,08/09/2026 08:19
+aebcb647-a96b-4e0e-bd3b-8961dc7500c3,welcoming.osaka,available,32.98,41.98,high,low,9,namecheap,,,13/09/2026 10:14
+46e0ed51-5be8-40bc-8004-66077d0ee98c,cooking.dev,premium,421.12,421.12,high,low,7,namesilo,,,08/09/2026 08:19
+a642ca6e-13fe-4894-add4-f30289db555a,ingredients.productions,available,14.99,,medium,low,11,name.com,,,
+d53fd8b3-e079-482e-84e0-6885527f15da,kitchen.us,resell,,,high,low,7,"GoDaddy.com, LLC",24/04/2002 14:07,23/04/2027 23:59,
+024a3457-ce58-4e2a-ae3b-4e30cdf3d920,ingredients.farm,available,13.99,,medium,low,11,name.com,,,
+a19a8408-e584-4e8c-a671-a13e03c1d77a,meat.mom,premium,832,832,high,low,4,namesilo,,,14/09/2026 23:51
+fcd286a3-5c63-4154-8e99-21958cdd7fd7,foodie.builders,available,7.99,50.99,high,low,6,name.com,,,17/08/2026 10:47
+f21e81ed-c3cc-4298-97b7-b2fb7552494f,cook.beer,premium,2500,,high,low,4,name.com,,,
+45403e4b-0fb9-4a83-82bd-a25a4f6b5b41,cooking.living,premium,910,1300,high,low,7,namecheap,,,08/09/2026 08:19
+db79f88c-5081-4f8c-81e2-a94696d217de,cooking.lifestyle,premium,910,1300,high,low,7,namecheap,,,08/09/2026 08:19
+dcac3b95-757b-4a80-ba5b-f7263770b9bc,foodie.rich,available,94.99,1999,high,low,6,namesilo,,,17/08/2026 10:47
+e364b89f-7e7d-4580-b47c-3be03f0f11dc,meat.insure,available,72.99,72.99,high,low,4,namesilo,,,14/09/2026 23:51
+7c0d14f7-2780-4734-94fe-8da3237fab40,souls.desi,available,22.98,,high,low,5,namecheap,,,
+67c063c8-83d7-4fd6-8651-3f95d5a32f60,cook.cafe,resell,,,high,low,4,"Sav.com, LLC - 36",12/04/2026 15:15,12/04/2027 15:15,
+ec464dad-9be9-435b-8a23-6de973497e4a,meat.yoga,available,32.49,32.49,high,low,4,namesilo,,,14/09/2026 23:51
+a3924823-cd46-4ba9-89b1-8fd08a74f671,ingredients.market,available,44.49,44.49,medium,low,11,namesilo,,,
+3edf0ece-64b1-4180-ab85-fa707e7cc3e0,ingredients.game,available,309.99,329.99,medium,low,11,namesilo,,,
+f04408e8-f98f-41a0-848c-311960afdf5b,recipe.recipes,resell,,,high,low,6,Porkbun LLC,26/06/2020 15:31,26/06/2026 15:31,
+22b4d32c-4df3-42eb-8b67-3d65cd36a372,ingredients.fyi,premium,17.7,17.7,medium,low,11,namesilo,,,
+f0d20ae2-446d-4e2b-8f80-17c6cd655626,epicure.pub,available,39.99,39.99,high,low,7,namesilo,,,17/08/2026 10:42
+a0793567-e14a-4cc4-9325-f8a5a0c08ae7,bar.food,premium,490,700,high,low,3,namecheap,,,
+6d33c670-7c10-48e4-951f-da36bbfec831,ingredients.house,available,27.99,,medium,low,11,name.com,,,
+4090a9a2-b1cc-44bf-853e-b0ef45c7d35c,cook.vin,available,11.99,,high,low,4,name.com,,,
+29aa86da-a1f9-44e8-868e-3ab245065b5f,cook.wine,available,9.99,,high,low,4,name.com,,,
+6cdfb987-4cc3-487c-bc09-36aee192dc69,cooking.ninja,premium,242,242,high,low,7,namesilo,,,08/09/2026 08:19
+e3203d65-24ce-4332-9199-3f50b7c207cf,foodie.ong,available,16.99,16.99,high,low,6,name.com,,,17/08/2026 10:47
+06188bd4-18ff-4f73-b109-28ce809b7e6d,water.style,available,7.98,49.98,high,medium,5,namecheap,,,08/09/2026 13:05
+1e443fd2-fda8-4f1f-b331-dfb517971cc3,organic.capital,premium,78.54,78.54,high,low,7,namesilo,,,08/09/2026 11:55
+e18aecee-07d6-4df5-80f4-ef32a89ac1bb,ingredients.loan,premium,437.5,,medium,low,11,name.com,,,
+fb3d8d61-1fd0-4d79-8eb9-f3631802f307,water.estate,resell,,,high,medium,5,Dynadot Inc,24/08/2026 17:00,24/08/2027 17:00,08/09/2026 13:05
+e73c0c88-fce3-4f08-b658-246dc11e69a6,ingredients.land,available,19.99,,medium,low,11,name.com,,,
+da4f1584-b26b-4d19-b78b-fc345c27434c,eating.shop,premium,625,,high,low,6,name.com,,,
+d5dcbf19-307d-4281-9a65-aca00b5fd109,cooking.kiwi,available,31.98,35.68,high,low,7,namecheap,,,08/09/2026 08:19
+2fed88da-a292-4711-b027-89ced9a3b1ca,cooking.cloud,premium,1300,2600,high,low,7,namecheap,,,08/09/2026 08:19
+000ece73-3ab0-4a55-975b-a50dee8124e0,foodie.red,available,9.48,28.48,high,low,6,namecheap,,,17/08/2026 10:47
+c788879a-3586-4e60-9c21-7c4080d7647d,cooking.co,premium,640,640,high,low,7,namesilo,,,08/09/2026 08:19
+c225583e-fa31-4c82-9551-b44c3d683e6d,cooking.life,resell,,,high,low,7,"Spaceship, Inc.",03/03/2018 08:37,03/03/2027 08:37,08/09/2026 08:19
+0faf0f0e-7161-4cd5-8d15-054a113d858a,souls.broker,available,19.99,,high,low,5,name.com,,,
+6f92e4e1-3394-4af8-b5f9-3e376f50c5f4,ingredients.flights,available,58.99,58.99,medium,low,11,namesilo,,,
+70d000c6-8e9b-4588-a823-336c8ab67906,beer.football,premium,118.8,118.8,high,low,4,namesilo,,,24/09/2026 08:26
+b3db1727-d313-4f16-8ebd-35bf3731080e,meat.discount,available,29.98,39.98,high,low,4,namecheap,,,14/09/2026 23:51
+40c72b4f-41cc-4c76-be11-6f7e57e67cae,formula.ngo,available,18.98,24.98,high,low,7,namecheap,,,03/09/2026 21:16
+fed48d30-7c15-4e85-8794-eff3ece34f41,ingredients.rent,available,17.99,59.99,medium,low,11,namesilo,,,
+836c9ab8-eaa0-4982-84bc-5ea5e057e8d5,cooking.dog,available,5.98,86.98,high,low,7,namecheap,,,08/09/2026 08:19
+c06e277d-a944-4953-8de2-ebfbbbdeb49e,cooking.vet,available,41.99,41.99,high,low,7,namesilo,,,08/09/2026 08:19
+b3ce41dd-cf61-4f31-87df-62d56f5909da,cooking.horse,premium,47.2,29.5,high,low,7,namesilo,,,08/09/2026 08:19
+45165d83-5ae9-4eb3-8602-5a189e36a4c3,menu.page,premium,623.75,,high,low,4,name.com,,,
+85c3ed95-1ed2-4a18-a74a-b077c96a4a0c,kitchen.site,premium,781.25,,high,low,7,name.com,,,
+ef41cc62-0ce0-407f-8365-c2846ba6f84a,pub.rest,premium,1968.75,,high,low,3,name.com,,,
+fb7b11f4-0d94-4f61-8879-7bde2267773f,ingredients.money,available,19.99,,medium,low,11,name.com,,,
+203f2196-e760-4b32-b470-768b490105de,drunk.bar,premium,787.5,1125,high,low,5,name.com,,,14/08/2026 20:17
+fbe0d60c-c956-484e-b105-0a9de34af2c9,formula.family,available,40.98,49.98,high,low,7,namecheap,,,03/09/2026 21:16
+461ec156-295a-4d0e-9486-97619912e26e,meat.sucks,premium,20475,20475,high,low,4,namecheap,,,14/09/2026 23:51
+bec22d42-88f7-4908-96ac-e2d4f7ca56ef,cook.coffee,premium,500,,high,low,4,name.com,,,
+e60a1903-5912-48f5-94c5-5979c0d02704,cooking.bayern,available,34.99,34.99,high,low,7,namesilo,,,08/09/2026 08:19
+e971063b-298d-4f37-a2de-e7c5236c91db,cooking.app,premium,2078.7,2078.7,high,low,7,namecheap,,,08/09/2026 08:19
+1ee8a303-27fd-408b-8b22-789828d1e138,kitchen.online,premium,3125,,high,low,7,name.com,,,
+8360ee3c-4331-4728-a6f4-26e2f661bf1c,ingredients.camera,available,21.99,,medium,low,11,name.com,,,
+b349ab69-e9a7-4eeb-8640-bce1bc7a0e81,lounge.coffee,available,6.98,47.98,high,low,6,namecheap,,,11/09/2026 08:25
+ff90d84c-6935-4ea5-ba72-c8a36d3ce9ec,ingredients.casino,available,12.79,159.99,medium,low,11,namesilo,,,
+a034de5b-d1c6-4aa1-970c-b0a2e30799b6,seafood.living,resell,,,high,low,7,Porkbun LLC,14/05/2026 21:20,14/05/2027 21:20,08/09/2026 02:47
+d06a51b4-804b-40d2-b846-c1c96f29d5c4,epicure.wiki,available,2.98,43.98,high,low,7,namecheap,,,17/08/2026 10:42
+831f9d99-c678-4983-a804-4d13f0705cad,ingredients.desi,available,22.98,,high,low,11,namecheap,,,
+2ac87bc5-ec1d-4160-90ae-d59f013d1df0,vegan.trade,premium,4002.43,,high,medium,5,"NameSilo, LLC",29/07/2019 18:44,29/07/2026 18:44,
+9ece5a8b-2298-4c5b-8dac-a4260fe3eeca,epicure.inc,available,279,2099,high,low,7,namesilo,,,17/08/2026 10:42
+6cced0e8-b27f-4f33-96e4-15e4a175d1cd,ingredients.talk,premium,75,,medium,low,11,name.com,,,
+5570bb5c-1ac5-477c-8be2-c7edd4da398a,ingredients.hamburg,available,59.99,,medium,low,11,name.com,,,
+6ec60bb7-0b2c-42f9-b603-39742b7ac7a6,epicure.dog,available,5.98,86.98,high,low,7,namecheap,,,17/08/2026 10:42
+d1244570-6656-45a5-aba4-5318a8b2c91d,foodie.trading,available,19.99,19.99,high,low,6,name.com,,,17/08/2026 10:47
+2553f2aa-34e1-424b-adaa-3b5e710ec833,cooking.xyz,premium,1300,1300,high,low,7,namecheap,,,
+bc682c57-8a74-411d-ad99-96a1e1b1573c,cooking.lat,available,1.99,32.49,high,low,7,namesilo,,,
+afff5043-1133-4473-9239-f69395fdd3ce,cooking.delivery,premium,118.8,118.8,high,low,7,namesilo,,,08/09/2026 08:19
+4d781d98-90d9-4d2d-b9f0-b0485e2670cd,cooking.fast,premium,640,640,high,low,7,namesilo,,,08/09/2026 08:19
+ea49d19e-c73a-4c4a-bdae-2d08f3821336,cooking.express,premium,38.94,38.94,high,low,7,namesilo,,,08/09/2026 08:19
+da71954f-0f82-4c9e-9bb1-e84d8479d38c,ingredients.pizza,available,19.99,,medium,low,11,name.com,,,
+2418431c-3c8c-4e71-b4f6-6346c94ba2f8,menu.pw,premium,4736.82,,high,low,4,Dynadot Inc,20/11/2021 10:06,20/11/2026 23:59,
+88d32100-d5c6-4728-a53b-3c3b0e00312a,formula.healthcare,available,93.98,111.98,high,low,7,namecheap,,,03/09/2026 21:16
+a40e987d-9a21-46b2-94cf-f470086c946f,pub.mobile,premium,750,,high,low,3,name.com,,,
+8a54e272-27e0-4f0c-b95b-76c5f5d0844c,meat.industries,premium,78.54,78.54,high,low,4,namesilo,,,14/09/2026 23:51
+8d7d1fa8-19ca-468d-b17a-3a3d8dfa8cf0,epicure.futbol,available,5.98,21.98,high,low,7,namecheap,,,17/08/2026 10:42
+6d22903d-5707-4316-a35e-663d7353f412,kitchen.expert,premium,854,854,high,low,7,namesilo,,,
+bdd2042c-26ac-4b44-a950-2921f4b75b76,cooking.miami,premium,96,21.24,high,low,7,namesilo,,,08/09/2026 08:19
+62a8e4e8-6587-4f5f-aca9-f9ccff24e84b,formula.soy,premium,217.1,217.1,high,low,7,namecheap,,,03/09/2026 21:16
+d3947daf-2d13-40cb-b156-023efb3c926e,kitchen.plumbing,premium,500,,high,low,7,name.com,,,
+bb7edc6a-4921-421c-b4b3-24960927672d,dough.haus,available,11.98,37.98,high,low,5,namecheap,,,08/09/2026 03:53
+fd334fd6-55f7-4935-bff4-d90ea39bf10c,formula.mba,available,11.98,49.98,high,low,7,namecheap,,,03/09/2026 21:16
+f11d41a9-e9c5-4d28-a5df-392882504241,foodie.country,available,2298,2450,high,low,6,namecheap,,,17/08/2026 10:47
+524162de-96b2-4666-b933-859255c1178c,cooking.melbourne,premium,58,58,high,low,7,namesilo,,,08/09/2026 08:19
+b53ae348-93ee-4af3-a339-fb770b41a6cf,cooking.hamburg,available,69.98,73.98,high,low,7,namecheap,,,08/09/2026 08:19
+f195ecb5-ce9f-48f8-b4f6-b7dc850a2d8f,cooking.sydney,premium,58,58,high,low,7,namesilo,,,08/09/2026 08:19
+0d91bac7-86d7-4b46-86b0-1d4a25e00a1c,cooking.london,premium,1407.19,35.18,high,low,7,namecheap,,,08/09/2026 08:19
+6d0d7303-dd72-4c8d-85a0-9fd3ab4bdbd4,cooking.vegas,available,12.99,43.99,high,low,7,namesilo,,,08/09/2026 08:19
+86b5475e-a174-40ec-8130-e77b3c26b2b9,cooking.barcelona,available,38.98,38.98,high,low,7,namecheap,,,08/09/2026 08:19
+715e3752-8b86-46f8-9249-e5a97a560402,cooking.boston,premium,96,21.24,high,low,7,namesilo,,,08/09/2026 08:19
+d3d8e8c2-b625-4fad-a706-08493008047b,formula.industries,available,47.98,58.98,high,low,7,namecheap,,,03/09/2026 21:16
+96cd966a-0f01-4537-9d9c-6d9f7c6449fa,ingredients.webcam,available,11.99,11.99,medium,low,11,namesilo,,,
+c25bd757-e59d-46b8-94da-cbaf75e3ce6b,hospitable.events,available,10.48,57.98,high,low,10,namecheap,,,21/08/2026 14:16
+a46af892-6a71-4e93-9a6f-c6f7f9988dd4,ingredients.vana,available,2498,,medium,low,11,namecheap,,,
+d97e23e8-2a40-447f-bab9-c87e4f813d85,ingredients.football,available,19.99,,medium,low,11,name.com,,,
+5e5ad410-575e-4281-bb11-7394d1c019f7,ingredients.auto,available,1999.99,2199,high,low,11,namesilo,,,
+8c48cdf0-480e-45f9-ba00-8a6fe10c65aa,gastronome.restaurant,available,11.98,81.98,high,low,10,namecheap,,,17/08/2026 10:44
+3b0868b8-60f9-46f2-818d-2714cd27035e,ingredients.car,available,1999.99,2199,high,low,11,namesilo,,,
+5a3126f3-2965-45ca-a697-5900fd8d376c,cooking.io,resell,,,high,low,7,"NameCheap, Inc.",25/11/2013 23:52,25/11/2026 23:52,08/09/2026 08:19
+ca5a4135-ebed-4300-bb96-60111d0a79dd,formula.pictures,available,16.48,20.98,high,low,7,namecheap,,,03/09/2026 21:16
+43b69a90-b05f-4f9d-a835-56e4f826d5b5,bar.fashion,resell,,,high,low,3,"Chengdu West Dimension Digital Technology Co., Ltd.",15/08/2026 15:47,15/08/2027 15:47,24/09/2026 07:01
+9dd6cd45-16db-4b1e-813d-1493172a8006,ingredients.deals,available,5.99,,medium,low,11,name.com,,,
+e59f0f52-0362-492a-99f2-9a8b630f4737,meat.eco,premium,9750,74.75,high,low,4,namecheap,,,14/09/2026 23:51
+2119c8f9-90f2-4b65-91fb-d5d17ff1f3cd,meat.bar,premium,819,1170,high,low,4,namecheap,,,14/09/2026 23:51
+535fb156-2304-48ee-83bb-429f88f2d1d4,formula.hiphop,available,25.98,33.98,high,low,7,namecheap,,,03/09/2026 21:16
+e3bc91bb-1933-4ced-bd68-7fa524ab17b1,formula.law,available,105.98,130.98,high,low,7,namecheap,,,03/09/2026 21:16
+8f62947d-55be-4e37-9ce0-5b944b3cf875,foodie.racing,available,11.99,11.99,high,low,6,namesilo,,,17/08/2026 10:47
+f5797e51-5352-4c3d-b075-e39f1f6fb207,formula.living,premium,455,650,high,low,7,namecheap,,,03/09/2026 21:16
+c12a2c21-774d-4b4e-9199-ced27c7f0201,eating.irish,available,5.98,31.98,high,low,6,namecheap,,,08/09/2026 13:35
+339e5e57-1d1b-4acb-818a-bbe530c7f64f,formula.film,available,77.98,97.98,high,low,7,namecheap,,,03/09/2026 21:16
+f9894f5c-c877-4606-bda9-92b067ad03e2,ingredients.tech,resell,,,high,low,11,"Chengdu West Dimension Digital Technology Co., Ltd.",05/03/2026 07:08,05/03/2027 23:59,
+3b3b57e1-7377-4326-b8fc-b7014150d06a,welcoming.homes,available,1.8,21.98,high,low,9,namecheap,,,13/09/2026 10:14
+3fe66f46-cb03-42f4-9c75-7d4b7dc7ba07,hospitable.host,available,4.99,109.99,high,low,10,namesilo,,,21/08/2026 14:16
+e8273f88-2735-42ec-b276-27d8573eb881,meat.id,available,14.19,20.75,high,low,4,namesilo,,,14/09/2026 23:51
+34f86d2b-b245-4b04-b74a-fdf6115887a4,foodie.tube,resell,,,high,low,6,"GoDaddy.com, LLC",25/03/2021 08:54,25/03/2027 08:54,17/08/2026 10:47
+80eabe00-5e27-4eea-affc-2a64cee8bbec,pub.menu,available,,,high,low,3,,,,
+221e185f-eb1c-4167-b47c-aed9bf1d278a,cooking.tax,premium,78.54,78.54,high,low,7,namesilo,,,08/09/2026 08:19
+edc13796-d20a-40b4-b625-4967dc5c6f04,water.surf,resell,,,high,medium,5,Dynadot Inc,27/04/2021 16:44,27/04/2027 16:44,08/09/2026 13:05
+db560d0a-644d-40d0-9ded-660f3dec02a7,foodie.group,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",27/06/2026 13:22,27/06/2027 13:22,17/08/2026 10:47
+382c93bc-01ba-4dcb-be8d-23cf7382c4cf,bar.cooking,premium,96,29.5,high,low,3,namesilo,,,
+ef9455ec-36dd-4c39-80b5-a9cdc34cb192,ingredients.chat,available,9.99,,medium,low,11,name.com,,,
+6d82fd6b-82d3-489d-9fed-779e6fb4e828,epicure.attorney,available,62.99,62.99,high,low,7,namesilo,,,17/08/2026 10:42
+e80ce758-1a60-4a52-92dc-51f534d49324,epicure.ag,available,89,141.99,high,low,7,name.com,,,17/08/2026 10:42
+a39ffda2-a6f7-42e2-b4d4-10fb4b5ffc2b,cooking.cx,available,18.99,18.99,high,low,7,namesilo,,,08/09/2026 08:19
+b4a3dc48-3901-484f-a3d5-2b21d15457ab,cooking.pw,premium,640,640,high,low,7,namesilo,,,08/09/2026 08:19
+f305b4b5-4d66-4c7b-8e17-e1921ad802dc,cooking.la,resell,,,high,low,7,LA Domain Names,03/11/2018 08:06,03/11/2026 23:59,08/09/2026 08:19
+bd3db17d-0dd4-4c88-aa38-41523e0fbc16,ingredients.global,available,59.99,,medium,low,11,name.com,,,
+5b33c340-0cf8-4b14-a29b-07b6e91ca5e0,foodie.tires,available,5.99,78.99,high,low,6,namesilo,,,17/08/2026 10:47
+7316b08a-3717-4704-912d-f4e522164e7b,ingredients.diamonds,available,54.99,54.99,medium,low,11,namesilo,,,
+515c8370-574e-4f01-88ba-d5e172e4ef58,ingredients.viajes,available,37.99,37.99,medium,low,11,namesilo,,,
+e283e6c6-cdaf-45fd-9f84-e2db8b61b7a4,welcoming.house,available,12.98,55.98,high,low,9,namecheap,,,13/09/2026 10:14
+4736c78b-cb7c-4c18-a1b9-80aa582ebc7f,foodie.camera,available,21.99,75.99,high,low,6,name.com,,,17/08/2026 10:47
+bf6639db-0ed7-4e89-a807-8b4a2c726fa4,kitchen.paris,premium,367.73,,high,low,7,name.com,,,
+e662dfc7-25be-4a00-ae27-657320c17c7a,tart.dad,premium,36.25,36.25,medium,low,4,name.com,,,13/08/2026 14:25
+7a0d8c80-a992-4551-9f21-86ab3fab3dd3,epicure.berlin,available,79.98,89.98,high,low,7,namecheap,,,17/08/2026 10:42
+1178e941-d1c8-4a8e-af31-7fcaf1cdcf5e,kitchen.tech,premium,1562.5,,high,low,7,name.com,,,
+302f8d68-d29d-4a6b-8358-f69c2c985b80,epicure.airforce,available,103.99,103.99,high,low,7,namesilo,,,17/08/2026 10:42
+5c947f1b-18f4-4637-ba74-ec1ac91c7977,kitchen.dev,premium,411.25,,high,low,7,name.com,,,
+4fd62d22-bce6-4e3e-bf17-7288b8a1ccdd,epicure.reise,available,27.89,97.99,high,low,7,namesilo,,,17/08/2026 10:42
+0cb949bd-4039-49ac-bf8c-f24bb21c796c,welcoming.cafe,available,5.98,64.98,high,low,9,namecheap,,,13/09/2026 10:14
+b83ac947-5163-4b2c-9c2c-f4d2fa5f777f,dining.cooking,available,32.49,32.49,high,low,6,namesilo,,,
+a39c2a27-bc59-45b4-b6ac-2f9f2bdf1a50,kitchen.osaka,available,39.99,,high,low,7,name.com,,,
+c40234fd-a31d-4189-807d-261c5f3f3140,meat.photography,available,6.98,46.48,high,low,4,namecheap,,,14/09/2026 23:51
+9531b94e-f77d-400f-8a64-13a866efe667,kitchen.cloud,premium,560,700,high,low,7,namecheap,,,
+b6800739-ff40-4a52-96f1-b40b06f97ffe,welcome.wine,available,8.48,75.98,high,low,7,namecheap,,,13/09/2026 10:12
+58664500-fae0-48a0-ba26-c94b8dfc9549,kitchen.lifestyle,premium,1960,2800,high,low,7,namecheap,,,
+5b3bee4b-499c-43db-8a1e-b4bcad8e7ebd,foodie.mortgage,available,14.99,81.99,high,low,6,name.com,,,17/08/2026 10:47
+15db2ed9-6283-4a50-915d-ff17a741c531,tart.vin,available,11.99,77.99,medium,low,4,name.com,,,13/08/2026 14:25
+f4461815-3696-4367-ba38-3eff50c0ced4,cooking.tienda,available,59.99,59.99,high,low,7,namesilo,,,08/09/2026 08:19
+f0c98533-8e44-467c-9ff0-912ce1ae4ba7,epicure.design,available,12.98,68.98,high,low,7,namecheap,,,17/08/2026 10:42
+07c03f64-bac5-4f0f-8f1d-e06f952210d0,cooking.vacations,premium,242,242,high,low,7,namesilo,,,08/09/2026 08:19
+354c1ff1-5420-4248-a065-e8b33136a46b,cooking.voyage,available,58.99,58.99,high,low,7,namesilo,,,08/09/2026 08:19
+a568e85e-d8c9-4994-95eb-ed07b248cf58,cooking.holiday,premium,242,242,high,low,7,namesilo,,,08/09/2026 08:19
+b7b76c73-5d1a-4025-ac78-ed3cfeab2a05,cooking.reisen,available,3.99,20.99,high,low,7,namesilo,,,08/09/2026 08:19
+33fa0866-a292-455c-8538-cab175ce8814,cooking.flights,premium,118.8,118.8,high,low,7,namesilo,,,08/09/2026 08:19
+1e7f4b42-1066-4e54-bd52-af352c4ac73b,cooking.viajes,available,37.99,37.99,high,low,7,namesilo,,,08/09/2026 08:19
+38443f0f-fcdd-4855-a848-5e525a948243,cooking.reise,available,27.89,97.99,high,low,7,namesilo,,,08/09/2026 08:19
+eb832733-b472-4444-bfb6-dd0ebf5bd9f4,cooking.bz,available,25,,high,low,7,name.com,,,
+8d0efb05-6e51-4665-a385-608a7f655cf2,meat.directory,available,4.98,36.98,high,low,4,namecheap,,,14/09/2026 23:51
+06037b79-e74d-4e3d-af23-c24a7cbf9949,bar.beer,premium,500,,high,low,3,name.com,,,
+4f0ec074-c11b-4224-a957-d9bf771225a2,liquid.security,available,1999.99,2049.99,high,high,6,namesilo,,,18/08/2026 09:15
+de79d15e-b720-49e5-beb0-ffe1e2405a7e,meat.institute,available,5.98,37.98,high,low,4,namecheap,,,14/09/2026 23:51
+5fa828d4-e066-4146-a57d-c13d6412e8b6,formula.glass,available,76.98,99.98,high,low,7,namecheap,,,03/09/2026 21:16
+19d0a691-cfcc-41b7-8992-6cd36a61bb9e,tart.baby,available,29.99,94.99,high,low,4,name.com,,,13/08/2026 14:25
+ced30f3c-8e9b-4297-9183-751a1a0b28df,culinary.so,available,,,high,high,8,,,,
+24c3a848-5afe-411e-8b18-205209638bab,meat.design,resell,,,high,low,4,"Spaceship, Inc.",11/07/2026 07:31,11/07/2027 07:31,14/09/2026 23:51
+38f0cadd-736a-4046-9185-ac57d0cf9711,ingredients.bike,available,14.99,,medium,low,11,name.com,,,
+f471eee8-c55f-4a14-b6dc-42be39da0ba5,ingredients.republican,available,5.99,,high,low,11,name.com,,,
+0a4941b7-ea36-4d8d-a5f0-ae4b579edbcf,epicure.archi,available,14.98,132.98,high,low,7,namecheap,,,17/08/2026 10:42
+8d23bf2a-cdb6-4821-99d8-93ed232d3f07,ingredients.observer,available,10.99,10.99,medium,low,11,namesilo,,,
+95e72937-19fa-493a-87ff-743d9fe065cd,foodie.hamburg,available,59.99,59.99,high,low,6,name.com,,,17/08/2026 10:47
+a51ac0de-d286-4e1f-81f3-387ec384ba88,cooking.ca,resell,,,high,low,7,BareMetal.com inc,18/10/2000 02:06,01/10/2027 04:00,08/09/2026 08:19
+93f9a67c-6136-45a8-b549-d12db6e7e533,cooking.uk,resell,,,high,low,7,Charles Scott t/a Domain Holdings UK,28/02/2019 10:21,29/02/2028 10:21,08/09/2026 08:19
+5128d8f5-194b-4731-bd37-bb34dfd0fd51,ingredients.forsale,available,19.99,,medium,low,11,name.com,,,
+3381145d-dc52-41e6-91de-2c0073dbdc76,cooking.so,available,,,high,low,7,,,,
+ce92b288-ac93-47ef-8ad2-15b82a9362f4,kitchen.bayern,available,34.99,34.99,high,low,7,namesilo,,,
+b226f4ad-dade-4b47-a2d5-dbb05acf088b,formula.pics,available,1.8,40.98,high,low,7,namecheap,,,03/09/2026 21:16
+12dd0257-4df1-4edf-9d36-73c8921effb9,kitchen.gg,resell,,,high,low,7,Dynadot Inc. (https://www.dynadot.com),,,
+b76dc766-db74-42bb-a5a9-40be1c884175,cooking.page,premium,1278.72,1278.72,high,low,7,namesilo,,,08/09/2026 08:19
+2c6fc481-1fc4-4a18-b785-e8e2955bbcda,liquid.asia,resell,,,high,high,6,CSL Computer Service Langenbach GmbH d/b/a Joker.com,11/07/2008 07:05,11/07/2027 07:05,18/08/2026 09:15
+47d40f26-caf3-4979-bb5d-e21ea8b6c24a,formula.faith,available,12.98,16.98,high,low,7,namecheap,,,03/09/2026 21:16
+e6a80b17-7413-45ee-8b4a-4e4c8883f569,welcoming.agency,available,4.98,41.98,high,low,9,namecheap,,,13/09/2026 10:14
+961f339e-eb3d-45eb-8855-dd9f342442e1,drunk.beer,premium,2500,46.99,high,low,5,name.com,,,14/08/2026 20:17
+96c14f6f-6ac7-409a-af58-1108bec0672a,foodie.storage,available,509.99,529.99,high,low,6,namesilo,,,17/08/2026 10:47
+24e64e81-57f0-48cb-aa59-39af2f0381a9,epicurean.food,available,4.98,48.98,high,low,9,namecheap,,,17/08/2026 10:40
+75b1f59f-733b-4909-9a01-070ec2d07168,tart.investments,available,14.99,170.99,medium,low,4,name.com,,,13/08/2026 14:25
+c5a56728-9c68-4fe9-ac56-75324eb71b69,cooking.pink,available,6.48,31.48,high,low,7,namecheap,,,08/09/2026 08:19
+4de7cc90-c8fb-4a85-a60c-8804edb8bd09,pub.food,premium,980,1400,high,low,3,namecheap,,,
+f4593e32-bbbe-46f2-b4bd-19c39b04c74a,ingredients.management,available,14.99,,medium,low,11,name.com,,,
+9c9302c9-64a3-4642-80af-a4ca23175a09,gastronome.rest,available,1.8,41.98,high,low,10,namecheap,,,17/08/2026 10:44
+c33650b1-0630-42e6-a735-2fa1cc7148af,epicure.financial,available,17.48,66.98,high,low,7,namecheap,,,17/08/2026 10:42
+1a3fe76f-860c-4c6c-9bd6-dbf160c07ee1,epicure.furniture,available,23.98,127.98,high,low,7,namecheap,,,17/08/2026 10:42
+ac5e0991-6b5d-495b-a7e8-678c37236283,formula.porn,available,69.98,154.98,high,low,7,namecheap,,,03/09/2026 21:16
+85f80c4b-66ff-46c2-8cdd-04837ef2d9d9,cooking.agency,resell,,,high,low,7,"Sav.com, LLC - 15",07/08/2025 15:15,07/08/2027 15:15,08/09/2026 08:19
+17983e11-c265-4591-a870-3b99e3279d9f,cooking.supply,premium,118.8,118.8,high,low,7,namesilo,,,08/09/2026 08:19
+6f9c3146-3934-452e-97c0-10dad2a12f73,kitchen.xyz,premium,3450,3450,high,low,7,namesilo,,,
+e566bed0-7361-49bd-a511-fcba28717a53,foodie.organic,available,19.99,73.99,high,low,6,name.com,,,17/08/2026 10:47
+915c88df-05c3-4c09-b042-ff232097b6c8,tart.photos,available,14.99,35.99,high,low,4,name.com,,,13/08/2026 14:25
+e8e84ab5-8f3e-4570-8e7b-a597a8b5acc2,tart.io,resell,,,high,low,4,"NameCheap, Inc.",05/07/2013 14:16,05/07/2027 14:16,13/08/2026 14:25
+41e3fa3b-de27-40ac-8a7b-41144561cb82,cooking.market,resell,,,high,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",11/01/2024 17:15,11/01/2027 17:15,08/09/2026 08:19
+09b930d6-5ec4-41a8-8267-f200e70d7864,kitchen.living,premium,1960,2800,high,low,7,namecheap,,,
+9ed5f44d-91ee-4b5f-9421-d1c7b5c0b2c3,drunk.coffee,available,6.98,47.98,high,low,5,namecheap,,,14/08/2026 20:17
+a69ee94f-a483-4645-a8fe-5f51417a8a45,kitchen.fast,premium,625,,high,low,7,name.com,,,
+2e354626-1bf5-4225-ae2d-f671ecd57d5f,kitchen.delivery,premium,78.54,78.54,high,low,7,namesilo,,,
+2489303a-fac5-46eb-9199-087251560519,tart.navy,available,42.99,52.99,medium,low,4,name.com,,,13/08/2026 14:25
+95966a37-bbb8-4037-a863-8d7b886a1e1f,tart.life,resell,,,medium,low,4,Dynadot Inc,08/12/2025 06:51,08/12/2026 06:51,13/08/2026 14:25
+14992adf-2c24-408a-a6a8-94a94ec8edfd,tart.science,available,34.99,37.99,medium,low,4,name.com,,,13/08/2026 14:25
+209c0350-caad-48f6-9f84-8259c63cc43b,epicure.sh,available,34.98,76.98,high,low,7,namecheap,,,17/08/2026 10:42
+7b846819-8e0c-43ea-a207-559c75c96fab,epicure.institute,available,5.98,37.98,high,low,7,namecheap,,,17/08/2026 10:42
+4336c4f6-5f6f-4273-a010-f400d72b2bde,ingredients.monster,available,1.99,,medium,low,11,name.com,,,
+2d56c6f1-ebfd-4661-8e10-1a2c950c6362,ingredients.lifestyle,available,5.49,39.99,medium,low,11,namesilo,,,
+8227b0e0-1e56-4814-bb4a-2f6cb507623d,tart.garden,available,46.99,46.99,medium,low,4,name.com,,,13/08/2026 14:25
+0f06000f-4dcb-4381-b2a9-3d393fe03fbb,cooking.tours,available,5.98,81.98,high,low,7,namecheap,,,08/09/2026 08:19
+86a196c1-92d1-40c6-bfdb-b6dac27bdfc1,cooking.boutique,premium,78.54,78.54,high,low,7,namesilo,,,08/09/2026 08:19
+a0eaaa16-beeb-43af-ac7f-7d3fd1d4c5a2,ingredients.ing,premium,187.5,,medium,low,11,name.com,,,
+05abf04d-3f2e-46bd-ac03-258fe00ecfe5,kitchen.vet,available,41.99,41.99,high,low,7,namesilo,,,
+b205498c-c29e-4f03-98ec-1b1e0357a4b9,cooking.giving,available,7.48,35.98,high,low,7,namecheap,,,08/09/2026 08:19
+0e3e287e-8d76-4896-bf20-b41dac8a0ec5,ingredients.broker,available,19.99,,medium,low,11,name.com,,,
+70cbd8d6-9652-4920-954c-0256201adc5f,meat.how,premium,244.4,244.4,high,low,4,namecheap,,,14/09/2026 23:51
+ba2d9695-f02f-4cc2-9457-cf6495d53938,cook.vodka,premium,500,,high,low,4,name.com,,,
+6221563c-af27-4355-9b2b-f4397a19d890,cooking.supplies,premium,242,242,high,low,7,namesilo,,,08/09/2026 08:19
+7086269c-9a7d-4c3a-9d5d-b998efa9f741,epicure.rehab,available,14.99,52.99,high,low,7,name.com,,,17/08/2026 10:42
+2f5c68af-2ca7-46f1-9e71-ad5d3b7062e8,cooking.diy,premium,910,1300,high,low,7,namecheap,,,08/09/2026 08:19
+aea5db93-6bb7-441a-9261-1d35518fd9ca,tart.furniture,available,39.99,151.99,medium,low,4,name.com,,,13/08/2026 14:25
+51bf2d7b-a9e0-4d32-9c49-22cd29a0c509,foodie.spot,premium,116,116,high,low,6,namesilo,,,17/08/2026 10:47
+a6f5ad0a-72af-47b8-a6ef-bc023c2f2885,ingredients.inc,premium,2170,2800,medium,low,11,namecheap,,,
+e13a18f8-ed64-4410-8a40-1d94ae2a8609,ingredients.city,available,7.99,,medium,low,11,name.com,,,
+2900f258-bad6-481a-b37f-5980a6f3b9cc,epicure.international,available,9.48,40.48,high,low,7,namecheap,,,17/08/2026 10:42
+16b71916-e531-4d36-a52a-9e18ecc7ebbd,cooking.wedding,available,32.49,32.49,high,low,7,namesilo,,,08/09/2026 08:19
+6525d097-3335-4132-b3b5-0f01ca159691,beer.kim,available,12.99,23.49,high,low,4,namesilo,,,24/09/2026 08:26
+ced586f9-a86f-46d2-b23c-d3c3e712f82f,cooking.im,available,,,high,low,7,,,,
+93f78a60-964a-4f1a-8d38-8479bb33d914,cooking.garden,premium,512,29.5,high,low,7,namesilo,,,08/09/2026 08:19
+831b740e-557d-4b7f-a6ab-c2ab2869cbc4,meat.top,premium,710.66,710.66,high,low,4,namesilo,,,14/09/2026 23:51
+08ba84c9-61ec-4f7d-b8b2-3dbf3c113ca0,kitchen.barcelona,available,38.98,,high,low,7,namecheap,,,
+ca1ded17-868d-430d-8874-d4422ce545f5,kitchen.london,premium,679.56,,high,low,7,name.com,,,
+2d3a1eed-508e-4376-9816-ce6c56221bd2,kitchen.sydney,premium,453.53,,high,low,7,name.com,,,
+8d1f8c12-17fa-4770-bb97-a4ec99901949,kitchen.boston,premium,500,,high,low,7,name.com,,,
+269af7fc-35f5-4020-b384-c3e69e47319d,kitchen.melbourne,premium,453.53,,high,low,7,name.com,,,
+dcd87d16-2300-4284-9e5d-cdf34ac0f63e,kitchen.hamburg,available,59.99,,high,low,7,name.com,,,
+86eb1b75-932d-4ab7-8056-594c9889a4c3,cooking.ryukyu,available,22.98,,high,low,7,namecheap,,,
+df4d46d6-d7ea-4cf5-9342-4933b20d4860,cooking.town,premium,78.54,78.54,high,low,7,namesilo,,,08/09/2026 08:19
+eef68852-677c-48d9-bafa-7f85fa8e0599,formula.date,premium,390,65,high,low,7,namecheap,,,03/09/2026 21:16
+b456bd46-946e-4cef-83d8-bd33af6071d1,cooking.onl,premium,53.92,116,high,low,7,namesilo,,,08/09/2026 08:19
+35075ca0-7df4-43af-bb2e-b90d6f116edb,cooking.website,premium,1625,3250,high,low,7,namecheap,,,08/09/2026 08:19
+4c9cbcbd-4e17-4280-b1cc-6e14b0c78c81,epicure.digital,available,2.98,53.98,high,low,7,namecheap,,,17/08/2026 10:42
+a989efd5-bc95-46de-b6a2-845216efad77,cooking.productions,premium,118.8,118.8,high,low,7,namesilo,,,08/09/2026 08:19
+fef4bc1e-2149-48e9-b500-915a5f084346,cooking.cleaning,premium,118.8,118.8,high,low,7,namesilo,,,08/09/2026 08:19
+bbc56a18-b61f-4ace-90ce-3379b558b5f3,meat.sarl,available,6.98,8.98,high,low,4,namecheap,,,14/09/2026 23:51
+f1ca98f2-d463-4c11-a622-76f671a89ee3,formula.sex,available,69.98,154.98,high,low,7,namecheap,,,03/09/2026 21:16
+4e24ab1b-0702-4cfb-934d-888cbe54ff4d,cooking.equipment,available,28.99,28.99,high,low,7,namesilo,,,08/09/2026 08:19
+4f859f62-87c8-43c2-8127-d72e91b713bf,cooking.works,premium,512,512,high,low,7,namesilo,,,08/09/2026 08:19
+96b26be5-1b56-4a43-8e87-d028189b8b76,cooking.gives,available,7.48,37.98,high,low,7,namecheap,,,08/09/2026 08:19
+b58b6c5d-8331-4eea-bdf0-c5de5dd970c8,cooking.gift,available,14.99,14.99,high,low,7,namesilo,,,08/09/2026 08:19
+4b3e5add-d947-4290-80b4-6968bcc5f6f5,hospitable.ag,available,89,141.99,high,low,10,name.com,,,21/08/2026 14:16
+4aae0416-456f-48ff-8af7-6f545b8e8e02,ingredients.sydney,available,54.98,,medium,low,11,namecheap,,,
+32b52a51-537f-4377-8eb8-06e3051afeff,cooking.kaufen,available,5.99,26.99,high,low,7,namesilo,,,08/09/2026 08:19
+29982307-498d-4f82-b9aa-142069d6983d,ingredients.gold,available,9.99,,medium,low,11,name.com,,,
+bbc7f544-29f1-4460-8e35-3c7e7b0b72bd,cooking.salon,available,55.98,69.98,high,low,7,namecheap,,,08/09/2026 08:19
+bc420a39-151c-4e9a-84b1-39f5e8341c48,drunk.sydney,premium,88.55,88.55,high,low,5,name.com,,,14/08/2026 20:17
+3143e77f-6ba6-4a85-93a2-9bb50e266fd1,cooking.eco,premium,1950,74.75,high,low,7,namecheap,,,08/09/2026 08:19
+8004cb78-dc7b-46b7-992a-330fffa62616,cooking.green,premium,640,640,high,low,7,namesilo,,,08/09/2026 08:19
