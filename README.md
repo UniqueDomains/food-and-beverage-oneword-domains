@@ -1,10 +1,10 @@
-# One-Word Food & Beverage Domain Names (236,271)
+# One-Word Food & Beverage Domain Names (238,686)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-236%2C271%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-238%2C686%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes one-word domain names built around food and beverage keywords, spanning 506 TLDs. The median ask across this set is $747. Updated daily, it covers culinary and drink-related terms across mainstream and niche extensions.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **236,271 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **238,686 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 236,271 domains · **Median ask:** $289.95 · **High-demand under $2,500:** 764
+**Public extract:** 1,000 rows · **Live catalog:** 238,686 domains · **Median ask:** $288.05 · **High-demand under $2,500:** 741
 
 **Last updated:** 2026-10-08
 **Canonical page:** `https://unique.domains/domains/sector/food-and-beverage`
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain           | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar        |
 | ---------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| chef.furniture   | available | $23.98      | $127.98       | high           | low    | 4      | namecheap        |
+| chef.archi       | available | $19.99      | $103.99       | high           | low    | 4      | namesilo         |
 | food.la          | resell    | $148,062.50 | —             | high           | medium | 4      | Dynadot LLC      |
-| chef.discount    | premium   | $128.70     | $128.70       | high           | low    | 4      | namecheap        |
-| food.accountants | available | $90.20      | $90.20        | high           | medium | 4      | cloudflare       |
+| pub.food         | premium   | $724.70     | $1,035.20     | high           | low    | 3      | spaceship        |
+| chef.coupons     | available | $5.99       | $54.99        | high           | low    | 4      | namesilo         |
 | food.services    | resell    | $260        | $260          | high           | medium | 4      | Spaceship, Inc.  |
 | chef.food        | premium   | $302.50     | $302.50       | high           | low    | 4      | namesilo         |
-| food.actor       | available | $16.99      | $44.49        | high           | medium | 4      | namesilo         |
+| food.accountants | available | $117.99     | $117.99       | high           | medium | 4      | namesilo         |
 | drink.run        | resell    | $6.99       | —             | high           | low    | 5      | Spaceship, Inc.  |
-| chef.gay         | premium   | $116        | $116          | high           | low    | 4      | namesilo         |
-| food.airforce    | available | $109.98     | $134.98       | high           | medium | 4      | namecheap        |
+| chef.pizza       | premium   | $520        | $520          | high           | low    | 4      | namecheap        |
+| food.airforce    | available | $83         | $83           | high           | medium | 4      | spaceship        |
 | drink.technology | resell    | $17.99      | $41.99        | high           | low    | 5      | Spaceship, Inc.  |
-| chef.lifestyle   | premium   | $302.50     | $302.50       | high           | low    | 4      | namesilo         |
+| chef.tech        | premium   | $6,900      | $6,900        | high           | low    | 4      | namesilo         |
 | food.apartments  | available | $45.74      | $45.74        | high           | medium | 4      | spaceship        |
 | cuisine.fm       | resell    | $99         | —             | high           | low    | 7      | NameCheap, Inc.  |
-| chef.pizza       | premium   | $520        | $520          | high           | low    | 4      | namecheap        |
-| food.auto        | available | $2,140.22   | $2,140.22     | high           | medium | 4      | dynadot          |
+| food.accountant  | premium   | $455        | $65           | high           | medium | 4      | namecheap        |
+| food.archi       | available | $13.14      | $83           | high           | medium | 4      | spaceship        |
 | beverage.co      | resell    | $86,250     | $48.99        | high           | low    | 8      | GoDaddy.com, LLC |
-| chef.pw          | premium   | $640        | $640          | high           | low    | 4      | namesilo         |
-| food.car         | available | $1,863.20   | $2,064.20     | high           | medium | 4      | spaceship        |
+| food.army        | premium   | $242        | $242          | high           | medium | 4      | namesilo         |
+| food.auto        | available | $1,999.99   | $2,199        | high           | medium | 4      | namesilo         |
 | beverage.supply  | resell    | $27.48      | $33.48        | high           | low    | 8      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 236,271 live domains                                 |
+| 1,000-row public sample | 238,686 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 764 high-demand names under $2,500                   |
+| Basic exported fields   | 741 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
