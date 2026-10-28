@@ -12,6 +12,7 @@ ec015c38-8187-4cff-863b-f0c80e8a312b,food.pw,premium,3450,3450,high,high,4,names
 aa187d86-8522-46a1-860a-58b7cf5270a6,food.lifestyle,premium,1449.2,2070.2,high,high,4,spaceship,,,27/10/2026 01:57
 6251b923-b056-4113-9ca7-d6e9c5bd2b27,food.cruises,premium,242,242,high,high,4,namesilo,,,27/10/2026 01:57
 c5075fe3-2255-4055-94f1-eaa9bf0ff967,food.moi,premium,3450,3450,high,high,4,namesilo,,,27/10/2026 01:57
+f7d9a679-e44a-4f4a-9cc4-85f67715e084,food.associates,premium,128.7,128.7,high,high,4,namecheap,,,27/10/2026 01:57
 e4ba0a58-130b-4398-a8c6-3a850bd42e06,food.holdings,premium,242,242,high,high,4,namesilo,,,27/10/2026 01:57
 0f4b4199-4b9f-4a17-8b31-2ca1037ebdb0,food.fun,premium,6900,6900,high,high,4,namesilo,,,27/10/2026 01:57
 bbe7c92f-a5d3-4350-b1ce-437fce33566d,food.hockey,available,47.81,47.81,high,high,4,spaceship,,,27/10/2026 01:57
@@ -34,6 +35,7 @@ ec559946-2e68-47d7-a7bf-70d785e04402,food.site,premium,6900,6900,high,high,4,nam
 e8480ff2-13db-4919-a9b7-f983076c0ef3,food.construction,available,30.2,30.2,high,high,4,cloudflare,,,27/10/2026 01:57
 f1b1b914-1a11-428d-98aa-49076efd8aba,food.engineer,premium,1107,1107,high,high,4,namesilo,,,27/10/2026 01:57
 e4649fc7-11f0-4add-83bb-9f8b35f23bc2,food.salon,available,10.81,50.98,high,high,4,porkbun,,,27/10/2026 01:57
+0f234004-9755-4478-ba9d-7a0b41d9b036,food.supplies,premium,,,high,high,4,,,,27/10/2026 04:51
 50b82993-1a89-4c91-ae63-a952345c5157,food.gay,premium,109.69,109.69,high,high,4,porkbun,,,27/10/2026 01:57
 679344db-0668-46ec-8610-4466cc3ddca3,beverage.restaurant,available,20.99,64.99,high,low,8,namesilo,,,07/10/2026 00:20
 72dcf3ba-9ec3-4b81-9d9e-1c016ef425fe,food.spot,premium,1107,1107,high,high,4,namesilo,,,27/10/2026 01:57
@@ -204,6 +206,7 @@ ef9c68c1-bd94-4c41-be02-ea05e0e2808d,beverage.health,premium,1100,64.42,high,low
 a519f029-77d7-4cb2-9dd0-796eff95cea0,beverage.energy,available,5.38,93.35,high,low,8,spaceship,,,07/10/2026 00:20
 c5aa8f2f-20f0-45e2-877e-f5a44ac69be1,drink.engineering,available,9.52,51.95,high,high,5,spaceship,,,25/10/2026 09:34
 e952ecf0-f5e8-4346-a930-3272dc49df24,beverage.dog,available,7.49,64.99,high,low,8,namesilo,,,07/10/2026 00:20
+17f6e428-e9c7-4965-9744-8686cc1a618e,drink.rent,available,5,81.98,high,high,5,namecheap,,,25/10/2026 09:34
 fd5d5509-194b-4ac7-93e3-cc46e80e63b0,beverage.how,available,20.84,20.84,high,low,8,spaceship,,,07/10/2026 00:20
 e1348307-e103-4999-a2a8-31a3a82866aa,food.rehab,premium,1035.2,1035.2,high,high,4,spaceship,,,27/10/2026 01:57
 3146a36e-54e4-40ed-a906-aacb524fec16,beverage.trading,available,16.76,16.76,high,low,8,spaceship,,,07/10/2026 00:20
@@ -221,7 +224,7 @@ f7919a5e-81e9-40a9-aee7-c7af57cb1922,beverage.gifts,available,36.99,36.99,high,l
 1b4fadc6-20d5-43f2-9da2-a6d2f28004c5,drink.meme,premium,1345.7,1345.7,high,high,5,spaceship,,,25/10/2026 09:34
 110c12b8-5e28-401d-824d-c40553bdc7e2,drink.reise,available,27.89,97.99,high,high,5,namesilo,,,25/10/2026 09:34
 7c4dd263-fc11-45fe-99ab-977245cde8c9,food.vacations,premium,,,high,high,4,"Name.com, Inc.",07/04/2021 12:53,07/04/2027 12:53,27/10/2026 01:57
-211de701-aecd-44cb-8ffb-f20027851acb,drink.gold,available,80.2,80.2,high,high,5,cloudflare,,,26/10/2026 04:44
+211de701-aecd-44cb-8ffb-f20027851acb,drink.gold,available,9.99,99.99,high,high,5,namesilo,,,27/10/2026 04:48
 893bda8a-0dac-4573-babe-b2377b4e5a16,drink.cooking,premium,41.6,26.08,high,high,5,spaceship,,,25/10/2026 09:34
 00116488-07ce-4702-bae7-d644bf84433a,beverage.cat,available,18.83,25.04,high,low,8,spaceship,,,07/10/2026 00:20
 488d4341-3888-45d6-ac3f-fe4693dc2f81,food.maison,available,57.99,57.99,high,high,4,namesilo,,,27/10/2026 01:57
@@ -411,6 +414,7 @@ d0d13b5d-e602-453f-b44f-3358d107d81e,beverage.horse,available,32.49,32.49,high,l
 bb015ce9-7344-4b9f-b3c3-02287d3d3c85,drink.mba,available,10.81,34.5,high,high,5,porkbun,,,25/10/2026 09:34
 666c484f-0a33-4fce-9b5b-a1887d0fd5b2,beverage.foundation,available,14.99,23.99,high,low,8,namesilo,,,07/10/2026 00:20
 4e37958d-1bfa-47b0-8120-9a4ed753d0eb,food.memorial,available,41.6,41.6,high,high,4,spaceship,,,27/10/2026 01:57
+84a4c8dd-2682-4483-88f8-da1711d0a887,cuisine.style,premium,99.5,118.8,high,low,7,unstoppable,,,08/10/2026 23:02
 d97a3988-7215-48d4-9a5c-d883d9dabc6b,cuisine.vodka,available,26.08,26.08,high,low,7,spaceship,,,08/10/2026 23:02
 6debbcb6-328f-4a76-ace8-3c2286795f39,drink.flights,available,32.32,53.72,high,high,5,dynadot,,,25/10/2026 09:34
 c98eb066-2643-4b38-885a-3d8ca53e1964,cuisine.salon,available,44.2,44.2,high,low,7,cloudflare,,,08/10/2026 23:02
@@ -437,7 +441,6 @@ fde07b35-02fa-4f30-ba83-ba3f2155206f,drink.giving,available,5.99,22.66,high,high
 f0deec53-f46e-443e-a6d4-596b5e327ce6,beverage.fm,available,67.98,87.72,high,low,8,spaceship,,,07/10/2026 00:20
 52dc99e1-b113-4bbb-a183-d2c67f288aa0,beverage.tel,available,9.76,9.76,high,low,8,dynadot,,,07/10/2026 00:20
 4e435283-2f71-43c5-8f3a-2547a441f72c,drink.fast,premium,103.7,102.67,high,high,5,spaceship,,,25/10/2026 09:34
-f7d9a679-e44a-4f4a-9cc4-85f67715e084,food.associates,premium,128.7,128.7,high,high,4,namecheap,,,27/10/2026 01:57
 3266cf55-9033-46a4-afe3-3521f584fe15,drink.online,premium,1293.95,5175.2,high,high,5,spaceship,,,25/10/2026 09:34
 54911841-f35d-4d95-9b5a-8544c6aa8c1c,beverage.salon,available,44.2,44.2,high,low,8,cloudflare,,,07/10/2026 00:20
 a19c7350-de73-474e-8ded-1a3d94d1fded,beverage.us,resell,,,high,low,8,Dynadot Inc,24/04/2002 14:12,23/04/2027 23:59,07/10/2026 00:20
@@ -512,6 +515,7 @@ cd5f5624-d16c-446f-906e-a637894b62fd,restaurant.kiwi,premium,61.75,61.75,high,lo
 5a2a143b-4144-4e68-83ca-d9ddcc34cbc4,cuisine.hospital,available,58,58,high,low,7,dynadot,,,08/10/2026 23:02
 8e116a93-c0bb-4567-83aa-ce8e3afc871c,cuisine.stream,premium,448,53.92,high,low,7,namesilo,,,08/10/2026 23:02
 696ee4e0-308d-4c35-ab9c-47c846527d72,drink.fashion,premium,44,26.97,high,high,5,dynadot,,,25/10/2026 09:34
+30d299b3-451f-4c8a-ad30-29108836ec43,restaurant.global,premium,4140.2,51.95,high,low,10,spaceship,,,12/10/2026 15:15
 f2092524-159f-47fd-84b1-b4c790b8bca8,beverage.cheap,available,28.2,28.2,high,low,8,cloudflare,,,07/10/2026 00:20
 4273addc-fb57-4375-b8c8-04eb54d0f7d8,beverage.best,available,2.35,22.99,high,low,8,namesilo,,,07/10/2026 00:20
 53adc599-8d39-40d7-84b9-ffe483eadbeb,drink.moe,available,13.99,13.99,high,high,5,namesilo,,,25/10/2026 09:34
@@ -683,7 +687,7 @@ e6cc686b-4253-48aa-bf3e-8ad60ba8446d,cuisine.jetzt,available,23.99,23.99,high,lo
 d3eb1a27-17d3-479d-b8d0-a0c97d161d34,kitchen.food,premium,1449.2,2070.2,high,low,7,spaceship,,,30/09/2026 01:38
 d481059e-038f-41b4-b93c-0ce286f82d82,drink.organic,available,17.99,85.99,high,high,5,namesilo,,,25/10/2026 09:34
 08ccd8ef-873d-4500-96b1-20fe36a7c3d7,beverage.estate,available,6.98,52.98,high,low,8,namecheap,,,07/10/2026 00:20
-04b05048-4d91-487d-868e-3f2c8beb5dae,drink.rentals,available,6.41,35.39,high,high,5,spaceship,,,26/10/2026 04:44
+04b05048-4d91-487d-868e-3f2c8beb5dae,drink.rentals,available,10.5,35.39,high,high,5,unstoppable,,,27/10/2026 04:48
 11db485f-4335-4af0-a360-124b2960d770,beverage.glass,available,56.2,56.2,high,low,8,cloudflare,,,07/10/2026 00:20
 7b4c47bd-78be-457a-95f2-c8369774d348,cuisine.fail,available,31.25,31.25,high,low,7,spaceship,,,08/10/2026 23:02
 579b73eb-9628-4fe4-a652-3f80e6a11637,restaurant.study,premium,110,110,high,low,10,dynadot,,,12/10/2026 15:15
@@ -995,7 +999,3 @@ a856fb74-cb71-4565-9674-d5ac2ff138dc,cuisine.cleaning,available,75.49,75.49,high
 85082f25-b7bf-439b-9aa0-ddd6de2055b8,kitchen.live,resell,,,high,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",26/06/2016 08:51,26/06/2028 08:51,30/09/2026 01:38
 77e9db23-fd68-4032-aa80-0adc3077e0c4,cooking.spot,premium,517.7,517.7,high,low,7,spaceship,,,08/10/2026 08:31
 bdc69cce-654d-457d-a79d-d8019868aa0b,cook.pizza,premium,242,242,high,medium,4,namesilo,,,27/09/2026 10:07
-530b0f90-6c46-4f0e-9c34-c4882859e8ca,meal.tax,available,14.99,67.49,high,low,4,namesilo,,,25/09/2026 09:17
-994e72af-d96d-40de-8a07-46f0a035ed88,cafe.menu,available,,,high,low,4,,,,10/10/2026 09:34
-a6667ddb-0d08-4dfe-831e-22cdd4c42de9,beverage.voyage,available,46.78,46.78,high,low,8,spaceship,,,07/10/2026 00:20
-6c0ae577-d8e2-4525-a391-278d5b083c7f,cooking.estate,available,15.99,38.99,high,low,7,namesilo,,,08/10/2026 08:31
