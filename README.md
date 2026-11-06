@@ -1,10 +1,10 @@
-# One-Word Food & Beverage Domain Names (255,953)
+# One-Word Food & Beverage Domain Names (255,850)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-255%2C953%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-255%2C850%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes one-word domain names built around food and beverage keywords, spanning 506 TLDs. The median ask across this set is $747. Updated daily, it covers culinary and drink-related terms across mainstream and niche extensions.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **255,953 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **255,850 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 255,953 domains · **Median ask:** $265.30 · **High-demand under $2,500:** 4,261
+**Public extract:** 1,000 rows · **Live catalog:** 255,850 domains · **Median ask:** $266.70 · **High-demand under $2,500:** 4,584
 
 **Last updated:** 2026-11-05
 **Canonical page:** `https://unique.domains/domains/sector/food-and-beverage`
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 255,953 live domains                                 |
+| 1,000-row public sample | 255,850 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 4,261 high-demand names under $2,500                 |
+| Basic exported fields   | 4,584 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
